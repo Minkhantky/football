@@ -251,7 +251,7 @@
       },
       {
         "name": "HD ",
-        "link": "http://195.178.110.25/hls/NNNN.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "https://a51.azplay24.me/hls/streama247671/index.m3u8?cst=df788fcd76bbe27d81599d839093ba04",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Stoiximan Super League",
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -1764,7 +1764,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Cyprus Cup",
@@ -1795,7 +1795,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Cyprus Cup",
