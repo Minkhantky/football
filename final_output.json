@@ -1,89 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "04-02-2026 10:30 PM",
-    "endTime": "05-02-2026 12:50 AM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "Panathinaikos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3248/image"
-    },
-    "away": {
-      "name": "OFI Crete",
-      "logo": "https://img.sofascore.com/api/v1/team/3241/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 10:30 PM",
-    "endTime": "05-02-2026 12:50 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "UTA Arad",
-      "logo": "https://img.sofascore.com/api/v1/team/204657/image"
-    },
-    "away": {
-      "name": "CFR 1907 Cluj",
-      "logo": "https://img.sofascore.com/api/v1/team/5287/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 11:00 PM",
-    "endTime": "05-02-2026 01:20 AM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "Asteras Aktor",
-      "logo": "https://img.sofascore.com/api/v1/team/6342/image"
-    },
-    "away": {
-      "name": "Olympiacos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3245/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/NYNYNYQQH.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/asteras-tripolis-vs-olympiakos-piraeus-football-1400855\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "04-02-2026 11:30 PM",
     "endTime": "05-02-2026 01:50 AM",
     "LeagueName": "UEFA Youth League",
@@ -235,7 +152,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 01:00 AM",
     "endTime": "05-02-2026 03:20 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -248,10 +165,25 @@
       "name": "FC Dinamo București",
       "logo": "https://img.sofascore.com/api/v1/team/3292/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 01:00 AM",
     "endTime": "05-02-2026 03:20 AM",
     "LeagueName": "Greek Football Cup",
@@ -264,7 +196,22 @@
       "name": "PAOK",
       "logo": "https://img.sofascore.com/api/v1/team/3251/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/NYNYNYQQH.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/panathinaikos-vs-paok-football-1507999\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1481,89 +1428,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/5970/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 10:30 PM",
-    "endTime": "05-02-2026 12:50 AM",
-    "LeagueName": "Cyprus Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/315/image/dark",
-    "home": {
-      "name": "Apollon Limassol",
-      "logo": "https://img.sofascore.com/api/v1/team/3402/image"
-    },
-    "away": {
-      "name": "Omonia Aradippou",
-      "logo": "https://img.sofascore.com/api/v1/team/25542/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/NYNYNYQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.107.90/hls/NYNYNYQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 10:30 PM",
-    "endTime": "05-02-2026 12:50 AM",
-    "LeagueName": "Cyprus Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/315/image/dark",
-    "home": {
-      "name": "Apollon Limassol",
-      "logo": "https://img.sofascore.com/api/v1/team/3402/image"
-    },
-    "away": {
-      "name": "Omonia Aradippou",
-      "logo": "https://img.sofascore.com/api/v1/team/25542/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 11:00 PM",
-    "endTime": "05-02-2026 01:20 AM",
-    "LeagueName": "PrvaLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/212/image/dark",
-    "home": {
-      "name": "NK Celje",
-      "logo": "https://img.sofascore.com/api/v1/team/2413/image"
-    },
-    "away": {
-      "name": "Kalcer Radomlje",
-      "logo": "https://img.sofascore.com/api/v1/team/37737/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://a.voezvoezv.shop/hls/NYNYNYQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD  ",
-        "link": "https://a.voezvoezv.shop/hls/NYNYNYQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   },
   {
     "status": "LIVE",
