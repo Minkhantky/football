@@ -1,68 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "04-02-2026 08:30 PM",
-    "endTime": "04-02-2026 10:50 PM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "FC Metaloglobus București",
-      "logo": "https://img.sofascore.com/api/v1/team/79081/image"
-    },
-    "away": {
-      "name": "FK Csíkszereda Miercurea Ciuc",
-      "logo": "https://img.sofascore.com/api/v1/team/283972/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low Stream ",
-        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 09:15 PM",
-    "endTime": "04-02-2026 11:35 PM",
-    "LeagueName": "Stars League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
-    "home": {
-      "name": "Umm-Salal SC",
-      "logo": "https://img.sofascore.com/api/v1/team/32490/image"
-    },
-    "away": {
-      "name": "Al Duhail",
-      "logo": "https://img.sofascore.com/api/v1/team/44441/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low Stream ",
-        "link": "https://a.voezvoezv.shop/hls/AAAAqQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "04-02-2026 09:30 PM",
     "endTime": "04-02-2026 11:50 PM",
     "LeagueName": "Türkiye Kupası",
@@ -165,37 +103,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "04-02-2026 09:30 PM",
-    "endTime": "04-02-2026 11:50 PM",
-    "LeagueName": "UEFA Youth League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-    "home": {
-      "name": "Maccabi Haifa U19",
-      "logo": "https://img.sofascore.com/api/v1/team/241765/image"
-    },
-    "away": {
-      "name": "Barcelona U19",
-      "logo": "https://img.sofascore.com/api/v1/team/90128/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://a.voezvoezv.shop/hls/AAAAqQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/maccabi-haifa-u19-vs-barcelona-u19-football-1491678\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
@@ -342,7 +249,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "04-02-2026 11:00 PM",
     "endTime": "05-02-2026 01:20 AM",
     "LeagueName": "Stoiximan Super League",
@@ -355,10 +262,25 @@
       "name": "Olympiacos FC",
       "logo": "https://img.sofascore.com/api/v1/team/3245/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/NYNYNYQQH.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/asteras-tripolis-vs-olympiakos-piraeus-football-1400855\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "04-02-2026 11:30 PM",
     "endTime": "05-02-2026 01:50 AM",
     "LeagueName": "UEFA Youth League",
@@ -371,10 +293,32 @@
       "name": "Inter U19",
       "logo": "https://img.sofascore.com/api/v1/team/42728/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "DAZN1 DE",
+        "link": "https://spxt.nullsignal.site/livedhfh2/1696671.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 1",
+        "link": "https://a.voezvoezv.shop/hls/HNHNHNQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 2",
+        "link": "https://a.voezvoezv.shop/hls/HNHNHN.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "04-02-2026 11:30 PM",
     "endTime": "05-02-2026 01:50 AM",
     "LeagueName": "UEFA Youth League",
@@ -387,10 +331,25 @@
       "name": "Tottenham U19",
       "logo": "https://img.sofascore.com/api/v1/team/90146/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "TNT Sports 4 UK",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "scheme": 0,
+        "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "https://sdmax111.provegooott.com/2_.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "04-02-2026 11:30 PM",
     "endTime": "05-02-2026 01:50 AM",
     "LeagueName": "Frauen-Bundesliga",
@@ -403,7 +362,15 @@
       "name": "TSG Hoffenheim",
       "logo": "https://img.sofascore.com/api/v1/team/36652/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "DAZN 2 DE",
+        "link": "https://spxt.nullsignal.site/livedhfh2/1696670.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1814,5 +1781,68 @@
         "link": "https://no.link"
       }
     ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 11:00 PM",
+    "endTime": "05-02-2026 01:20 AM",
+    "LeagueName": "PrvaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/212/image/dark",
+    "home": {
+      "name": "NK Celje",
+      "logo": "https://img.sofascore.com/api/v1/team/2413/image"
+    },
+    "away": {
+      "name": "Kalcer Radomlje",
+      "logo": "https://img.sofascore.com/api/v1/team/37737/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://a.voezvoezv.shop/hls/NYNYNYQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD  ",
+        "link": "https://a.voezvoezv.shop/hls/NYNYNYQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 12:00 AM",
+    "endTime": "05-02-2026 02:10 AM",
+    "LeagueName": "South Africa NedBank ",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/team/213100/image",
+    "home": {
+      "name": "Stellenbosch",
+      "logo": "https://img.sofascore.com/api/v1/team/43555/image"
+    },
+    "away": {
+      "name": "Kaizer Chiefs",
+      "logo": "https://img.sofascore.com/api/v1/team/7663/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 12:00 AM",
+    "endTime": "05-02-2026 02:10 AM",
+    "LeagueName": "South Africa NedBank ",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/team/213100/image",
+    "home": {
+      "name": "Mamelodi Sundowns",
+      "logo": "https://img.sofascore.com/api/v1/team/7665/image"
+    },
+    "away": {
+      "name": "Gomora",
+      "logo": "x"
+    },
+    "live_links": []
   }
 ]
