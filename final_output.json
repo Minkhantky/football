@@ -1,1 +1,1773 @@
-
+[
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 07:30 PM",
+    "endTime": "04-02-2026 09:50 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Legia Warszawa U19",
+      "logo": "https://img.sofascore.com/api/v1/team/114685/image"
+    },
+    "away": {
+      "name": "Ajax U19",
+      "logo": "https://img.sofascore.com/api/v1/team/90118/image"
+    },
+    "live_links": [
+      {
+        "name": "Ziggo Sport 1 NL",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621|User-Agent=Mozila",
+        "scheme": 0,
+        "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "http://195.178.110.25/hls/ffffU.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 08:00 PM",
+    "endTime": "04-02-2026 10:20 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Paris Saint-Germain U19",
+      "logo": "https://img.sofascore.com/api/v1/team/90138/image"
+    },
+    "away": {
+      "name": "FC Dinamo Minsk U19",
+      "logo": "https://img.sofascore.com/api/v1/team/491481/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 08:30 PM",
+    "endTime": "04-02-2026 10:50 PM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "FC Metaloglobus București",
+      "logo": "https://img.sofascore.com/api/v1/team/79081/image"
+    },
+    "away": {
+      "name": "FK Csíkszereda Miercurea Ciuc",
+      "logo": "https://img.sofascore.com/api/v1/team/283972/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:15 PM",
+    "endTime": "04-02-2026 11:35 PM",
+    "LeagueName": "Stars League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+    "home": {
+      "name": "Umm-Salal SC",
+      "logo": "https://img.sofascore.com/api/v1/team/32490/image"
+    },
+    "away": {
+      "name": "Al Duhail",
+      "logo": "https://img.sofascore.com/api/v1/team/44441/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAqQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Gençlerbirliği",
+      "logo": "https://img.sofascore.com/api/v1/team/7802/image"
+    },
+    "away": {
+      "name": "Eyüpspor",
+      "logo": "https://img.sofascore.com/api/v1/team/7040/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q2L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/genclerbirligi-vs-eyupspor-football-1489336\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://b.rtzsa.cfd/hls/jttt.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Benfica U19",
+      "logo": "https://img.sofascore.com/api/v1/team/78135/image"
+    },
+    "away": {
+      "name": "Slavia Praha U19",
+      "logo": "https://img.sofascore.com/api/v1/team/44163/image"
+    },
+    "live_links": [
+      {
+        "name": "HD TV ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAqQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/benfica-u19-vs-slavia-praha-u19-football-1491669\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "HJK Helsinki U19",
+      "logo": "https://img.sofascore.com/api/v1/team/206368/image"
+    },
+    "away": {
+      "name": "Manchester City U19",
+      "logo": "https://img.sofascore.com/api/v1/team/120856/image"
+    },
+    "live_links": [
+      {
+        "name": "TNT Sports 4 UK",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+        "scheme": 0,
+        "api": "192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "https://sdmax111.provegooott.com/2_.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAqQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Maccabi Haifa U19",
+      "logo": "https://img.sofascore.com/api/v1/team/241765/image"
+    },
+    "away": {
+      "name": "Barcelona U19",
+      "logo": "https://img.sofascore.com/api/v1/team/90128/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://a.voezvoezv.shop/hls/AAAAqQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/maccabi-haifa-u19-vs-barcelona-u19-football-1491678\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Villarreal U19",
+      "logo": "https://img.sofascore.com/api/v1/team/206355/image"
+    },
+    "away": {
+      "name": "Bayer Leverkusen U19",
+      "logo": "https://img.sofascore.com/api/v1/team/43716/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/villarreal-u19-vs-bayer-leverkusen-u19-football-1491681\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "Greek Football Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
+    "home": {
+      "name": "OFI Crete",
+      "logo": "https://img.sofascore.com/api/v1/team/3241/image"
+    },
+    "away": {
+      "name": "APO Levadiakos",
+      "logo": "https://img.sofascore.com/api/v1/team/5063/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 10:00 PM",
+    "endTime": "05-02-2026 12:20 AM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Puskás Akadémia FC U19",
+      "logo": "https://img.sofascore.com/api/v1/team/206352/image"
+    },
+    "away": {
+      "name": "Sporting U19",
+      "logo": "https://img.sofascore.com/api/v1/team/78151/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 10:30 PM",
+    "endTime": "05-02-2026 12:50 AM",
+    "LeagueName": "Stoiximan Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+    "home": {
+      "name": "Panathinaikos FC",
+      "logo": "https://img.sofascore.com/api/v1/team/3248/image"
+    },
+    "away": {
+      "name": "OFI Crete",
+      "logo": "https://img.sofascore.com/api/v1/team/3241/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 10:30 PM",
+    "endTime": "05-02-2026 12:50 AM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "UTA Arad",
+      "logo": "https://img.sofascore.com/api/v1/team/204657/image"
+    },
+    "away": {
+      "name": "CFR 1907 Cluj",
+      "logo": "https://img.sofascore.com/api/v1/team/5287/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 11:00 PM",
+    "endTime": "05-02-2026 01:20 AM",
+    "LeagueName": "Stoiximan Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+    "home": {
+      "name": "Asteras Aktor",
+      "logo": "https://img.sofascore.com/api/v1/team/6342/image"
+    },
+    "away": {
+      "name": "Olympiacos FC",
+      "logo": "https://img.sofascore.com/api/v1/team/3245/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 11:30 PM",
+    "endTime": "05-02-2026 01:50 AM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "1. FC Köln U19",
+      "logo": "https://img.sofascore.com/api/v1/team/43720/image"
+    },
+    "away": {
+      "name": "Inter U19",
+      "logo": "https://img.sofascore.com/api/v1/team/42728/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 11:30 PM",
+    "endTime": "05-02-2026 01:50 AM",
+    "LeagueName": "UEFA Youth League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+    "home": {
+      "name": "Real Betis U19",
+      "logo": "https://img.sofascore.com/api/v1/team/275789/image"
+    },
+    "away": {
+      "name": "Tottenham U19",
+      "logo": "https://img.sofascore.com/api/v1/team/90146/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "04-02-2026 11:30 PM",
+    "endTime": "05-02-2026 01:50 AM",
+    "LeagueName": "Frauen-Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://img.sofascore.com/api/v1/team/108685/image"
+    },
+    "away": {
+      "name": "TSG Hoffenheim",
+      "logo": "https://img.sofascore.com/api/v1/team/36652/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 12:00 AM",
+    "endTime": "05-02-2026 02:20 AM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Galatasaray",
+      "logo": "https://img.sofascore.com/api/v1/team/3061/image"
+    },
+    "away": {
+      "name": "İstanbulspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3066/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 12:15 AM",
+    "endTime": "05-02-2026 02:35 AM",
+    "LeagueName": "Eurojackpot KNVB Beker",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
+    "home": {
+      "name": "NEC Nijmegen",
+      "logo": "https://img.sofascore.com/api/v1/team/2962/image"
+    },
+    "away": {
+      "name": "FC Volendam",
+      "logo": "https://img.sofascore.com/api/v1/team/2968/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 12:30 AM",
+    "endTime": "05-02-2026 02:50 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Athletico",
+      "logo": "https://img.sofascore.com/api/v1/team/1967/image"
+    },
+    "away": {
+      "name": "Corinthians",
+      "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 01:00 AM",
+    "endTime": "05-02-2026 03:20 AM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "FC Farul Constanța",
+      "logo": "https://img.sofascore.com/api/v1/team/3294/image"
+    },
+    "away": {
+      "name": "FC Dinamo București",
+      "logo": "https://img.sofascore.com/api/v1/team/3292/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 01:00 AM",
+    "endTime": "05-02-2026 03:20 AM",
+    "LeagueName": "Greek Football Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
+    "home": {
+      "name": "Panathinaikos FC",
+      "logo": "https://img.sofascore.com/api/v1/team/3248/image"
+    },
+    "away": {
+      "name": "PAOK",
+      "logo": "https://img.sofascore.com/api/v1/team/3251/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "Nice",
+      "logo": "https://img.sofascore.com/api/v1/team/1661/image"
+    },
+    "away": {
+      "name": "Montpellier",
+      "logo": "https://img.sofascore.com/api/v1/team/1642/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "Toulouse",
+      "logo": "https://img.sofascore.com/api/v1/team/1681/image"
+    },
+    "away": {
+      "name": "Amiens SC",
+      "logo": "https://img.sofascore.com/api/v1/team/1676/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "Olympique Lyonnais",
+      "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    },
+    "away": {
+      "name": "Stade Lavallois",
+      "logo": "https://img.sofascore.com/api/v1/team/1673/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "Lorient",
+      "logo": "https://img.sofascore.com/api/v1/team/1656/image"
+    },
+    "away": {
+      "name": "Paris FC",
+      "logo": "https://img.sofascore.com/api/v1/team/6070/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Ekstraklasa",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "home": {
+      "name": "Jagiellonia Białystok",
+      "logo": "https://img.sofascore.com/api/v1/team/7691/image"
+    },
+    "away": {
+      "name": "GKS Katowice",
+      "logo": "https://img.sofascore.com/api/v1/team/3112/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Belgian Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/326/image/dark",
+    "home": {
+      "name": "RC Sporting Charleroi",
+      "logo": "https://img.sofascore.com/api/v1/team/2898/image"
+    },
+    "away": {
+      "name": "Royale Union Saint-Gilloise",
+      "logo": "https://img.sofascore.com/api/v1/team/4860/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:00 AM",
+    "endTime": "05-02-2026 04:20 AM",
+    "LeagueName": "Pernambucano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/380/image/dark",
+    "home": {
+      "name": "Maguary",
+      "logo": "https://img.sofascore.com/api/v1/team/456897/image"
+    },
+    "away": {
+      "name": "Retrô",
+      "logo": "https://img.sofascore.com/api/v1/team/324839/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:15 AM",
+    "endTime": "05-02-2026 04:35 AM",
+    "LeagueName": "Scottish Premiership",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "home": {
+      "name": "Livingston",
+      "logo": "https://img.sofascore.com/api/v1/team/2356/image"
+    },
+    "away": {
+      "name": "Falkirk FC",
+      "logo": "https://img.sofascore.com/api/v1/team/2363/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:15 AM",
+    "endTime": "05-02-2026 04:35 AM",
+    "LeagueName": "Scottish Premiership",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "home": {
+      "name": "Rangers",
+      "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+    },
+    "away": {
+      "name": "Kilmarnock",
+      "logo": "https://img.sofascore.com/api/v1/team/2347/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:15 AM",
+    "endTime": "05-02-2026 04:35 AM",
+    "LeagueName": "Scottish Premiership",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "home": {
+      "name": "Hibernian",
+      "logo": "https://img.sofascore.com/api/v1/team/2354/image"
+    },
+    "away": {
+      "name": "Dundee United",
+      "logo": "https://img.sofascore.com/api/v1/team/2349/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:15 AM",
+    "endTime": "05-02-2026 04:35 AM",
+    "LeagueName": "Scottish Premiership",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "home": {
+      "name": "Dundee FC",
+      "logo": "https://img.sofascore.com/api/v1/team/2357/image"
+    },
+    "away": {
+      "name": "Motherwell",
+      "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:15 AM",
+    "endTime": "05-02-2026 04:35 AM",
+    "LeagueName": "DFB Pokal",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
+    "home": {
+      "name": "Holstein Kiel",
+      "logo": "https://img.sofascore.com/api/v1/team/2573/image"
+    },
+    "away": {
+      "name": "VfB Stuttgart",
+      "logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Copa del Rey",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "home": {
+      "name": "Deportivo Alavés",
+      "logo": "https://img.sofascore.com/api/v1/team/2885/image"
+    },
+    "away": {
+      "name": "Real Sociedad",
+      "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Copa del Rey",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "home": {
+      "name": "Valencia",
+      "logo": "https://img.sofascore.com/api/v1/team/2828/image"
+    },
+    "away": {
+      "name": "Athletic Club",
+      "logo": "https://img.sofascore.com/api/v1/team/2825/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Scottish Premiership",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
+    "home": {
+      "name": "Aberdeen",
+      "logo": "https://img.sofascore.com/api/v1/team/2355/image"
+    },
+    "away": {
+      "name": "Celtic",
+      "logo": "https://img.sofascore.com/api/v1/team/2352/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "EFL Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark",
+    "home": {
+      "name": "Manchester City",
+      "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    },
+    "away": {
+      "name": "Newcastle United",
+      "logo": "https://img.sofascore.com/api/v1/team/39/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Coppa Italia",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+    "home": {
+      "name": "Inter",
+      "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+    },
+    "away": {
+      "name": "Torino",
+      "logo": "https://img.sofascore.com/api/v1/team/2696/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "Troyes",
+      "logo": "https://img.sofascore.com/api/v1/team/1652/image"
+    },
+    "away": {
+      "name": "RC Lens",
+      "logo": "https://img.sofascore.com/api/v1/team/1648/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Eurojackpot KNVB Beker",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
+    "home": {
+      "name": "PSV Eindhoven",
+      "logo": "https://img.sofascore.com/api/v1/team/2952/image"
+    },
+    "away": {
+      "name": "SC Heerenveen",
+      "logo": "https://img.sofascore.com/api/v1/team/2964/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:30 AM",
+    "endTime": "05-02-2026 04:50 AM",
+    "LeagueName": "Categoría Primera B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
+    "home": {
+      "name": "Tigres FC",
+      "logo": "https://img.sofascore.com/api/v1/team/89354/image"
+    },
+    "away": {
+      "name": "Orsomarso SC",
+      "logo": "https://img.sofascore.com/api/v1/team/213490/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 02:45 AM",
+    "endTime": "05-02-2026 05:05 AM",
+    "LeagueName": "Taça de Portugal",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+    "home": {
+      "name": "AD Fafe",
+      "logo": "https://img.sofascore.com/api/v1/team/45146/image"
+    },
+    "away": {
+      "name": "Torreense",
+      "logo": "https://img.sofascore.com/api/v1/team/25787/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 03:30 AM",
+    "endTime": "05-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Uruguay U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48979/image"
+    },
+    "away": {
+      "name": "Venezuela U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48978/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 03:30 AM",
+    "endTime": "05-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Paraguay U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48983/image"
+    },
+    "away": {
+      "name": "Chile U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48989/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 06:45 AM",
+    "endTime": "05-02-2026 09:05 AM",
+    "LeagueName": "Copa Argentina",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
+    "home": {
+      "name": "Platense",
+      "logo": "https://img.sofascore.com/api/v1/team/36837/image"
+    },
+    "away": {
+      "name": "CD Argentino Monte Maiz",
+      "logo": "https://img.sofascore.com/api/v1/team/403460/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:00 AM",
+    "endTime": "05-02-2026 09:20 AM",
+    "LeagueName": "CONMEBOL Libertadores",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+    "home": {
+      "name": "CS 2 de Mayo",
+      "logo": "https://img.sofascore.com/api/v1/team/5992/image"
+    },
+    "away": {
+      "name": "Alianza Lima",
+      "logo": "https://img.sofascore.com/api/v1/team/2311/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:00 AM",
+    "endTime": "05-02-2026 09:20 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Palmeiras",
+      "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    },
+    "away": {
+      "name": "Vitória",
+      "logo": "https://img.sofascore.com/api/v1/team/1962/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:00 AM",
+    "endTime": "05-02-2026 09:20 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Grêmio",
+      "logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
+    "away": {
+      "name": "Botafogo",
+      "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:30 AM",
+    "endTime": "05-02-2026 09:50 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Atlético Nacional",
+      "logo": "https://img.sofascore.com/api/v1/team/6106/image"
+    },
+    "away": {
+      "name": "América de Cali",
+      "logo": "https://img.sofascore.com/api/v1/team/6102/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:30 AM",
+    "endTime": "05-02-2026 09:50 AM",
+    "LeagueName": "CONCACAF Champions Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+    "home": {
+      "name": "CSD Xelajú MC",
+      "logo": "https://img.sofascore.com/api/v1/team/7026/image"
+    },
+    "away": {
+      "name": "CF Monterrey",
+      "logo": "https://img.sofascore.com/api/v1/team/1932/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:30 AM",
+    "endTime": "05-02-2026 11:50 AM",
+    "LeagueName": "CONCACAF Champions Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+    "home": {
+      "name": "Vancouver FC",
+      "logo": "https://img.sofascore.com/api/v1/team/463097/image"
+    },
+    "away": {
+      "name": "Cruz Azul",
+      "logo": "https://img.sofascore.com/api/v1/team/1947/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "Egyptian Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+    "home": {
+      "name": "Smouha",
+      "logo": "https://img.sofascore.com/api/v1/team/43563/image"
+    },
+    "away": {
+      "name": "Pyramids FC",
+      "logo": "https://img.sofascore.com/api/v1/team/175002/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://apk.arabic-ch.space/live/007000/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://a.voezvoezv.shop/hls/LLLL.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 04:30 PM",
+    "endTime": "05-02-2026 06:50 PM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Keçiörengücü",
+      "logo": "https://img.sofascore.com/api/v1/team/6366/image"
+    },
+    "away": {
+      "name": "Gaziantep FK",
+      "logo": "https://img.sofascore.com/api/v1/team/5138/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:00 PM",
+    "endTime": "05-02-2026 09:20 PM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Konyaspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3085/image"
+    },
+    "away": {
+      "name": "Aliağa FK",
+      "logo": "https://img.sofascore.com/api/v1/team/485443/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:55 PM",
+    "endTime": "05-02-2026 10:15 PM",
+    "LeagueName": "UAE Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+    "home": {
+      "name": "Al-Nasr Dubai",
+      "logo": "https://img.sofascore.com/api/v1/team/46332/image"
+    },
+    "away": {
+      "name": "Al Wasl",
+      "logo": "https://img.sofascore.com/api/v1/team/47674/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 07:55 PM",
+    "endTime": "05-02-2026 10:15 PM",
+    "LeagueName": "UAE Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+    "home": {
+      "name": "Al-Wahda FC",
+      "logo": "https://img.sofascore.com/api/v1/team/264115/image"
+    },
+    "away": {
+      "name": "Al Bataeh",
+      "logo": "https://img.sofascore.com/api/v1/team/331952/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 08:30 PM",
+    "endTime": "05-02-2026 10:50 PM",
+    "LeagueName": "PrvaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/212/image/dark",
+    "home": {
+      "name": "NK Aluminij Kidričevo",
+      "logo": "https://img.sofascore.com/api/v1/team/2424/image"
+    },
+    "away": {
+      "name": "NK Olimpija Ljubljana",
+      "logo": "https://img.sofascore.com/api/v1/team/2416/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:15 PM",
+    "endTime": "05-02-2026 11:35 PM",
+    "LeagueName": "Stars League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+    "home": {
+      "name": "Al-Sadd",
+      "logo": "https://img.sofascore.com/api/v1/team/39733/image"
+    },
+    "away": {
+      "name": "Al-Shahaniya",
+      "logo": "https://img.sofascore.com/api/v1/team/170364/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:15 PM",
+    "endTime": "05-02-2026 11:35 PM",
+    "LeagueName": "Stars League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+    "home": {
+      "name": "Al-Sailiya",
+      "logo": "https://img.sofascore.com/api/v1/team/44439/image"
+    },
+    "away": {
+      "name": "Al-Gharafa",
+      "logo": "https://img.sofascore.com/api/v1/team/34312/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:30 PM",
+    "endTime": "05-02-2026 11:50 PM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Kocaelispor",
+      "logo": "https://img.sofascore.com/api/v1/team/3065/image"
+    },
+    "away": {
+      "name": "Beşiktaş JK",
+      "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:30 PM",
+    "endTime": "05-02-2026 11:50 PM",
+    "LeagueName": "Egyptian Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+    "home": {
+      "name": "Haras El Hodoud",
+      "logo": "https://img.sofascore.com/api/v1/team/43566/image"
+    },
+    "away": {
+      "name": "Pharco FC",
+      "logo": "https://img.sofascore.com/api/v1/team/241703/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 09:50 PM",
+    "endTime": "06-02-2026 12:10 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Fayha",
+      "logo": "https://img.sofascore.com/api/v1/team/168094/image"
+    },
+    "away": {
+      "name": "Al-Najma SC",
+      "logo": "https://img.sofascore.com/api/v1/team/395831/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 10:30 PM",
+    "endTime": "06-02-2026 12:50 AM",
+    "LeagueName": "UAE Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+    "home": {
+      "name": "Al-Sharjah",
+      "logo": "https://img.sofascore.com/api/v1/team/34060/image"
+    },
+    "away": {
+      "name": "Shabab Al-Ahli Dubai",
+      "logo": "https://img.sofascore.com/api/v1/team/264111/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 10:30 PM",
+    "endTime": "06-02-2026 12:50 AM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "Universitatea Craiova",
+      "logo": "https://img.sofascore.com/api/v1/team/116223/image"
+    },
+    "away": {
+      "name": "SC Oțelul Galați",
+      "logo": "https://img.sofascore.com/api/v1/team/3291/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 11:15 PM",
+    "endTime": "06-02-2026 01:35 AM",
+    "LeagueName": "Stars League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+    "home": {
+      "name": "Al-Arabi SC",
+      "logo": "https://img.sofascore.com/api/v1/team/44444/image"
+    },
+    "away": {
+      "name": "Al Shamal SC",
+      "logo": "https://img.sofascore.com/api/v1/team/170366/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 11:30 PM",
+    "endTime": "06-02-2026 01:50 AM",
+    "LeagueName": "Club Friendly Games",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+    "home": {
+      "name": "Hammarby IF",
+      "logo": "https://img.sofascore.com/api/v1/team/1758/image"
+    },
+    "away": {
+      "name": "Metalist 1925",
+      "logo": "https://img.sofascore.com/api/v1/team/266889/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:00 AM",
+    "endTime": "06-02-2026 02:20 AM",
+    "LeagueName": "Türkiye Kupası",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
+    "home": {
+      "name": "Fenerbahçe",
+      "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+    },
+    "away": {
+      "name": "Erzurumspor FK",
+      "logo": "https://img.sofascore.com/api/v1/team/55603/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:00 AM",
+    "endTime": "06-02-2026 02:20 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Ahli",
+      "logo": "https://img.sofascore.com/api/v1/team/34469/image"
+    },
+    "away": {
+      "name": "Al-Hazem",
+      "logo": "https://img.sofascore.com/api/v1/team/168086/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:00 AM",
+    "endTime": "06-02-2026 02:20 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Okhdood",
+      "logo": "https://img.sofascore.com/api/v1/team/336456/image"
+    },
+    "away": {
+      "name": "Al-Hilal",
+      "logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:30 AM",
+    "endTime": "06-02-2026 02:50 AM",
+    "LeagueName": "Egyptian Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+    "home": {
+      "name": "Ceramica Cleopatra",
+      "logo": "https://img.sofascore.com/api/v1/team/371622/image"
+    },
+    "away": {
+      "name": "Ghazl El Mahalla FC",
+      "logo": "https://img.sofascore.com/api/v1/team/58319/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:30 AM",
+    "endTime": "06-02-2026 02:50 AM",
+    "LeagueName": "Egyptian Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+    "home": {
+      "name": "Wadi Degla",
+      "logo": "https://img.sofascore.com/api/v1/team/43568/image"
+    },
+    "away": {
+      "name": "Arab Contractors FC",
+      "logo": "https://img.sofascore.com/api/v1/team/42365/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 01:00 AM",
+    "endTime": "06-02-2026 03:20 AM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "FCSB",
+      "logo": "https://img.sofascore.com/api/v1/team/3301/image"
+    },
+    "away": {
+      "name": "FC Botoșani",
+      "logo": "https://img.sofascore.com/api/v1/team/24798/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 01:30 AM",
+    "endTime": "06-02-2026 03:50 AM",
+    "LeagueName": "Eurojackpot KNVB Beker",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
+    "home": {
+      "name": "SC Telstar",
+      "logo": "https://img.sofascore.com/api/v1/team/2972/image"
+    },
+    "away": {
+      "name": "Go Ahead Eagles",
+      "logo": "https://img.sofascore.com/api/v1/team/2979/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:00 AM",
+    "endTime": "06-02-2026 04:20 AM",
+    "LeagueName": "Belgian Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/326/image/dark",
+    "home": {
+      "name": "RSC Anderlecht",
+      "logo": "https://img.sofascore.com/api/v1/team/2900/image"
+    },
+    "away": {
+      "name": "Royal Antwerp FC",
+      "logo": "https://img.sofascore.com/api/v1/team/2889/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:00 AM",
+    "endTime": "06-02-2026 04:20 AM",
+    "LeagueName": "Pernambucano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/380/image/dark",
+    "home": {
+      "name": "Decisão Goiana",
+      "logo": "https://img.sofascore.com/api/v1/team/490743/image"
+    },
+    "away": {
+      "name": "Santa Cruz",
+      "logo": "https://img.sofascore.com/api/v1/team/1976/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Categoría Primera B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
+    "home": {
+      "name": "Boca Juniors de Cali",
+      "logo": "https://img.sofascore.com/api/v1/team/89366/image"
+    },
+    "away": {
+      "name": "Real Cundinamarca",
+      "logo": "https://img.sofascore.com/api/v1/team/484422/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Copa del Rey",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "home": {
+      "name": "Real Betis",
+      "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    },
+    "away": {
+      "name": "Atlético Madrid",
+      "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
+    "home": {
+      "name": "RC Strasbourg",
+      "logo": "https://img.sofascore.com/api/v1/team/1659/image"
+    },
+    "away": {
+      "name": "AS Monaco",
+      "logo": "https://img.sofascore.com/api/v1/team/1653/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Coppa Italia",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+    "home": {
+      "name": "Atalanta",
+      "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+    },
+    "away": {
+      "name": "Juventus",
+      "logo": "https://img.sofascore.com/api/v1/team/2687/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:31 AM",
+    "endTime": "06-02-2026 04:51 AM",
+    "LeagueName": "League Two",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+    "home": {
+      "name": "Accrington Stanley",
+      "logo": "https://img.sofascore.com/api/v1/team/187/image"
+    },
+    "away": {
+      "name": "Salford City",
+      "logo": "https://img.sofascore.com/api/v1/team/37998/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 03:15 AM",
+    "endTime": "06-02-2026 05:35 AM",
+    "LeagueName": "Taça de Portugal",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
+    "home": {
+      "name": "Sporting CP",
+      "logo": "https://img.sofascore.com/api/v1/team/3001/image"
+    },
+    "away": {
+      "name": "AVS - Futebol SAD",
+      "logo": "https://img.sofascore.com/api/v1/team/483088/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 03:30 AM",
+    "endTime": "06-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Brazil U20",
+      "logo": "https://img.sofascore.com/api/v1/team/43216/image"
+    },
+    "away": {
+      "name": "Ecuador U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48986/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 03:30 AM",
+    "endTime": "06-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Bolivia U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48991/image"
+    },
+    "away": {
+      "name": "Peru U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48982/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 04:30 AM",
+    "endTime": "05-02-2026 06:50 AM",
+    "LeagueName": "Copa Argentina",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
+    "home": {
+      "name": "Deportivo Riestra",
+      "logo": "https://img.sofascore.com/api/v1/team/189723/image"
+    },
+    "away": {
+      "name": "Deportivo Maipú",
+      "logo": "https://img.sofascore.com/api/v1/team/213042/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 04:30 AM",
+    "endTime": "05-02-2026 06:50 AM",
+    "LeagueName": "Gaúcho",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/377/image/dark",
+    "home": {
+      "name": "Guarany de Bagé",
+      "logo": "https://img.sofascore.com/api/v1/team/232080/image"
+    },
+    "away": {
+      "name": "Monsoon",
+      "logo": "https://img.sofascore.com/api/v1/team/480382/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 04:30 AM",
+    "endTime": "05-02-2026 06:50 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Bahia",
+      "logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    },
+    "away": {
+      "name": "Fluminense",
+      "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 05:00 AM",
+    "endTime": "05-02-2026 07:20 AM",
+    "LeagueName": "Categoría Primera B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
+    "home": {
+      "name": "Leones FC",
+      "logo": "https://img.sofascore.com/api/v1/team/89362/image"
+    },
+    "away": {
+      "name": "Bogotá FC",
+      "logo": "https://img.sofascore.com/api/v1/team/89352/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 05:30 AM",
+    "endTime": "05-02-2026 07:50 AM",
+    "LeagueName": "Paraibano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10295/image/dark",
+    "home": {
+      "name": "Nacional de Patos",
+      "logo": "https://img.sofascore.com/api/v1/team/21860/image"
+    },
+    "away": {
+      "name": "Botafogo-PB",
+      "logo": "https://img.sofascore.com/api/v1/team/49196/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 05:30 AM",
+    "endTime": "05-02-2026 07:50 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Vasco da Gama",
+      "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+    },
+    "away": {
+      "name": "Chapecoense",
+      "logo": "https://img.sofascore.com/api/v1/team/21845/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 05:30 AM",
+    "endTime": "05-02-2026 07:50 AM",
+    "LeagueName": "Sergipano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11665/image/dark",
+    "home": {
+      "name": "Confiança",
+      "logo": "https://img.sofascore.com/api/v1/team/2017/image"
+    },
+    "away": {
+      "name": "AA Guarany",
+      "logo": "https://img.sofascore.com/api/v1/team/307366/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 06:00 AM",
+    "endTime": "05-02-2026 08:20 AM",
+    "LeagueName": "Paulista Série A1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "home": {
+      "name": "Corinthians",
+      "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    },
+    "away": {
+      "name": "Capivariano",
+      "logo": "https://img.sofascore.com/api/v1/team/88738/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 06:45 AM",
+    "endTime": "06-02-2026 09:05 AM",
+    "LeagueName": "Copa Argentina",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
+    "home": {
+      "name": "Barracas Central",
+      "logo": "https://img.sofascore.com/api/v1/team/65668/image"
+    },
+    "away": {
+      "name": "Temperley",
+      "logo": "https://img.sofascore.com/api/v1/team/112499/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:00 AM",
+    "endTime": "06-02-2026 09:20 AM",
+    "LeagueName": "Gaúcho",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/377/image/dark",
+    "home": {
+      "name": "Inter de Santa Maria",
+      "logo": "https://img.sofascore.com/api/v1/team/480380/image"
+    },
+    "away": {
+      "name": "EC Avenida",
+      "logo": "https://img.sofascore.com/api/v1/team/32765/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:00 AM",
+    "endTime": "06-02-2026 09:20 AM",
+    "LeagueName": "Brasileirão Betano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+    "home": {
+      "name": "Cruzeiro",
+      "logo": "https://img.sofascore.com/api/v1/team/1954/image"
+    },
+    "away": {
+      "name": "Coritiba",
+      "logo": "https://img.sofascore.com/api/v1/team/1982/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:00 AM",
+    "endTime": "06-02-2026 09:20 AM",
+    "LeagueName": "CONMEBOL Libertadores",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
+    "home": {
+      "name": "Juventud de Las Piedras",
+      "logo": "https://img.sofascore.com/api/v1/team/3224/image"
+    },
+    "away": {
+      "name": "Universidad Católica del Ecuador",
+      "logo": "https://img.sofascore.com/api/v1/team/21942/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:30 AM",
+    "endTime": "06-02-2026 09:50 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Millonarios",
+      "logo": "https://img.sofascore.com/api/v1/team/6117/image"
+    },
+    "away": {
+      "name": "Deportivo Pereira",
+      "logo": "https://img.sofascore.com/api/v1/team/6109/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 09:30 AM",
+    "endTime": "06-02-2026 11:50 AM",
+    "LeagueName": "A-League Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+    "home": {
+      "name": "Wellington Phoenix",
+      "logo": "https://img.sofascore.com/api/v1/team/394912/image"
+    },
+    "away": {
+      "name": "Perth Glory",
+      "logo": "https://img.sofascore.com/api/v1/team/174104/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 12:30 PM",
+    "endTime": "06-02-2026 02:50 PM",
+    "LeagueName": "A-League Men",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+    "home": {
+      "name": "Wellington Phoenix",
+      "logo": "https://img.sofascore.com/api/v1/team/7568/image"
+    },
+    "away": {
+      "name": "Melbourne Victory",
+      "logo": "https://img.sofascore.com/api/v1/team/5970/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "04-02-2026 09:30 PM",
+    "endTime": "04-02-2026 11:50 PM",
+    "LeagueName": "Egyptian Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
+    "home": {
+      "name": "ZED FC",
+      "logo": "https://img.sofascore.com/api/v1/team/373168/image"
+    },
+    "away": {
+      "name": "Al-Masry",
+      "logo": "https://img.sofascore.com/api/v1/team/43560/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://a.voezvoezv.shop/hls/LLLLQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://a.voezvoezv.shop/hls/LLLLQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  }
+]
