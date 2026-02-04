@@ -1,34 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 02:45 AM",
-    "endTime": "05-02-2026 05:05 AM",
-    "LeagueName": "Taça de Portugal",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/336/image/dark",
-    "home": {
-      "name": "AD Fafe",
-      "logo": "https://img.sofascore.com/api/v1/team/45146/image"
-    },
-    "away": {
-      "name": "Torreense",
-      "logo": "https://img.sofascore.com/api/v1/team/25787/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/fafe-vs-torreense-football-1508722\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "05-02-2026 03:30 AM",
     "endTime": "05-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
