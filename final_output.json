@@ -513,68 +513,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 01:00 AM",
-    "endTime": "05-02-2026 03:20 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "FC Farul Constanța",
-      "logo": "https://img.sofascore.com/api/v1/team/3294/image"
-    },
-    "away": {
-      "name": "FC Dinamo București",
-      "logo": "https://img.sofascore.com/api/v1/team/3292/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low Stream ",
-        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 01:00 AM",
-    "endTime": "05-02-2026 03:20 AM",
-    "LeagueName": "Greek Football Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/375/image/dark",
-    "home": {
-      "name": "Panathinaikos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3248/image"
-    },
-    "away": {
-      "name": "PAOK",
-      "logo": "https://img.sofascore.com/api/v1/team/3251/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/NYNYNYQQH.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/panathinaikos-vs-paok-football-1507999\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "05-02-2026 02:00 AM",
     "endTime": "05-02-2026 04:20 AM",
     "LeagueName": "Ekstraklasa",
@@ -862,7 +800,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "05-02-2026 03:30 AM",
     "endTime": "05-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -875,10 +813,15 @@
       "name": "Venezuela U20",
       "logo": "https://img.sofascore.com/api/v1/team/48978/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "05-02-2026 03:30 AM",
     "endTime": "05-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -891,7 +834,12 @@
       "name": "Chile U20",
       "logo": "https://img.sofascore.com/api/v1/team/48989/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1740,36 +1688,5 @@
       "logo": "https://img.sofascore.com/api/v1/team/5970/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 12:30 AM",
-    "endTime": "05-02-2026 02:50 AM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Ismailia Electricity Club",
-      "logo": "https://img.sofascore.com/api/v1/team/241702/image"
-    },
-    "away": {
-      "name": "Zamalek SC",
-      "logo": "https://img.sofascore.com/api/v1/team/42368/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://b.rtzsa.cfd/hls/jtttXQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://b.rtzsa.cfd/hls/jtttXQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   }
 ]
