@@ -1,27 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "04-02-2026 08:00 PM",
-    "endTime": "04-02-2026 10:20 PM",
-    "LeagueName": "UEFA Youth League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-    "home": {
-      "name": "Paris Saint-Germain U19",
-      "logo": "https://img.sofascore.com/api/v1/team/90138/image"
-    },
-    "away": {
-      "name": "FC Dinamo Minsk U19",
-      "logo": "https://img.sofascore.com/api/v1/team/491481/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "04-02-2026 08:30 PM",
     "endTime": "04-02-2026 10:50 PM",
     "LeagueName": "Romanian SuperLiga",
@@ -265,7 +244,17 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://195.178.110.25/hls/NNNN.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.25/hls/NNNN.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
@@ -301,7 +290,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Stoiximan Super League",
@@ -314,10 +303,15 @@
       "name": "OFI Crete",
       "logo": "https://img.sofascore.com/api/v1/team/3241/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "04-02-2026 10:30 PM",
     "endTime": "05-02-2026 12:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -330,7 +324,22 @@
       "name": "CFR 1907 Cluj",
       "logo": "https://img.sofascore.com/api/v1/team/5287/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://a.voezvoezv.shop/hls/AAAAq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1751,6 +1760,58 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "PRELIVE",
+    "matchTime": "04-02-2026 10:30 PM",
+    "endTime": "05-02-2026 12:50 AM",
+    "LeagueName": "Cyprus Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/315/image/dark",
+    "home": {
+      "name": "Apollon Limassol",
+      "logo": "https://img.sofascore.com/api/v1/team/3402/image"
+    },
+    "away": {
+      "name": "Omonia Aradippou",
+      "logo": "https://img.sofascore.com/api/v1/team/25542/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/NYNYNYQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/NYNYNYQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "PRELIVE",
+    "matchTime": "04-02-2026 10:30 PM",
+    "endTime": "05-02-2026 12:50 AM",
+    "LeagueName": "Cyprus Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/315/image/dark",
+    "home": {
+      "name": "Apollon Limassol",
+      "logo": "https://img.sofascore.com/api/v1/team/3402/image"
+    },
+    "away": {
+      "name": "Omonia Aradippou",
+      "logo": "https://img.sofascore.com/api/v1/team/25542/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
       }
     ]
   }
