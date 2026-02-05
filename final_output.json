@@ -17,130 +17,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 09:15 PM",
-    "endTime": "05-02-2026 11:35 PM",
-    "LeagueName": "Stars League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
-    "home": {
-      "name": "Al-Sadd",
-      "logo": "https://img.sofascore.com/api/v1/team/39733/image"
-    },
-    "away": {
-      "name": "Al-Shahaniya",
-      "logo": "https://img.sofascore.com/api/v1/team/170364/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low Stream ",
-        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 09:15 PM",
-    "endTime": "05-02-2026 11:35 PM",
-    "LeagueName": "Stars League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
-    "home": {
-      "name": "Al-Sailiya",
-      "logo": "https://img.sofascore.com/api/v1/team/44439/image"
-    },
-    "away": {
-      "name": "Al-Gharafa",
-      "logo": "https://img.sofascore.com/api/v1/team/34312/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low Stream ",
-        "link": "http://195.178.110.25/hls/TTTTE.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 09:30 PM",
-    "endTime": "05-02-2026 11:50 PM",
-    "LeagueName": "Türkiye Kupası",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-    "home": {
-      "name": "Kocaelispor",
-      "logo": "https://img.sofascore.com/api/v1/team/3065/image"
-    },
-    "away": {
-      "name": "Beşiktaş JK",
-      "logo": "https://img.sofascore.com/api/v1/team/3050/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/JNNNQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/kocaelispor-vs-besiktas-football-1489340\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 09:30 PM",
-    "endTime": "05-02-2026 11:50 PM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Haras El Hodoud",
-      "logo": "https://img.sofascore.com/api/v1/team/43566/image"
-    },
-    "away": {
-      "name": "Pharco FC",
-      "logo": "https://img.sofascore.com/api/v1/team/241703/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "05-02-2026 09:50 PM",
     "endTime": "06-02-2026 12:10 AM",
     "LeagueName": "Saudi Pro League",
@@ -233,7 +109,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "05-02-2026 11:15 PM",
     "endTime": "06-02-2026 01:35 AM",
     "LeagueName": "Stars League",
@@ -264,7 +140,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 11:30 PM",
     "endTime": "06-02-2026 01:50 AM",
     "LeagueName": "Club Friendly Games",
@@ -277,10 +153,15 @@
       "name": "Metalist 1925",
       "logo": "https://img.sofascore.com/api/v1/team/266889/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 12:00 AM",
     "endTime": "06-02-2026 02:20 AM",
     "LeagueName": "Türkiye Kupası",
@@ -293,10 +174,22 @@
       "name": "Erzurumspor FK",
       "logo": "https://img.sofascore.com/api/v1/team/55603/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/fenerbahce-vs-erzurum-bb-football-1489334\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 12:00 AM",
     "endTime": "06-02-2026 02:20 AM",
     "LeagueName": "Saudi Pro League",
@@ -309,10 +202,22 @@
       "name": "Al-Hazem",
       "logo": "https://img.sofascore.com/api/v1/team/168086/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 12:00 AM",
     "endTime": "06-02-2026 02:20 AM",
     "LeagueName": "Saudi Pro League",
@@ -325,7 +230,43 @@
       "name": "Al-Hilal",
       "logo": "https://img.sofascore.com/api/v1/team/21895/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Sport Tv BR",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "scheme": 0,
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Deportes",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Soccer",
+        "link": "https://spxt.nullsignal.site/livedhfh25/1968452.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN 1 DE",
+        "link": "https://spxt.nullsignal.site/livedhfh2/1696671.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
