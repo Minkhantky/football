@@ -47,7 +47,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 07:55 PM",
     "endTime": "05-02-2026 10:15 PM",
     "LeagueName": "UAE Pro League",
@@ -60,10 +60,25 @@
       "name": "Al Wasl",
       "logo": "https://img.sofascore.com/api/v1/team/47674/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream",
+        "link": "http://195.178.110.25/hls/YYYYQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 07:55 PM",
     "endTime": "05-02-2026 10:15 PM",
     "LeagueName": "UAE Pro League",
@@ -76,10 +91,25 @@
       "name": "Al Bataeh",
       "logo": "https://img.sofascore.com/api/v1/team/331952/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low STREAM ",
+        "link": "http://195.178.110.25/hls/YYYYQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 08:30 PM",
     "endTime": "05-02-2026 10:50 PM",
     "LeagueName": "PrvaLiga",
@@ -92,7 +122,22 @@
       "name": "NK Olimpija Ljubljana",
       "logo": "https://img.sofascore.com/api/v1/team/2416/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/FAFAFA.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low STREAM ",
+        "link": "http://195.178.110.25/hls/FAFAFA.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -623,7 +668,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 08:05 PM",
     "endTime": "05-02-2026 10:25 PM",
     "LeagueName": "World Friendly",
@@ -636,7 +681,21 @@
       "name": "Switzerland",
       "logo": "https://img.sofascore.com/api/v1/team/5599/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
+        "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
+        "scheme": 0
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://spxt.nullsignal.site/livedhfh25/45466.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2125,48 +2184,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/5966/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 06:30 PM",
-    "endTime": "05-02-2026 08:40 PM",
-    "LeagueName": "Iraq Stars League",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg",
-    "home": {
-      "name": "Al Najaf",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "away": {
-      "name": "Al-Qassim",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYY.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 06:30 PM",
-    "endTime": "05-02-2026 08:40 PM",
-    "LeagueName": "Iraq Stars League",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg",
-    "home": {
-      "name": "Erbil",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "away": {
-      "name": "Al Naft",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYYQ.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
   },
   {
     "status": "LIVE",
