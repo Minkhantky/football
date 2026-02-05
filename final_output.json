@@ -1,224 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 06:45 AM",
-    "endTime": "05-02-2026 09:05 AM",
-    "LeagueName": "Copa Argentina",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
-    "home": {
-      "name": "Platense",
-      "logo": "https://img.sofascore.com/api/v1/team/36837/image"
-    },
-    "away": {
-      "name": "CD Argentino Monte Maiz",
-      "logo": "https://img.sofascore.com/api/v1/team/403460/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Tyc SPORTS ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tycsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "Tyc SPORTS 2 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tycsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/platense-vs-argentino-monte-maiz-football-1503663\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 AM",
-    "endTime": "05-02-2026 09:20 AM",
-    "LeagueName": "CONMEBOL Libertadores",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-    "home": {
-      "name": "CS 2 de Mayo",
-      "logo": "https://img.sofascore.com/api/v1/team/5992/image"
-    },
-    "away": {
-      "name": "Alianza Lima",
-      "logo": "https://img.sofascore.com/api/v1/team/2311/image"
-    },
-    "live_links": [
-      {
-        "name": "ESPAÑA + 🇪🇸 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn3mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV 📺 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN HD. ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "beIN SPORTS en Español",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=beinsportes\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "Arabic ",
-        "link": "https://sdmax111.provegooott.com/2_.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/2-de-mayo-vs-alianza-lima-football-1494503\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 AM",
-    "endTime": "05-02-2026 09:20 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Palmeiras",
-      "logo": "https://img.sofascore.com/api/v1/team/1963/image"
-    },
-    "away": {
-      "name": "Vitória",
-      "logo": "https://img.sofascore.com/api/v1/team/1962/image"
-    },
-    "live_links": [
-      {
-        "name": "SporTV BR",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "scheme": 0,
-        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "tokenApi": ""
-      },
-      {
-        "name": "Premiere 4 BR",
-        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-        "scheme": 0,
-        "api": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=premiere4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/palmeiras-vs-vitoria-football-1492126\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 AM",
-    "endTime": "05-02-2026 09:20 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Grêmio",
-      "logo": "https://img.sofascore.com/api/v1/team/5926/image"
-    },
-    "away": {
-      "name": "Botafogo",
-      "logo": "https://img.sofascore.com/api/v1/team/1958/image"
-    },
-    "live_links": [
-      {
-        "name": "PREMIERE BR FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "scheme": 0,
-        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=premiere1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "Premier hd ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:30 AM",
-    "endTime": "05-02-2026 09:50 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Atlético Nacional",
-      "logo": "https://img.sofascore.com/api/v1/team/6106/image"
-    },
-    "away": {
-      "name": "América de Cali",
-      "logo": "https://img.sofascore.com/api/v1/team/6102/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "05-02-2026 09:30 AM",
     "endTime": "05-02-2026 11:50 AM",
     "LeagueName": "CONCACAF Champions Cup",
@@ -231,7 +13,43 @@
       "name": "Cruz Azul",
       "logo": "https://img.sofascore.com/api/v1/team/1947/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK Sports ",
+        "link": "http://205.237.107.90/hls/dccccq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TUDN ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TUDN USA ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/vancouver-fc-vs-cruz-azul-football-1514131\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -838,6 +656,22 @@
     "away": {
       "name": "Melbourne Victory",
       "logo": "https://img.sofascore.com/api/v1/team/5970/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "05-02-2026 08:05 PM",
+    "endTime": "05-02-2026 10:25 PM",
+    "LeagueName": "World Friendly",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+    "home": {
+      "name": "USA",
+      "logo": "https://img.sofascore.com/api/v1/team/7424/image"
+    },
+    "away": {
+      "name": "Switzerland",
+      "logo": "https://img.sofascore.com/api/v1/team/5599/image"
     },
     "live_links": []
   }
