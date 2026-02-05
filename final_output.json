@@ -17,37 +17,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 08:30 PM",
-    "endTime": "05-02-2026 10:50 PM",
-    "LeagueName": "PrvaLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/212/image/dark",
-    "home": {
-      "name": "NK Aluminij Kidričevo",
-      "logo": "https://img.sofascore.com/api/v1/team/2424/image"
-    },
-    "away": {
-      "name": "NK Olimpija Ljubljana",
-      "logo": "https://img.sofascore.com/api/v1/team/2416/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/FAFAFA.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Low STREAM ",
-        "link": "http://195.178.110.25/hls/FAFAFA.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "05-02-2026 09:15 PM",
     "endTime": "05-02-2026 11:35 PM",
     "LeagueName": "Stars League",
@@ -202,7 +171,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "05-02-2026 10:30 PM",
     "endTime": "06-02-2026 12:50 AM",
     "LeagueName": "UAE Pro League",
@@ -233,7 +202,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "05-02-2026 10:30 PM",
     "endTime": "06-02-2026 12:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -264,7 +233,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "05-02-2026 11:15 PM",
     "endTime": "06-02-2026 01:35 AM",
     "LeagueName": "Stars League",
@@ -277,7 +246,22 @@
       "name": "Al Shamal SC",
       "logo": "https://img.sofascore.com/api/v1/team/170366/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Alk 1",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -678,36 +662,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/5970/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 08:05 PM",
-    "endTime": "05-02-2026 10:25 PM",
-    "LeagueName": "World Friendly",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-    "home": {
-      "name": "USA",
-      "logo": "https://img.sofascore.com/api/v1/team/7424/image"
-    },
-    "away": {
-      "name": "Switzerland",
-      "logo": "https://img.sofascore.com/api/v1/team/5599/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd",
-        "api": "6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8",
-        "scheme": 0
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://spxt.nullsignal.site/livedhfh25/45466.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   },
   {
     "status": "UPCOMING",
@@ -2196,26 +2150,5 @@
       "logo": "https://img.sofascore.com/api/v1/team/5966/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 09:00 PM",
-    "endTime": "05-02-2026 11:10 PM",
-    "LeagueName": "Iraq Stars League",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg",
-    "home": {
-      "name": "Al Zawraa",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "away": {
-      "name": "Zakho",
-      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYY.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
   }
 ]
