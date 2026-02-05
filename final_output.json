@@ -1,6 +1,6 @@
 [
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Copa del Rey",
@@ -15,10 +15,31 @@
     },
     "live_links": [
       {
+        "name": "DAZN SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xro0eamcne/out/v1/276e5974236548e18477c8f8fbbc2d2d/cenc.mpd",
+        "scheme": 0,
+        "api": "a064c14c61b5c288151c158a0f0d661e:f09f251083071d4e0e65754f38d24678",
+        "tokenApi": ""
+      },
+      {
         "name": "ITV 4 FHD",
         "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd",
         "scheme": 0,
         "api": "7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229",
+        "tokenApi": ""
+      },
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      },
+      {
+        "name": "FANCODE FHD",
+        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "scheme": 0,
+        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
         "tokenApi": ""
       },
       {
@@ -27,13 +48,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
       },
       {
         "name": "ZIGGO2 FHD",
@@ -94,7 +108,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 05:05 AM",
     "LeagueName": "Spain Copa De La Reina",
@@ -109,22 +123,15 @@
     },
     "live_links": [
       {
-        "name": "Server HD",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd",
-        "scheme": 0,
-        "api": "0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV 2",
-        "link": "http://195.178.110.25/hls/ARRRRQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "Link 1",
+        "link": "https://bbb.exoadash.com/TVD7210/index.mpd",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "Link 1",
-        "link": "https://bbb.exoadash.com/TVD7210/index.mpd",
+        "name": "HD TV 2",
+        "link": "http://195.178.110.25/hls/ARRRRQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -160,7 +167,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Coppa Italia",
@@ -174,6 +181,34 @@
       "logo": "https://img.sofascore.com/api/v1/team/2687/image"
     },
     "live_links": [
+      {
+        "name": "DAZN Multi Commentary",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nuigxtxq7b/out/v1/16bf2a2d5067422d924889bbb231757c/cenc.mpd",
+        "scheme": 0,
+        "api": "c339e569c39009326a1072bd8bc21e60:5026ec5fed2eff595809981bb1f372d5",
+        "tokenApi": ""
+      },
+      {
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/roktqihkzh/out/v1/4b43ed95d64346619e3d3dee222ed8bd/cenc.mpd",
+        "scheme": 0,
+        "api": "03345a49fac037a63a2f29322a7def4b:5fe829b497a3072798c224f30a3ada87",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN ITALIAN FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nuigxtxq7b/out/v1/16bf2a2d5067422d924889bbb231757c/cenc.mpd",
+        "scheme": 0,
+        "api": "c339e569c39009326a1072bd8bc21e60:5026ec5fed2eff595809981bb1f372d5",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6wi0yxwsvm/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
+        "scheme": 0,
+        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "tokenApi": ""
+      },
       {
         "name": "ITALIA 1 FHD ",
         "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd",
@@ -233,7 +268,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Coupe de France",
@@ -300,61 +335,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 12:30 AM",
-    "endTime": "06-02-2026 02:50 AM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Ceramica Cleopatra",
-      "logo": "https://img.sofascore.com/api/v1/team/371622/image"
-    },
-    "away": {
-      "name": "Ghazl El Mahalla FC",
-      "logo": "https://img.sofascore.com/api/v1/team/58319/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/FEEEQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 12:30 AM",
-    "endTime": "06-02-2026 02:50 AM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Wadi Degla",
-      "logo": "https://img.sofascore.com/api/v1/team/43568/image"
-    },
-    "away": {
-      "name": "Arab Contractors FC",
-      "logo": "https://img.sofascore.com/api/v1/team/42365/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/FEEEQQQx.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "ON TIME ",
-        "link": "http://apk.arabic-ch.space/live/007000/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 01:00 AM",
     "endTime": "06-02-2026 03:20 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -409,51 +389,6 @@
       {
         "name": "Link 2",
         "link": "https://q.lppefe.shop/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
-    "matchTime": "06-02-2026 02:31 AM",
-    "endTime": "06-02-2026 04:51 AM",
-    "LeagueName": "League Two",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
-    "home": {
-      "name": "Accrington Stanley",
-      "logo": "https://img.sofascore.com/api/v1/team/187/image"
-    },
-    "away": {
-      "name": "Salford City",
-      "logo": "https://img.sofascore.com/api/v1/team/37998/image"
-    },
-    "live_links": [
-      {
-        "name": "HD 1",
-        "link": "https://q.lppefe.shop/hls/ARRRRQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 2",
-        "link": "http://195.178.110.25/hls/ARRRRQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sky Football",
-        "link": "https://spxt.nullsignal.site/livedhfh-dk/1290279.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://nullsignal.site/b5/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
