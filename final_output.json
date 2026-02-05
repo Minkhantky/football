@@ -2,6 +2,22 @@
   {
     "status": "UPCOMING",
     "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Copa del Rey",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
+    "home": {
+      "name": "Real Betis",
+      "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    },
+    "away": {
+      "name": "Atlético Madrid",
+      "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 05:05 AM",
     "LeagueName": "Spain Copa De La Reina",
     "LeagueLogo": "https://bbb.exoadash.com/TVD7210/index.mpd",
@@ -16,56 +32,36 @@
     "live_links": []
   },
   {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 11:15 PM",
-    "endTime": "06-02-2026 01:35 AM",
-    "LeagueName": "Stars League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Coppa Italia",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
     "home": {
-      "name": "Al-Arabi SC",
-      "logo": "https://img.sofascore.com/api/v1/team/44444/image"
+      "name": "Atalanta",
+      "logo": "https://img.sofascore.com/api/v1/team/2686/image"
     },
     "away": {
-      "name": "Al Shamal SC",
-      "logo": "https://img.sofascore.com/api/v1/team/170366/image"
+      "name": "Juventus",
+      "logo": "https://img.sofascore.com/api/v1/team/2687/image"
     },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Alk 1",
-        "link": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
+    "live_links": []
   },
   {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 11:30 PM",
-    "endTime": "06-02-2026 01:50 AM",
-    "LeagueName": "Club Friendly Games",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:50 AM",
+    "LeagueName": "Coupe de France",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
     "home": {
-      "name": "Hammarby IF",
-      "logo": "https://img.sofascore.com/api/v1/team/1758/image"
+      "name": "RC Strasbourg",
+      "logo": "https://img.sofascore.com/api/v1/team/1659/image"
     },
     "away": {
-      "name": "Metalist 1925",
-      "logo": "https://img.sofascore.com/api/v1/team/266889/image"
+      "name": "AS Monaco",
+      "logo": "https://img.sofascore.com/api/v1/team/1653/image"
     },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
+    "live_links": []
   },
   {
     "status": "LIVE",
@@ -146,6 +142,13 @@
         "tokenApi": ""
       },
       {
+        "name": "FANCODE FHD",
+        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "scheme": 0,
+        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "tokenApi": ""
+      },
+      {
         "name": "Fox Deportes",
         "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
         "scheme": 0,
@@ -192,7 +195,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://195.178.110.25/hls/FEEEQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
@@ -213,7 +219,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://195.178.110.25/hls/FEEEQQQx.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "ON TIME ",
@@ -225,7 +234,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 01:00 AM",
     "endTime": "06-02-2026 03:20 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -245,27 +254,18 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.25/hls/euuu.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 01:30 AM",
-    "endTime": "06-02-2026 03:50 AM",
-    "LeagueName": "Eurojackpot KNVB Beker",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/330/image/dark",
-    "home": {
-      "name": "SC Telstar",
-      "logo": "https://img.sofascore.com/api/v1/team/2972/image"
-    },
-    "away": {
-      "name": "Go Ahead Eagles",
-      "logo": "https://img.sofascore.com/api/v1/team/2979/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:00 AM",
     "endTime": "06-02-2026 04:20 AM",
     "LeagueName": "Belgian Cup",
@@ -278,10 +278,25 @@
       "name": "Royal Antwerp FC",
       "logo": "https://img.sofascore.com/api/v1/team/2889/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://q.lppefe.shop/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:00 AM",
     "endTime": "06-02-2026 04:20 AM",
     "LeagueName": "Pernambucano",
@@ -294,7 +309,12 @@
       "name": "Santa Cruz",
       "logo": "https://img.sofascore.com/api/v1/team/1976/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -309,54 +329,6 @@
     "away": {
       "name": "Real Cundinamarca",
       "logo": "https://img.sofascore.com/api/v1/team/484422/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 02:30 AM",
-    "endTime": "06-02-2026 04:50 AM",
-    "LeagueName": "Copa del Rey",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/329/image/dark",
-    "home": {
-      "name": "Real Betis",
-      "logo": "https://img.sofascore.com/api/v1/team/2816/image"
-    },
-    "away": {
-      "name": "Atlético Madrid",
-      "logo": "https://img.sofascore.com/api/v1/team/2836/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 02:30 AM",
-    "endTime": "06-02-2026 04:50 AM",
-    "LeagueName": "Coupe de France",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/335/image/dark",
-    "home": {
-      "name": "RC Strasbourg",
-      "logo": "https://img.sofascore.com/api/v1/team/1659/image"
-    },
-    "away": {
-      "name": "AS Monaco",
-      "logo": "https://img.sofascore.com/api/v1/team/1653/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 02:30 AM",
-    "endTime": "06-02-2026 04:50 AM",
-    "LeagueName": "Coppa Italia",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
-    "home": {
-      "name": "Atalanta",
-      "logo": "https://img.sofascore.com/api/v1/team/2686/image"
-    },
-    "away": {
-      "name": "Juventus",
-      "logo": "https://img.sofascore.com/api/v1/team/2687/image"
     },
     "live_links": []
   },
