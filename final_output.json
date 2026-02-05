@@ -335,37 +335,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 01:00 AM",
-    "endTime": "06-02-2026 03:20 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "FCSB",
-      "logo": "https://img.sofascore.com/api/v1/team/3301/image"
-    },
-    "away": {
-      "name": "FC Botoșani",
-      "logo": "https://img.sofascore.com/api/v1/team/24798/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q1L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.25/hls/euuu.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 02:00 AM",
     "endTime": "06-02-2026 04:20 AM",
     "LeagueName": "Belgian Cup",
@@ -396,7 +365,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 03:15 AM",
     "endTime": "06-02-2026 05:35 AM",
     "LeagueName": "Taça de Portugal",
@@ -409,10 +378,39 @@
       "name": "AVS - Futebol SAD",
       "logo": "https://img.sofascore.com/api/v1/team/483088/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "FOX ARG",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=fox1ar\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Bein Usa",
+        "link": "http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "https://embedstreams.top/embed/echo/sporting-cp-vs-avs-football-1494404/1",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "WIN SPORTS ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 03:30 AM",
     "endTime": "06-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -425,10 +423,15 @@
       "name": "Ecuador U20",
       "logo": "https://img.sofascore.com/api/v1/team/48986/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 03:30 AM",
     "endTime": "06-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -441,7 +444,12 @@
       "name": "Peru U20",
       "logo": "https://img.sofascore.com/api/v1/team/48982/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
