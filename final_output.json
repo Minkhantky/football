@@ -1,55 +1,19 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 09:30 AM",
-    "endTime": "05-02-2026 11:50 AM",
-    "LeagueName": "CONCACAF Champions Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 05:05 AM",
+    "LeagueName": "Spain Copa De La Reina",
+    "LeagueLogo": "https://bbb.exoadash.com/TVD7210/index.mpd",
     "home": {
-      "name": "Vancouver FC",
-      "logo": "https://img.sofascore.com/api/v1/team/463097/image"
+      "name": "Barcelona",
+      "logo": "https://img.sofascore.com/api/v1/team/2817/image"
     },
     "away": {
-      "name": "Cruz Azul",
-      "logo": "https://img.sofascore.com/api/v1/team/1947/image"
+      "name": "Real Madrid",
+      "logo": "https://img.sofascore.com/api/v1/team/3540/image"
     },
-    "live_links": [
-      {
-        "name": "AK Sports ",
-        "link": "http://205.237.107.90/hls/dccccq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TUDN ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TUDN USA ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/vancouver-fc-vs-cruz-azul-football-1514131\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
+    "live_links": []
   },
   {
     "status": "UPCOMING",
@@ -672,6 +636,38 @@
     "away": {
       "name": "Switzerland",
       "logo": "https://img.sofascore.com/api/v1/team/5599/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 02:30 AM",
+    "endTime": "06-02-2026 04:53 AM",
+    "LeagueName": "CONCACAF Women's U-17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "Sin Maarteen u17",
+      "logo": "x"
+    },
+    "away": {
+      "name": "Mexico U17",
+      "logo": "https://img.sofascore.com/api/v1/team/4781/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:30 AM",
+    "endTime": "06-02-2026 11:55 AM",
+    "LeagueName": "Liga MX Femenil",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image",
+    "home": {
+      "name": "Liga MX Femenil",
+      "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
+    },
+    "away": {
+      "name": "Matches",
+      "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
     },
     "live_links": []
   }
