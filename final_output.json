@@ -17,37 +17,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 PM",
-    "endTime": "05-02-2026 09:20 PM",
-    "LeagueName": "Türkiye Kupası",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-    "home": {
-      "name": "Konyaspor",
-      "logo": "https://img.sofascore.com/api/v1/team/3085/image"
-    },
-    "away": {
-      "name": "Aliağa FK",
-      "logo": "https://img.sofascore.com/api/v1/team/485443/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/JNNNQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/konyaspor-vs-aliaga-fas-football-1489341\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "05-02-2026 07:55 PM",
     "endTime": "05-02-2026 10:15 PM",
     "LeagueName": "UAE Pro League",
@@ -140,7 +109,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 09:15 PM",
     "endTime": "05-02-2026 11:35 PM",
     "LeagueName": "Stars League",
@@ -153,10 +122,25 @@
       "name": "Al-Shahaniya",
       "logo": "https://img.sofascore.com/api/v1/team/170364/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 09:15 PM",
     "endTime": "05-02-2026 11:35 PM",
     "LeagueName": "Stars League",
@@ -169,10 +153,25 @@
       "name": "Al-Gharafa",
       "logo": "https://img.sofascore.com/api/v1/team/34312/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low Stream ",
+        "link": "http://195.178.110.25/hls/TTTTE.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 09:30 PM",
     "endTime": "05-02-2026 11:50 PM",
     "LeagueName": "Türkiye Kupası",
@@ -185,10 +184,25 @@
       "name": "Beşiktaş JK",
       "logo": "https://img.sofascore.com/api/v1/team/3050/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/JNNNQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/kocaelispor-vs-besiktas-football-1489340\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 09:30 PM",
     "endTime": "05-02-2026 11:50 PM",
     "LeagueName": "Egyptian Premier League",
@@ -201,7 +215,22 @@
       "name": "Pharco FC",
       "logo": "https://img.sofascore.com/api/v1/team/241703/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.25/hls/TTTTEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2187,64 +2216,22 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 PM",
-    "endTime": "05-02-2026 09:11 PM",
-    "LeagueName": "ASEAN Club Championship",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
+    "matchTime": "05-02-2026 09:00 PM",
+    "endTime": "05-02-2026 11:10 PM",
+    "LeagueName": "Iraq Stars League",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg",
     "home": {
-      "name": "Bangkok Utd",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
+      "name": "Al Zawraa",
+      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
     },
     "away": {
-      "name": "Shan Utd",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
+      "name": "Zakho",
+      "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYYQQ.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 PM",
-    "endTime": "05-02-2026 09:11 PM",
-    "LeagueName": "ASEAN Club Championship",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
-    "home": {
-      "name": "Lion City",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
-    },
-    "away": {
-      "name": "Svay Rieng",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYYQQQ.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "05-02-2026 07:00 PM",
-    "endTime": "05-02-2026 09:10 PM",
-    "LeagueName": "ASEAN Club Championship",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg",
-    "home": {
-      "name": "Nam Dinh",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
-    },
-    "away": {
-      "name": "Johor DT",
-      "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/YYYYQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+        "link": "http://195.178.110.25/hls/YYYY.m3u8|Referer=http://www.fawanews.sc/"
       }
     ]
   }
