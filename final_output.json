@@ -2143,7 +2143,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "05-02-2026 06:30 PM",
     "endTime": "05-02-2026 08:40 PM",
     "LeagueName": "Iraq Stars League",
@@ -2156,10 +2156,15 @@
       "name": "Al-Qassim",
       "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/YYYY.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "05-02-2026 06:30 PM",
     "endTime": "05-02-2026 08:40 PM",
     "LeagueName": "Iraq Stars League",
@@ -2172,7 +2177,12 @@
       "name": "Al Naft",
       "logo": "https://pbs.twimg.com/profile_images/1716133640545992704/MnvCbyFi_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/YYYYQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
