@@ -647,7 +647,7 @@
     "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
     "home": {
       "name": "Sin Maarteen u17",
-      "logo": "x"
+      "logo": "https://img.sofascore.com/api/v1/team/1075853/image"
     },
     "away": {
       "name": "Mexico U17",
@@ -668,6 +668,38 @@
     "away": {
       "name": "Matches",
       "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:30 AM",
+    "endTime": "06-02-2026 09:55 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "Guatemala U17",
+      "logo": "https://img.sofascore.com/api/v1/team/126002/image"
+    },
+    "away": {
+      "name": "Antigua &amp; Barbuda U17",
+      "logo": "https://img.sofascore.com/api/v1/team/1075861/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:30 AM",
+    "endTime": "06-02-2026 09:55 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "Nicaragua U17",
+      "logo": "https://img.sofascore.com/api/v1/team/316488/image"
+    },
+    "away": {
+      "name": "Anguilla U17",
+      "logo": "https://img.sofascore.com/api/v1/team/1165441/image"
     },
     "live_links": []
   }
