@@ -17,17 +17,17 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "05-02-2026 04:30 PM",
-    "endTime": "05-02-2026 06:50 PM",
+    "matchTime": "05-02-2026 07:00 PM",
+    "endTime": "05-02-2026 09:20 PM",
     "LeagueName": "Türkiye Kupası",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
     "home": {
-      "name": "Keçiörengücü",
-      "logo": "https://img.sofascore.com/api/v1/team/6366/image"
+      "name": "Konyaspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3085/image"
     },
     "away": {
-      "name": "Gaziantep FK",
-      "logo": "https://img.sofascore.com/api/v1/team/5138/image"
+      "name": "Aliağa FK",
+      "logo": "https://img.sofascore.com/api/v1/team/485443/image"
     },
     "live_links": [
       {
@@ -42,25 +42,9 @@
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/keciorengucu-vs-gazisehir-gaziantep-football-1489339\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/konyaspor-vs-aliaga-fas-football-1489341\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "05-02-2026 07:00 PM",
-    "endTime": "05-02-2026 09:20 PM",
-    "LeagueName": "Türkiye Kupası",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-    "home": {
-      "name": "Konyaspor",
-      "logo": "https://img.sofascore.com/api/v1/team/3085/image"
-    },
-    "away": {
-      "name": "Aliağa FK",
-      "logo": "https://img.sofascore.com/api/v1/team/485443/image"
-    },
-    "live_links": []
   },
   {
     "status": "UPCOMING",
@@ -2143,7 +2127,7 @@
     "live_links": []
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "05-02-2026 06:30 PM",
     "endTime": "05-02-2026 08:40 PM",
     "LeagueName": "Iraq Stars League",
@@ -2164,7 +2148,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "05-02-2026 06:30 PM",
     "endTime": "05-02-2026 08:40 PM",
     "LeagueName": "Iraq Stars League",
@@ -2185,7 +2169,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 07:00 PM",
     "endTime": "05-02-2026 09:11 PM",
     "LeagueName": "ASEAN Club Championship",
@@ -2198,10 +2182,15 @@
       "name": "Shan Utd",
       "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/YYYYQQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 07:00 PM",
     "endTime": "05-02-2026 09:11 PM",
     "LeagueName": "ASEAN Club Championship",
@@ -2214,10 +2203,15 @@
       "name": "Svay Rieng",
       "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/YYYYQQQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "05-02-2026 07:00 PM",
     "endTime": "05-02-2026 09:10 PM",
     "LeagueName": "ASEAN Club Championship",
@@ -2230,6 +2224,11 @@
       "name": "Johor DT",
       "logo": "https://pbs.twimg.com/profile_images/1358022137794109442/nzPaWm-j_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.25/hls/YYYYQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   }
 ]
