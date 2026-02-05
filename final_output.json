@@ -335,37 +335,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 02:00 AM",
-    "endTime": "06-02-2026 04:20 AM",
-    "LeagueName": "Belgian Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/326/image/dark",
-    "home": {
-      "name": "RSC Anderlecht",
-      "logo": "https://img.sofascore.com/api/v1/team/2900/image"
-    },
-    "away": {
-      "name": "Royal Antwerp FC",
-      "logo": "https://img.sofascore.com/api/v1/team/2889/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.25/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 2",
-        "link": "https://q.lppefe.shop/hls/ARRRR.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 03:15 AM",
     "endTime": "06-02-2026 05:35 AM",
     "LeagueName": "Taça de Portugal",
@@ -379,6 +348,20 @@
       "logo": "https://img.sofascore.com/api/v1/team/483088/image"
     },
     "live_links": [
+      {
+        "name": " TV+ HD",
+        "link": "https://play.ltwxsc.com/live/sd-6MvYqnvtpWKN1iy1y8.m3u8?txSecret=a281e28d205ae1e2a43624388f13e033&txTime=698529EB",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Low - SD",
+        "link": "https://q.lppefe.shop/hls/ARRRRQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
       {
         "name": "FOX ARG",
         "link": "",
