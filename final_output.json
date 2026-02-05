@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Copa del Rey",
@@ -13,10 +13,88 @@
       "name": "Atlético Madrid",
       "logo": "https://img.sofascore.com/api/v1/team/2836/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ITV 4 FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd",
+        "scheme": 0,
+        "api": "7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229",
+        "tokenApi": ""
+      },
+      {
+        "name": "Espanol 🇪🇦",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO2 FHD",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "scheme": 0,
+        "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK SPORTS 1",
+        "link": "http://195.178.110.25/hls/ARRRRQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "XTREME ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/modistreams.org\\/embed\\/copa-del-rey\\/2026-02-05\\/bet-atm\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK SPORTS 2",
+        "link": "https://q.lppefe.shop/hls/ARRRRQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Portugal 3",
+        "link": "https://spxt.nullsignal.site/livedhfh-dk/1688738.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN LaLiga",
+        "link": "https://spxt.nullsignal.site/livedhfh2/1918155.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "WIN SPORTS HD ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "WIN PLUS 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 05:05 AM",
     "LeagueName": "Spain Copa De La Reina",
@@ -29,10 +107,60 @@
       "name": "Real Madrid",
       "logo": "https://img.sofascore.com/api/v1/team/3540/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Server HD",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/channel(ESPN_HD)/master.mpd",
+        "scheme": 0,
+        "api": "0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV 2",
+        "link": "http://195.178.110.25/hls/ARRRRQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 1",
+        "link": "https://bbb.exoadash.com/TVD7210/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "TV 2",
+        "link": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN Deportes",
+        "link": "https://spxt.nullsignal.site/livedhfh2/1921358.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://q.lppefe.shop/hls/ARRRRQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Coppa Italia",
@@ -45,10 +173,67 @@
       "name": "Juventus",
       "logo": "https://img.sofascore.com/api/v1/team/2687/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ITALIA 1 FHD ",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd",
+        "scheme": 0,
+        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS GOLAZO FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Premier IRL1 FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "scheme": 0,
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO 3FHD",
+        "link": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+        "scheme": 0,
+        "api": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN 1 ES",
+        "link": "https://spxt.nullsignal.site/livedhfh2/477170.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "XTREME ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/modistreams.org\\/embed\\/coppa-italia\\/2026-02-05\\/ata-juv\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK SPORTS 1",
+        "link": "http://195.178.110.25/hls/ARRRRQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK SPORTS 2",
+        "link": "https://q.lppefe.shop/hls/ARRRRQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 02:30 AM",
     "endTime": "06-02-2026 04:50 AM",
     "LeagueName": "Coupe de France",
@@ -61,91 +246,12 @@
       "name": "AS Monaco",
       "logo": "https://img.sofascore.com/api/v1/team/1653/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 12:00 AM",
-    "endTime": "06-02-2026 02:20 AM",
-    "LeagueName": "Türkiye Kupası",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/96/image/dark",
-    "home": {
-      "name": "Fenerbahçe",
-      "logo": "https://img.sofascore.com/api/v1/team/3052/image"
-    },
-    "away": {
-      "name": "Erzurumspor FK",
-      "logo": "https://img.sofascore.com/api/v1/team/55603/image"
-    },
     "live_links": [
       {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
+        "name": "beIN SPORTS FHD",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
         "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/fenerbahce-vs-erzurum-bb-football-1489334\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 12:00 AM",
-    "endTime": "06-02-2026 02:20 AM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Ahli",
-      "logo": "https://img.sofascore.com/api/v1/team/34469/image"
-    },
-    "away": {
-      "name": "Al-Hazem",
-      "logo": "https://img.sofascore.com/api/v1/team/168086/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 12:00 AM",
-    "endTime": "06-02-2026 02:20 AM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Okhdood",
-      "logo": "https://img.sofascore.com/api/v1/team/336456/image"
-    },
-    "away": {
-      "name": "Al-Hilal",
-      "logo": "https://img.sofascore.com/api/v1/team/21895/image"
-    },
-    "live_links": [
-      {
-        "name": "Sport Tv BR",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "scheme": 0,
-        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "tokenApi": ""
-      },
-      {
-        "name": "FANCODE FHD",
-        "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "scheme": 0,
-        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "tokenApi": ""
       },
       {
@@ -156,22 +262,36 @@
         "tokenApi": ""
       },
       {
-        "name": "Fox Soccer",
-        "link": "https://spxt.nullsignal.site/livedhfh25/1968452.m3u8",
+        "name": "AK SPORTS 1",
+        "link": "http://195.178.110.25/hls/ARRRRQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "DAZN 1 DE",
-        "link": "https://spxt.nullsignal.site/livedhfh2/1696671.m3u8",
+        "name": "France ",
+        "link": "https://spxt.nullsignal.site/livedhfh-dg/1562768.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+        "name": "Arabic",
+        "link": "http://nullsignal.site/b4/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/strasbourg-vs-monaco-football-1506883\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK SPORTS 2",
+        "link": "https://q.lppefe.shop/hls/ARRRRQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -265,7 +385,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 02:00 AM",
     "endTime": "06-02-2026 04:20 AM",
     "LeagueName": "Belgian Cup",
@@ -297,43 +417,6 @@
   },
   {
     "status": "PRELIVE",
-    "matchTime": "06-02-2026 02:00 AM",
-    "endTime": "06-02-2026 04:20 AM",
-    "LeagueName": "Pernambucano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/380/image/dark",
-    "home": {
-      "name": "Decisão Goiana",
-      "logo": "https://img.sofascore.com/api/v1/team/490743/image"
-    },
-    "away": {
-      "name": "Santa Cruz",
-      "logo": "https://img.sofascore.com/api/v1/team/1976/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 02:30 AM",
-    "endTime": "06-02-2026 04:50 AM",
-    "LeagueName": "Categoría Primera B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
-    "home": {
-      "name": "Boca Juniors de Cali",
-      "logo": "https://img.sofascore.com/api/v1/team/89366/image"
-    },
-    "away": {
-      "name": "Real Cundinamarca",
-      "logo": "https://img.sofascore.com/api/v1/team/484422/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "06-02-2026 02:31 AM",
     "endTime": "06-02-2026 04:51 AM",
     "LeagueName": "League Two",
@@ -346,7 +429,36 @@
       "name": "Salford City",
       "logo": "https://img.sofascore.com/api/v1/team/37998/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "HD 1",
+        "link": "https://q.lppefe.shop/hls/ARRRRQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 2",
+        "link": "http://195.178.110.25/hls/ARRRRQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Football",
+        "link": "https://spxt.nullsignal.site/livedhfh-dk/1290279.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://nullsignal.site/b5/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -505,22 +617,6 @@
     "away": {
       "name": "Melbourne Victory",
       "logo": "https://img.sofascore.com/api/v1/team/5970/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "06-02-2026 02:30 AM",
-    "endTime": "06-02-2026 04:53 AM",
-    "LeagueName": "CONCACAF U17 Championship",
-    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
-    "home": {
-      "name": "Sin Maarteen u17",
-      "logo": "https://img.sofascore.com/api/v1/team/1075853/image"
-    },
-    "away": {
-      "name": "Mexico U17",
-      "logo": "https://img.sofascore.com/api/v1/team/4781/image"
     },
     "live_links": []
   },
