@@ -235,7 +235,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "2. Bundesliga",
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "2. Bundesliga",
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "Frauen-Bundesliga",
@@ -356,66 +356,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
-    "matchTime": "07-02-2026 12:00 AM",
-    "endTime": "07-02-2026 02:20 AM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Nassr",
-      "logo": "https://img.sofascore.com/api/v1/team/23400/image"
-    },
-    "away": {
-      "name": "Al-Ittihad",
-      "logo": "https://img.sofascore.com/api/v1/team/34315/image"
-    },
-    "live_links": [
-      {
-        "name": "ARABIC TV",
-        "link": "https://q.sdyrkyulk.shop/hls/CACACAQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "FOX Deportes FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "scheme": 0,
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sportdigital FUSSBALL DE",
-        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "scheme": 0,
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sport TV1 Portugal",
-        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "FANCODE FHD",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "scheme": 0,
-        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "Danish Superliga",
@@ -428,10 +369,25 @@
       "name": "Odense Boldklub",
       "logo": "https://img.sofascore.com/api/v1/team/1286/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "Egyptian Premier League",
@@ -444,10 +400,25 @@
       "name": "Al-Ittihad Alexandria",
       "logo": "https://img.sofascore.com/api/v1/team/35187/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "Egyptian Premier League",
@@ -460,10 +431,25 @@
       "name": "ENPPI",
       "logo": "https://img.sofascore.com/api/v1/team/43564/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/CACACAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ONTime Sports 2",
+        "link": "http://apk.arabic-ch.space/live/007000/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -476,10 +462,25 @@
       "name": "FC Petrolul Ploiești",
       "logo": "https://img.sofascore.com/api/v1/team/25856/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q0L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.lppefe.shop/hls/CACACAQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "Liga Portugal 2",
@@ -492,7 +493,19 @@
       "name": "Académico Viseu FC",
       "logo": "https://img.sofascore.com/api/v1/team/3022/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/fc-porto-b-vs-academico-viseu-football-1398150\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1342,7 +1355,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:10 AM",
     "LeagueName": "South Africa Nedbank Cup",
@@ -1363,7 +1376,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 12:30 AM",
     "endTime": "07-02-2026 02:50 AM",
     "LeagueName": "3. Liga",
@@ -1376,6 +1389,21 @@
       "name": "SSV Ulm 1846",
       "logo": "https://img.sofascore.com/api/v1/team/2580/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   }
 ]
