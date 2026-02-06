@@ -1,107 +1,282 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 11:30 PM",
-    "endTime": "07-02-2026 01:50 AM",
-    "LeagueName": "WWIN Liga BiH",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/222/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 02:30 AM",
+    "endTime": "07-02-2026 04:50 AM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
     "home": {
-      "name": "HŠK Zrinjski Mostar",
-      "logo": "https://img.sofascore.com/api/v1/team/5178/image"
+      "name": "Celta Vigo",
+      "logo": "https://img.sofascore.com/api/v1/team/2821/image"
     },
     "away": {
-      "name": "FK Sloga Doboj",
-      "logo": "https://img.sofascore.com/api/v1/team/37064/image"
+      "name": "Osasuna",
+      "logo": "https://img.sofascore.com/api/v1/team/2820/image"
     },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 02:30 AM",
+    "endTime": "07-02-2026 04:50 AM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Leeds United",
+      "logo": "https://img.sofascore.com/api/v1/team/34/image"
+    },
+    "away": {
+      "name": "Nottingham Forest",
+      "logo": "https://img.sofascore.com/api/v1/team/14/image"
+    },
+    "live_links": []
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 11:30 PM",
-    "endTime": "07-02-2026 01:50 AM",
-    "LeagueName": "Ekstraklasa",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "matchTime": "07-02-2026 02:15 AM",
+    "endTime": "07-02-2026 04:35 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
     "home": {
-      "name": "MKS Korona Kielce",
-      "logo": "https://img.sofascore.com/api/v1/team/5065/image"
+      "name": "Hellas Verona",
+      "logo": "https://img.sofascore.com/api/v1/team/2701/image"
     },
     "away": {
-      "name": "Zagłębie Lubin",
-      "logo": "https://img.sofascore.com/api/v1/team/3113/image"
+      "name": "Pisa",
+      "logo": "https://img.sofascore.com/api/v1/team/2737/image"
     },
     "live_links": [
       {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "beIN ENGLISH FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Sports Golazo",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "TV  - SD",
+        "link": "https://broadcasthub.click//hls/kNChJ1NxVGy/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 11:30 PM",
-    "endTime": "07-02-2026 01:50 AM",
-    "LeagueName": "Campeonato Nacional Feminino",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10527/image/dark",
-    "home": {
-      "name": "Sporting CP",
-      "logo": "https://img.sofascore.com/api/v1/team/262989/image"
-    },
-    "away": {
-      "name": "Damaiense",
-      "logo": "https://img.sofascore.com/api/v1/team/363039/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 11:30 PM",
-    "endTime": "07-02-2026 01:50 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "OKS Odra Opole",
-      "logo": "https://img.sofascore.com/api/v1/team/7916/image"
-    },
-    "away": {
-      "name": "Pogoń Siedlce",
-      "logo": "https://img.sofascore.com/api/v1/team/162252/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/dadadaQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "AK Sports ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ERERERQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/dadadaQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "ESPAÑA + 🇪🇸 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney5\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": " FAST",
+        "link": "https://play.ltwxsc.com/live/hd-en-6MuSNj3Fg2Eu58Xpsx.m3u8?txSecret=5051c998ad90a177a4f5c12d33ed3df3&txTime=69866D4C",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       }
     ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "07-02-2026 02:00 AM",
+    "endTime": "07-02-2026 04:20 AM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "1. FC Union Berlin",
+      "logo": "https://img.sofascore.com/api/v1/team/2547/image"
+    },
+    "away": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://img.sofascore.com/api/v1/team/2674/image"
+    },
+    "live_links": [
+      {
+        "name": "DAZN SPORTS FHD ",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meypsndoau/out/v1/d79344578b274ca2b40fcb6851e1b8ba/cenc.mpd",
+        "scheme": 0,
+        "api": "a46893ec4ea6f010fbbd81b00ac29118:d309d0596dcefe163cfd61774debf50c",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Sport Top Event DE",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN ENGLISH 2 FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gfdc4avohz/out/v1/6d9852b9ce2741ddae05f0bd75c49625/cenc.mpd",
+        "scheme": 0,
+        "api": "b4c974fc29f3a46e9e682a6070de2c8d:ee626408a66657c0b6cd7ca919fa5ef2",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Bundesliga FHD ",
+        "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
+        "scheme": 0,
+        "api": "67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2",
+        "tokenApi": ""
+      },
+      {
+        "name": "FAST TV",
+        "link": "https://q.lppefe.shop/hls/ZEZEZEQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SonyLiv (Asia)",
+        "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1770424202~acl=/*~id=57370666262134687494694962311446~hmac=f420b830e3fbd6fa10611095d1ad8317724a2e8bd037664a30c2b7274154eca6|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Pixel 6a; Build/BP1A.250505.005)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4ce5672a1cfdd486fba4a7f73199fd67-1770405000124",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "07-02-2026 02:15 AM",
+    "endTime": "07-02-2026 04:35 AM",
+    "LeagueName": "Ligue 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "home": {
+      "name": "Metz",
+      "logo": "https://img.sofascore.com/api/v1/team/1651/image"
+    },
+    "away": {
+      "name": "Lille",
+      "logo": "https://img.sofascore.com/api/v1/team/1643/image"
+    },
+    "live_links": [
+      {
+        "name": "DAZN Multi Commentary",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vrasblhbgh/out/v1/8677978a68dc4426b7940fac0630a89a/cenc.mpd",
+        "scheme": 0,
+        "api": "f7a812c75bda1fa13b1561b4e684038d:c06b8ccc44132ed52c2eb19f0437649b",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK Sports ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ERERERQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/admin\\/ppv-metz-vs-lille\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD STREAM 2 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/delta\\/live_ligue-1_metz-lille-live-streaming-441770544\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD STREAM 3 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/metz-vs-lille-football-1387883\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 02:31 AM",
+    "endTime": "07-02-2026 04:51 AM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Charlton Athletic",
+      "logo": "https://img.sofascore.com/api/v1/team/47/image"
+    },
+    "away": {
+      "name": "Queens Park Rangers",
+      "logo": "https://img.sofascore.com/api/v1/team/1/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "07-02-2026 02:00 AM",
+    "endTime": "07-02-2026 04:20 AM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Cesena",
+      "logo": "https://img.sofascore.com/api/v1/team/2742/image"
+    },
+    "away": {
+      "name": "Pescara",
+      "logo": "https://img.sofascore.com/api/v1/team/7935/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/ZEZEZEQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/cesena-vs-pescara-football-1419813\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 02:30 AM",
+    "endTime": "07-02-2026 04:50 AM",
+    "LeagueName": "Liga 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "home": {
+      "name": "CD Moquegua",
+      "logo": "https://img.sofascore.com/api/v1/team/492848/image"
+    },
+    "away": {
+      "name": "Universidad Técnica de Cajamarca",
+      "logo": "https://img.sofascore.com/api/v1/team/87854/image"
+    },
+    "live_links": []
   },
   {
     "status": "LIVE",
@@ -401,51 +576,6 @@
       {
         "name": "HD ",
         "link": "https://q.sdyrkyulk.shop/hls/FOOOZ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "MC Alger",
-      "logo": "https://img.sofascore.com/api/v1/team/42204/image"
-    },
-    "away": {
-      "name": "Al-Hilal Omdurman",
-      "logo": "https://img.sofascore.com/api/v1/team/69322/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cHM6Ly9jOC52ZnJ1aXRmYWlyeS5jb20vZnJJZGFZbzcvaW5kZXgubTN1OA==",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://nullsignal.site/b1/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK TV 1",
-        "link": "http://195.178.110.25/hls/UFFFQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK TV 2",
-        "link": "https://q.sdyrkyulk.shop/hls/UFFFQQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -930,7 +1060,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 01:45 AM",
     "endTime": "07-02-2026 04:05 AM",
     "LeagueName": "Challenge League",
@@ -961,23 +1091,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Bundesliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "home": {
-      "name": "1. FC Union Berlin",
-      "logo": "https://img.sofascore.com/api/v1/team/2547/image"
-    },
-    "away": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://img.sofascore.com/api/v1/team/2674/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:00 AM",
     "endTime": "07-02-2026 04:20 AM",
     "LeagueName": "LaLiga 2",
@@ -990,26 +1104,18 @@
       "name": "Granada",
       "logo": "https://img.sofascore.com/api/v1/team/33779/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "LaLiga Hypermotion ES FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+        "scheme": 0,
+        "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Cesena",
-      "logo": "https://img.sofascore.com/api/v1/team/2742/image"
-    },
-    "away": {
-      "name": "Pescara",
-      "logo": "https://img.sofascore.com/api/v1/team/7935/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:00 AM",
     "endTime": "07-02-2026 04:20 AM",
     "LeagueName": "Austrian Bundesliga",
@@ -1022,10 +1128,25 @@
       "name": "FK Austria Wien",
       "logo": "https://img.sofascore.com/api/v1/team/2203/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/UUUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/UUUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:00 AM",
     "endTime": "07-02-2026 04:20 AM",
     "LeagueName": "Ekstraklasa",
@@ -1038,10 +1159,25 @@
       "name": "Cracovia",
       "logo": "https://img.sofascore.com/api/v1/team/4901/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:00 AM",
     "endTime": "07-02-2026 04:20 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -1054,42 +1190,25 @@
       "name": "GKS Tychy",
       "logo": "https://img.sofascore.com/api/v1/team/35272/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:15 AM",
-    "endTime": "07-02-2026 04:35 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Hellas Verona",
-      "logo": "https://img.sofascore.com/api/v1/team/2701/image"
-    },
-    "away": {
-      "name": "Pisa",
-      "logo": "https://img.sofascore.com/api/v1/team/2737/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:15 AM",
-    "endTime": "07-02-2026 04:35 AM",
-    "LeagueName": "Ligue 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-    "home": {
-      "name": "Metz",
-      "logo": "https://img.sofascore.com/api/v1/team/1651/image"
-    },
-    "away": {
-      "name": "Lille",
-      "logo": "https://img.sofascore.com/api/v1/team/1643/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Pro League",
@@ -1102,10 +1221,25 @@
       "name": "Sint-Truidense VV",
       "logo": "https://img.sofascore.com/api/v1/team/2895/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/ERERERQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.lppefe.shop/hls/ERERERQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Premier Division",
@@ -1118,10 +1252,25 @@
       "name": "Drogheda United",
       "logo": "https://img.sofascore.com/api/v1/team/3180/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/TYTYTYQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/galway-united-vs-drogheda-united-football-1492617\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Premier Division",
@@ -1134,10 +1283,25 @@
       "name": "Shelbourne",
       "logo": "https://img.sofascore.com/api/v1/team/3174/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/TYTYTYQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/waterford-vs-shelbourne-football-1492618\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Premier Division",
@@ -1150,10 +1314,25 @@
       "name": "Sligo Rovers",
       "logo": "https://img.sofascore.com/api/v1/team/3190/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/TYTYTY.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/derry-city-vs-sligo-rovers-football-1492616\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Scottish Cup",
@@ -1166,23 +1345,22 @@
       "name": "St. Mirren",
       "logo": "https://img.sofascore.com/api/v1/team/2359/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:30 AM",
-    "endTime": "07-02-2026 04:50 AM",
-    "LeagueName": "Liga 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-    "home": {
-      "name": "CD Moquegua",
-      "logo": "https://img.sofascore.com/api/v1/team/492848/image"
-    },
-    "away": {
-      "name": "Universidad Técnica de Cajamarca",
-      "logo": "https://img.sofascore.com/api/v1/team/87854/image"
-    },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/ERERERQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/ERERERQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1197,54 +1375,6 @@
     "away": {
       "name": "Clermont Foot",
       "logo": "https://img.sofascore.com/api/v1/team/1680/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:30 AM",
-    "endTime": "07-02-2026 04:50 AM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-    "home": {
-      "name": "Leeds United",
-      "logo": "https://img.sofascore.com/api/v1/team/34/image"
-    },
-    "away": {
-      "name": "Nottingham Forest",
-      "logo": "https://img.sofascore.com/api/v1/team/14/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:30 AM",
-    "endTime": "07-02-2026 04:50 AM",
-    "LeagueName": "LaLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "home": {
-      "name": "Celta Vigo",
-      "logo": "https://img.sofascore.com/api/v1/team/2821/image"
-    },
-    "away": {
-      "name": "Osasuna",
-      "logo": "https://img.sofascore.com/api/v1/team/2820/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 02:31 AM",
-    "endTime": "07-02-2026 04:51 AM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Charlton Athletic",
-      "logo": "https://img.sofascore.com/api/v1/team/47/image"
-    },
-    "away": {
-      "name": "Queens Park Rangers",
-      "logo": "https://img.sofascore.com/api/v1/team/1/image"
     },
     "live_links": []
   },
@@ -1471,58 +1601,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/5971/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 11:30 PM",
-    "endTime": "07-02-2026 01:50 AM",
-    "LeagueName": "HNL",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/170/image/dark",
-    "home": {
-      "name": "NK Lokomotiva Zagreb",
-      "logo": "https://img.sofascore.com/api/v1/team/36246/image"
-    },
-    "away": {
-      "name": "HNK Gorica",
-      "logo": "https://img.sofascore.com/api/v1/team/43917/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/dadadaQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/dadadaQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:00 AM",
-    "endTime": "07-02-2026 02:10 AM",
-    "LeagueName": "South Africa Nedbank Cup",
-    "LeagueLogo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
-    "home": {
-      "name": "Chippa Utd",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png"
-    },
-    "away": {
-      "name": "Durban City",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
   },
   {
     "status": "LIVE",
