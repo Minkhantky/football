@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 06:30 PM",
     "endTime": "06-02-2026 08:50 PM",
     "LeagueName": "Indonesia Super League",
@@ -13,7 +13,22 @@
       "name": "Malut United FC",
       "logo": "https://img.sofascore.com/api/v1/team/491968/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1283,5 +1298,21 @@
         "link": "http://205.237.104.40/hls/MMMM.m3u8|Referer=http://www.fawanews.sc/"
       }
     ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "06-02-2026 07:45 PM",
+    "endTime": "06-02-2026 09:55 PM",
+    "LeagueName": "Tanzania Ligi Kuu Bara",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+    "home": {
+      "name": "Mashujaa",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "away": {
+      "name": "Mashujaa",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "live_links": []
   }
 ]
