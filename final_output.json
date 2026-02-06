@@ -199,12 +199,15 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.104.40/hls/MMMMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 10:30 PM",
     "endTime": "07-02-2026 12:50 AM",
     "LeagueName": "CAF Champions League",
@@ -217,12 +220,15 @@
       "name": "Al-Hilal Al-Ubayyid",
       "logo": "https://img.sofascore.com/api/v1/team/251254/image"
     },
-    "live_links": {
-      "error": "HTTP Error 503: Service Unavailable"
-    }
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 10:30 PM",
     "endTime": "07-02-2026 12:50 AM",
     "LeagueName": "UAE Pro League",
@@ -238,7 +244,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "https://q.lppefe.shop/hls/ittt.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "DUBAI 1 Sports ",
