@@ -227,65 +227,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Bundesliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "home": {
-      "name": "1. FC Union Berlin",
-      "logo": "https://img.sofascore.com/api/v1/team/2547/image"
-    },
-    "away": {
-      "name": "Eintracht Frankfurt",
-      "logo": "https://img.sofascore.com/api/v1/team/2674/image"
-    },
-    "live_links": [
-      {
-        "name": "DAZN SPORTS FHD ",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meypsndoau/out/v1/d79344578b274ca2b40fcb6851e1b8ba/cenc.mpd",
-        "scheme": 0,
-        "api": "a46893ec4ea6f010fbbd81b00ac29118:d309d0596dcefe163cfd61774debf50c",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sky Sport Top Event DE",
-        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
-        "scheme": 0,
-        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
-        "tokenApi": ""
-      },
-      {
-        "name": "DAZN ENGLISH 2 FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gfdc4avohz/out/v1/6d9852b9ce2741ddae05f0bd75c49625/cenc.mpd",
-        "scheme": 0,
-        "api": "b4c974fc29f3a46e9e682a6070de2c8d:ee626408a66657c0b6cd7ca919fa5ef2",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sky Bundesliga FHD ",
-        "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
-        "scheme": 0,
-        "api": "67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2",
-        "tokenApi": ""
-      },
-      {
-        "name": "FAST TV",
-        "link": "https://q.lppefe.shop/hls/ZEZEZEQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "SonyLiv (Asia)",
-        "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1770424202~acl=/*~id=57370666262134687494694962311446~hmac=f420b830e3fbd6fa10611095d1ad8317724a2e8bd037664a30c2b7274154eca6|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; Pixel 6a; Build/BP1A.250505.005)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4ce5672a1cfdd486fba4a7f73199fd67-1770405000124",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 02:15 AM",
     "endTime": "07-02-2026 04:35 AM",
     "LeagueName": "Ligue 1",
@@ -397,37 +338,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Cesena",
-      "logo": "https://img.sofascore.com/api/v1/team/2742/image"
-    },
-    "away": {
-      "name": "Pescara",
-      "logo": "https://img.sofascore.com/api/v1/team/7935/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/ZEZEZEQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/cesena-vs-pescara-football-1419813\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 02:30 AM",
     "endTime": "07-02-2026 04:50 AM",
     "LeagueName": "Liga 1",
@@ -468,154 +378,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:45 AM",
-    "endTime": "07-02-2026 04:05 AM",
-    "LeagueName": "Challenge League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/216/image/dark",
-    "home": {
-      "name": "FC Vaduz",
-      "logo": "https://img.sofascore.com/api/v1/team/2463/image"
-    },
-    "away": {
-      "name": "Étoile Carouge FC",
-      "logo": "https://img.sofascore.com/api/v1/team/2497/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/UUUUUQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "2",
-        "link": "https://q.lppefe.shop/hls/UUUUUQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "LaLiga 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-    "home": {
-      "name": "Leganés",
-      "logo": "https://img.sofascore.com/api/v1/team/2845/image"
-    },
-    "away": {
-      "name": "Granada",
-      "logo": "https://img.sofascore.com/api/v1/team/33779/image"
-    },
-    "live_links": [
-      {
-        "name": "LaLiga Hypermotion ES FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-        "scheme": 0,
-        "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Austrian Bundesliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/45/image/dark",
-    "home": {
-      "name": "Red Bull Salzburg",
-      "logo": "https://img.sofascore.com/api/v1/team/2046/image"
-    },
-    "away": {
-      "name": "FK Austria Wien",
-      "logo": "https://img.sofascore.com/api/v1/team/2203/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/UUUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/UUUUUQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Ekstraklasa",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-    "home": {
-      "name": "KS Lechia Gdańsk",
-      "logo": "https://img.sofascore.com/api/v1/team/7913/image"
-    },
-    "away": {
-      "name": "Cracovia",
-      "logo": "https://img.sofascore.com/api/v1/team/4901/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZEQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZEQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 02:00 AM",
-    "endTime": "07-02-2026 04:20 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "Wisła Kraków",
-      "logo": "https://img.sofascore.com/api/v1/team/3111/image"
-    },
-    "away": {
-      "name": "GKS Tychy",
-      "logo": "https://img.sofascore.com/api/v1/team/35272/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/ZEZEZE.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
       }
     ]
   },
@@ -4408,7 +4170,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 04:15 AM",
     "endTime": "07-02-2026 06:26 AM",
     "LeagueName": "Liga MX, Clausura Women",
@@ -4421,6 +4183,21 @@
       "name": "Santos Laguna W",
       "logo": "https://img.sofascore.com/api/v1/team/1948/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/HJHJHJQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/HJHJHJQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   }
 ]
