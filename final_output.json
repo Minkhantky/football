@@ -1262,5 +1262,26 @@
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lVCLc_0aMZBqjYs2aocRGz7gjyKIyPiJqg&s"
     },
     "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "06-02-2026 05:30 PM",
+    "endTime": "06-02-2026 07:35 PM",
+    "LeagueName": "Tanzania Ligi Kuu Bara",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+    "home": {
+      "name": "Pamba",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "away": {
+      "name": "Coastal Union",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/MMMM.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   }
 ]
