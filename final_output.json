@@ -473,189 +473,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "Danish Superliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/39/image/dark",
-    "home": {
-      "name": "AGF",
-      "logo": "https://img.sofascore.com/api/v1/team/1291/image"
-    },
-    "away": {
-      "name": "Odense Boldklub",
-      "logo": "https://img.sofascore.com/api/v1/team/1286/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/FOOO.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Tala'ea El-Gaish",
-      "logo": "https://img.sofascore.com/api/v1/team/43561/image"
-    },
-    "away": {
-      "name": "Al-Ittihad Alexandria",
-      "logo": "https://img.sofascore.com/api/v1/team/35187/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "Petrojet",
-      "logo": "https://img.sofascore.com/api/v1/team/43567/image"
-    },
-    "away": {
-      "name": "ENPPI",
-      "logo": "https://img.sofascore.com/api/v1/team/43564/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/CACACAQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "ONTime Sports 2",
-        "link": "http://apk.arabic-ch.space/live/007000/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "FC Rapid București",
-      "logo": "https://img.sofascore.com/api/v1/team/295403/image"
-    },
-    "away": {
-      "name": "FC Petrolul Ploiești",
-      "logo": "https://img.sofascore.com/api/v1/team/25856/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q0L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/CACACAQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "Liga Portugal 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
-    "home": {
-      "name": "FC Porto B",
-      "logo": "https://img.sofascore.com/api/v1/team/74469/image"
-    },
-    "away": {
-      "name": "Académico Viseu FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3022/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/fc-porto-b-vs-academico-viseu-football-1398150\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:00 AM",
-    "endTime": "07-02-2026 03:20 AM",
-    "LeagueName": "Challenge League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/216/image/dark",
-    "home": {
-      "name": "Stade Nyonnais",
-      "logo": "https://img.sofascore.com/api/v1/team/2490/image"
-    },
-    "away": {
-      "name": "AC Bellinzona",
-      "logo": "https://img.sofascore.com/api/v1/team/2459/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/FOOOZ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/FOOOZ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 01:30 AM",
     "endTime": "07-02-2026 03:50 AM",
     "LeagueName": "VriendenLoterij Eredivisie",
@@ -1518,7 +1335,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -1531,10 +1348,15 @@
       "name": "Deportes Santa Cruz",
       "logo": "https://img.sofascore.com/api/v1/team/243490/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "Primera División, Apertura",
@@ -1547,10 +1369,15 @@
       "name": "Recoleta FC",
       "logo": "https://img.sofascore.com/api/v1/team/292595/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -1563,10 +1390,15 @@
       "name": "Paraguay U20",
       "logo": "https://img.sofascore.com/api/v1/team/48983/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -1579,7 +1411,12 @@
       "name": "Colombia U20",
       "logo": "https://img.sofascore.com/api/v1/team/43214/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1710,34 +1547,3331 @@
     "live_links": []
   },
   {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 AM",
-    "endTime": "07-02-2026 02:50 AM",
-    "LeagueName": "3. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/491/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 AM",
+    "endTime": "07-02-2026 12:50 PM",
+    "LeagueName": "A-League Men",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
     "home": {
-      "name": "SV Waldhof Mannheim",
-      "logo": "https://img.sofascore.com/api/v1/team/2680/image"
+      "name": "Auckland FC",
+      "logo": "https://img.sofascore.com/api/v1/team/800224/image"
     },
     "away": {
-      "name": "SSV Ulm 1846",
-      "logo": "https://img.sofascore.com/api/v1/team/2580/image"
+      "name": "Sydney FC",
+      "logo": "https://img.sofascore.com/api/v1/team/5971/image"
     },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/CACACAQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 12:30 PM",
+    "endTime": "07-02-2026 02:50 PM",
+    "LeagueName": "A-League Men",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+    "home": {
+      "name": "Brisbane Roar",
+      "logo": "https://img.sofascore.com/api/v1/team/5968/image"
+    },
+    "away": {
+      "name": "Central Coast Mariners",
+      "logo": "https://img.sofascore.com/api/v1/team/5966/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 03:00 PM",
+    "endTime": "07-02-2026 05:20 PM",
+    "LeagueName": "A-League Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+    "home": {
+      "name": "Melbourne Victory",
+      "logo": "https://img.sofascore.com/api/v1/team/174100/image"
+    },
+    "away": {
+      "name": "Newcastle Jets",
+      "logo": "https://img.sofascore.com/api/v1/team/174102/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 03:00 PM",
+    "endTime": "07-02-2026 05:20 PM",
+    "LeagueName": "Indonesia Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
+    "home": {
+      "name": "Persik Kediri",
+      "logo": "https://img.sofascore.com/api/v1/team/135866/image"
+    },
+    "away": {
+      "name": "Dewa United FC",
+      "logo": "https://img.sofascore.com/api/v1/team/383891/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 03:00 PM",
+    "endTime": "07-02-2026 05:20 PM",
+    "LeagueName": "Indonesia Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
+    "home": {
+      "name": "Bhayangkara Presisi Lampung FC",
+      "logo": "https://img.sofascore.com/api/v1/team/220867/image"
+    },
+    "away": {
+      "name": "Borneo FC Samarinda",
+      "logo": "https://img.sofascore.com/api/v1/team/189945/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 03:05 PM",
+    "endTime": "07-02-2026 05:25 PM",
+    "LeagueName": "A-League Men",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
+    "home": {
+      "name": "Western Sydney Wanderers",
+      "logo": "https://img.sofascore.com/api/v1/team/72926/image"
+    },
+    "away": {
+      "name": "Melbourne City",
+      "logo": "https://img.sofascore.com/api/v1/team/42210/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 04:30 PM",
+    "endTime": "07-02-2026 06:50 PM",
+    "LeagueName": "Club Friendly Games",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+    "home": {
+      "name": "MŠK Púchov",
+      "logo": "https://img.sofascore.com/api/v1/team/2401/image"
+    },
+    "away": {
+      "name": "SK Hanácká Slavia Kroměříž",
+      "logo": "https://img.sofascore.com/api/v1/team/4865/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:00 PM",
+    "endTime": "07-02-2026 07:20 PM",
+    "LeagueName": "Parva Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
+    "home": {
+      "name": "Cherno More Varna",
+      "logo": "https://img.sofascore.com/api/v1/team/3280/image"
+    },
+    "away": {
+      "name": "FK Spartak Varna",
+      "logo": "https://img.sofascore.com/api/v1/team/3278/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:00 PM",
+    "endTime": "07-02-2026 07:20 PM",
+    "LeagueName": "Trendyol 1.Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+    "home": {
+      "name": "Hatayspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3091/image"
+    },
+    "away": {
+      "name": "Esenler Erokspor",
+      "logo": "https://img.sofascore.com/api/v1/team/262480/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:00 PM",
+    "endTime": "07-02-2026 07:20 PM",
+    "LeagueName": "Trendyol 1.Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+    "home": {
+      "name": "Sarıyer",
+      "logo": "https://img.sofascore.com/api/v1/team/4952/image"
+    },
+    "away": {
+      "name": "Sivasspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3076/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:50 PM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "AFC Unirea 04 Slobozia",
+      "logo": "https://img.sofascore.com/api/v1/team/44259/image"
+    },
+    "away": {
+      "name": "FC Farul Constanța",
+      "logo": "https://img.sofascore.com/api/v1/team/3294/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:50 PM",
+    "LeagueName": "Frauen-Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+    "home": {
+      "name": "SV Werder Bremen",
+      "logo": "https://img.sofascore.com/api/v1/team/36656/image"
+    },
+    "away": {
+      "name": "VfL Wolfsburg",
+      "logo": "https://img.sofascore.com/api/v1/team/5556/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:50 PM",
+    "LeagueName": "Liga F Moeve",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+    "home": {
+      "name": "SD Eibar",
+      "logo": "https://img.sofascore.com/api/v1/team/362904/image"
+    },
+    "away": {
+      "name": "Granada Club de Fútbol",
+      "logo": "https://img.sofascore.com/api/v1/team/114819/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:50 PM",
+    "LeagueName": "Thai League 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1032/image/dark",
+    "home": {
+      "name": "PT Prachuap FC",
+      "logo": "https://img.sofascore.com/api/v1/team/252115/image"
+    },
+    "away": {
+      "name": "Chonburi FC",
+      "logo": "https://img.sofascore.com/api/v1/team/35886/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:50 PM",
+    "LeagueName": "Liga Portugal 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
+    "home": {
+      "name": "Lusitânia Lourosa",
+      "logo": "https://img.sofascore.com/api/v1/team/35174/image"
+    },
+    "away": {
+      "name": "Felgueiras",
+      "logo": "https://img.sofascore.com/api/v1/team/3030/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:00 PM",
+    "endTime": "07-02-2026 08:20 PM",
+    "LeagueName": "Trendyol Süper Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+    "home": {
+      "name": "Fatih Karagümrük",
+      "logo": "https://img.sofascore.com/api/v1/team/4954/image"
+    },
+    "away": {
+      "name": "Antalyaspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3056/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:00 PM",
+    "endTime": "07-02-2026 08:20 PM",
+    "LeagueName": "Serie A Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+    "home": {
+      "name": "Genoa",
+      "logo": "https://img.sofascore.com/api/v1/team/923850/image"
+    },
+    "away": {
+      "name": "Lazio",
+      "logo": "https://img.sofascore.com/api/v1/team/389322/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:00 PM",
+    "endTime": "07-02-2026 08:20 PM",
+    "LeagueName": "Serie A Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+    "home": {
+      "name": "Sassuolo",
+      "logo": "https://img.sofascore.com/api/v1/team/269819/image"
+    },
+    "away": {
+      "name": "Parma",
+      "logo": "https://img.sofascore.com/api/v1/team/424787/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:15 PM",
+    "endTime": "07-02-2026 08:35 PM",
+    "LeagueName": "Fizz Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/187/image/dark",
+    "home": {
+      "name": "Diósgyőri VTK",
+      "logo": "https://img.sofascore.com/api/v1/team/5121/image"
+    },
+    "away": {
+      "name": "ETO FC Győr",
+      "logo": "https://img.sofascore.com/api/v1/team/1923/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:00 PM",
+    "endTime": "07-02-2026 08:20 PM",
+    "LeagueName": "Singapore Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/634/image/dark",
+    "home": {
+      "name": "Balestier Khalsa",
+      "logo": "https://img.sofascore.com/api/v1/team/3039/image"
+    },
+    "away": {
+      "name": "Tampines Rovers",
+      "logo": "https://img.sofascore.com/api/v1/team/3043/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "2. Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+    "home": {
+      "name": "SV 07 Elversberg",
+      "logo": "https://img.sofascore.com/api/v1/team/2598/image"
+    },
+    "away": {
+      "name": "Hertha BSC",
+      "logo": "https://img.sofascore.com/api/v1/team/2528/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "2. Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+    "home": {
+      "name": "FC Schalke 04",
+      "logo": "https://img.sofascore.com/api/v1/team/2530/image"
+    },
+    "away": {
+      "name": "SG Dynamo Dresden",
+      "logo": "https://img.sofascore.com/api/v1/team/2595/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "2. Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+    "home": {
+      "name": "SC Paderborn 07",
+      "logo": "https://img.sofascore.com/api/v1/team/2561/image"
+    },
+    "away": {
+      "name": "1. FC Nürnberg",
+      "logo": "https://img.sofascore.com/api/v1/team/2523/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "Women's Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+    "home": {
+      "name": "Leicester City",
+      "logo": "https://img.sofascore.com/api/v1/team/299289/image"
+    },
+    "away": {
+      "name": "Manchester United",
+      "logo": "https://img.sofascore.com/api/v1/team/301455/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "Indonesia Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
+    "home": {
+      "name": "Persijap Jepara",
+      "logo": "https://img.sofascore.com/api/v1/team/135868/image"
+    },
+    "away": {
+      "name": "Madura United FC",
+      "logo": "https://img.sofascore.com/api/v1/team/86578/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 06:30 PM",
+    "endTime": "07-02-2026 08:50 PM",
+    "LeagueName": "Indonesia Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
+    "home": {
+      "name": "Bali United FC",
+      "logo": "https://img.sofascore.com/api/v1/team/64299/image"
+    },
+    "away": {
+      "name": "Persebaya Surabaya",
+      "logo": "https://img.sofascore.com/api/v1/team/76319/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Manchester United",
+      "logo": "https://img.sofascore.com/api/v1/team/35/image"
+    },
+    "away": {
+      "name": "Tottenham Hotspur",
+      "logo": "https://img.sofascore.com/api/v1/team/33/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Southampton",
+      "logo": "https://img.sofascore.com/api/v1/team/45/image"
+    },
+    "away": {
+      "name": "Watford",
+      "logo": "https://img.sofascore.com/api/v1/team/24/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Norwich City",
+      "logo": "https://img.sofascore.com/api/v1/team/263/image"
+    },
+    "away": {
+      "name": "Blackburn Rovers",
+      "logo": "https://img.sofascore.com/api/v1/team/46/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Derby County",
+      "logo": "https://img.sofascore.com/api/v1/team/27/image"
+    },
+    "away": {
+      "name": "Ipswich Town",
+      "logo": "https://img.sofascore.com/api/v1/team/32/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Luton Town",
+      "logo": "https://img.sofascore.com/api/v1/team/72/image"
+    },
+    "away": {
+      "name": "Bradford City",
+      "logo": "https://img.sofascore.com/api/v1/team/22/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Port Vale",
+      "logo": "https://img.sofascore.com/api/v1/team/55/image"
+    },
+    "away": {
+      "name": "Burton Albion",
+      "logo": "https://img.sofascore.com/api/v1/team/134/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "League Two",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+    "home": {
+      "name": "Crawley Town",
+      "logo": "https://img.sofascore.com/api/v1/team/4875/image"
+    },
+    "away": {
+      "name": "Crewe Alexandra",
+      "logo": "https://img.sofascore.com/api/v1/team/19/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:00 PM",
+    "endTime": "07-02-2026 09:20 PM",
+    "LeagueName": "League Two",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/25/image/dark",
+    "home": {
+      "name": "Swindon Town",
+      "logo": "https://img.sofascore.com/api/v1/team/53/image"
+    },
+    "away": {
+      "name": "Oldham Athletic",
+      "logo": "https://img.sofascore.com/api/v1/team/65/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "home": {
+      "name": "Rayo Vallecano",
+      "logo": "https://img.sofascore.com/api/v1/team/2818/image"
+    },
+    "away": {
+      "name": "Real Oviedo",
+      "logo": "https://img.sofascore.com/api/v1/team/2851/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "LaLiga 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "home": {
+      "name": "FC Andorra",
+      "logo": "https://img.sofascore.com/api/v1/team/324871/image"
+    },
+    "away": {
+      "name": "Real Sociedad B U21",
+      "logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "CAF Champions League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+    "home": {
+      "name": "Power Dynamos",
+      "logo": "https://img.sofascore.com/api/v1/team/191877/image"
+    },
+    "away": {
+      "name": "RS Berkane",
+      "logo": "https://img.sofascore.com/api/v1/team/80395/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Ligue 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+    "home": {
+      "name": "Le Mans",
+      "logo": "https://img.sofascore.com/api/v1/team/1672/image"
+    },
+    "away": {
+      "name": "Stade Lavallois",
+      "logo": "https://img.sofascore.com/api/v1/team/1673/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Ligue 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+    "home": {
+      "name": "Nancy",
+      "logo": "https://img.sofascore.com/api/v1/team/1675/image"
+    },
+    "away": {
+      "name": "Troyes",
+      "logo": "https://img.sofascore.com/api/v1/team/1652/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Parva Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
+    "home": {
+      "name": "Lokomotiv Sofia",
+      "logo": "https://img.sofascore.com/api/v1/team/3277/image"
+    },
+    "away": {
+      "name": "Ludogorets",
+      "logo": "https://img.sofascore.com/api/v1/team/43840/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Première Ligue, Féminine",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
+    "home": {
+      "name": "RC Lens",
+      "logo": "https://img.sofascore.com/api/v1/team/404737/image"
+    },
+    "away": {
+      "name": "FC Fleury 91",
+      "logo": "https://img.sofascore.com/api/v1/team/264963/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "FK Csíkszereda Miercurea Ciuc",
+      "logo": "https://img.sofascore.com/api/v1/team/283972/image"
+    },
+    "away": {
+      "name": "UTA Arad",
+      "logo": "https://img.sofascore.com/api/v1/team/204657/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Trendyol 1.Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+    "home": {
+      "name": "Vanspor FK",
+      "logo": "https://img.sofascore.com/api/v1/team/24750/image"
+    },
+    "away": {
+      "name": "Çorum FK",
+      "logo": "https://img.sofascore.com/api/v1/team/77629/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Frauen-Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+    "home": {
+      "name": "Eintracht Frankfurt",
+      "logo": "https://img.sofascore.com/api/v1/team/108685/image"
+    },
+    "away": {
+      "name": "Bayer Leverkusen",
+      "logo": "https://img.sofascore.com/api/v1/team/36623/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Tunisian Ligue Professionnelle 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/984/image/dark",
+    "home": {
+      "name": "Avenir Sportif De La Marsa",
+      "logo": "https://img.sofascore.com/api/v1/team/59614/image"
+    },
+    "away": {
+      "name": "JS Kairouanaise",
+      "logo": "https://img.sofascore.com/api/v1/team/59632/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Tunisian Ligue Professionnelle 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/984/image/dark",
+    "home": {
+      "name": "ES Zarzis",
+      "logo": "https://img.sofascore.com/api/v1/team/59630/image"
+    },
+    "away": {
+      "name": "Avenir Sportif De Gabes",
+      "logo": "https://img.sofascore.com/api/v1/team/59616/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Tunisian Ligue Professionnelle 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/984/image/dark",
+    "home": {
+      "name": "Olympique Béja",
+      "logo": "https://img.sofascore.com/api/v1/team/59634/image"
+    },
+    "away": {
+      "name": "AS Soliman",
+      "logo": "https://img.sofascore.com/api/v1/team/274247/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:30 PM",
+    "endTime": "07-02-2026 09:50 PM",
+    "LeagueName": "Tunisian Ligue Professionnelle 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/984/image/dark",
+    "home": {
+      "name": "Etoile Sportive Du Sahel",
+      "logo": "https://img.sofascore.com/api/v1/team/35188/image"
+    },
+    "away": {
+      "name": "US Monastir",
+      "logo": "https://img.sofascore.com/api/v1/team/59638/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:00 PM",
+    "endTime": "07-02-2026 10:20 PM",
+    "LeagueName": "Liigacup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/83/image/dark",
+    "home": {
+      "name": "FF Jaro",
+      "logo": "https://img.sofascore.com/api/v1/team/2252/image"
+    },
+    "away": {
+      "name": "AC Oulu",
+      "logo": "https://img.sofascore.com/api/v1/team/5114/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 07:55 PM",
+    "endTime": "07-02-2026 10:15 PM",
+    "LeagueName": "UAE Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+    "home": {
+      "name": "Dibba Al-Fujairah",
+      "logo": "https://img.sofascore.com/api/v1/team/81309/image"
+    },
+    "away": {
+      "name": "Baniyas",
+      "logo": "https://img.sofascore.com/api/v1/team/58689/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:15 PM",
+    "endTime": "07-02-2026 10:35 PM",
+    "LeagueName": "Fizz Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/187/image/dark",
+    "home": {
+      "name": "Debreceni VSC",
+      "logo": "https://img.sofascore.com/api/v1/team/1921/image"
+    },
+    "away": {
+      "name": "Paksi FC",
+      "logo": "https://img.sofascore.com/api/v1/team/6059/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:15 PM",
+    "endTime": "07-02-2026 10:35 PM",
+    "LeagueName": "Bahraini Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/846/image/dark",
+    "home": {
+      "name": "Riffa",
+      "logo": "https://img.sofascore.com/api/v1/team/40659/image"
+    },
+    "away": {
+      "name": "Hidd",
+      "logo": "https://img.sofascore.com/api/v1/team/45472/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:15 PM",
+    "endTime": "07-02-2026 10:35 PM",
+    "LeagueName": "Ekstraklasa",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "home": {
+      "name": "MZKS Arka Gdynia",
+      "logo": "https://img.sofascore.com/api/v1/team/5064/image"
+    },
+    "away": {
+      "name": "Legia Warszawa",
+      "logo": "https://img.sofascore.com/api/v1/team/3106/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Carrarese",
+      "logo": "https://img.sofascore.com/api/v1/team/2745/image"
+    },
+    "away": {
+      "name": "Südtirol",
+      "logo": "https://img.sofascore.com/api/v1/team/2760/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Mantova",
+      "logo": "https://img.sofascore.com/api/v1/team/2770/image"
+    },
+    "away": {
+      "name": "Bari",
+      "logo": "https://img.sofascore.com/api/v1/team/2712/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Juve Stabia",
+      "logo": "https://img.sofascore.com/api/v1/team/5324/image"
+    },
+    "away": {
+      "name": "Padova",
+      "logo": "https://img.sofascore.com/api/v1/team/2741/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Modena",
+      "logo": "https://img.sofascore.com/api/v1/team/2706/image"
+    },
+    "away": {
+      "name": "Sampdoria",
+      "logo": "https://img.sofascore.com/api/v1/team/2711/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Catanzaro",
+      "logo": "https://img.sofascore.com/api/v1/team/2796/image"
+    },
+    "away": {
+      "name": "Reggiana",
+      "logo": "https://img.sofascore.com/api/v1/team/24516/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Frosinone",
+      "logo": "https://img.sofascore.com/api/v1/team/2801/image"
+    },
+    "away": {
+      "name": "Venezia",
+      "logo": "https://img.sofascore.com/api/v1/team/2688/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Algerian Ligue 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/841/image/dark",
+    "home": {
+      "name": "ES Mostaganem",
+      "logo": "https://img.sofascore.com/api/v1/team/186100/image"
+    },
+    "away": {
+      "name": "MC Oran",
+      "logo": "https://img.sofascore.com/api/v1/team/45001/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Kholood",
+      "logo": "https://img.sofascore.com/api/v1/team/269199/image"
+    },
+    "away": {
+      "name": "Al-Shabab",
+      "logo": "https://img.sofascore.com/api/v1/team/34313/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Serie A Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+    "home": {
+      "name": "FC Como",
+      "logo": "https://img.sofascore.com/api/v1/team/404899/image"
+    },
+    "away": {
+      "name": "Juventus",
+      "logo": "https://img.sofascore.com/api/v1/team/269824/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "PrvaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/212/image/dark",
+    "home": {
+      "name": "ND Primorje",
+      "logo": "https://img.sofascore.com/api/v1/team/2414/image"
+    },
+    "away": {
+      "name": "NK Bravo",
+      "logo": "https://img.sofascore.com/api/v1/team/261800/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 08:30 PM",
+    "endTime": "07-02-2026 10:50 PM",
+    "LeagueName": "Liga Portugal 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
+    "home": {
+      "name": "Marítimo",
+      "logo": "https://img.sofascore.com/api/v1/team/3007/image"
+    },
+    "away": {
+      "name": "SC Farense",
+      "logo": "https://img.sofascore.com/api/v1/team/2998/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:00 PM",
+    "endTime": "07-02-2026 11:20 PM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "1. FC Heidenheim",
+      "logo": "https://img.sofascore.com/api/v1/team/5885/image"
+    },
+    "away": {
+      "name": "Hamburger SV",
+      "logo": "https://img.sofascore.com/api/v1/team/2676/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:00 PM",
+    "endTime": "07-02-2026 11:20 PM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "1. FSV Mainz 05",
+      "logo": "https://img.sofascore.com/api/v1/team/2556/image"
+    },
+    "away": {
+      "name": "FC Augsburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2600/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:00 PM",
+    "endTime": "07-02-2026 11:20 PM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "VfL Wolfsburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+    },
+    "away": {
+      "name": "Borussia Dortmund",
+      "logo": "https://img.sofascore.com/api/v1/team/2673/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:00 PM",
+    "endTime": "07-02-2026 11:20 PM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "FC St. Pauli",
+      "logo": "https://img.sofascore.com/api/v1/team/2526/image"
+    },
+    "away": {
+      "name": "VfB Stuttgart",
+      "logo": "https://img.sofascore.com/api/v1/team/2677/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:00 PM",
+    "endTime": "07-02-2026 11:20 PM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "SC Freiburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    "away": {
+      "name": "SV Werder Bremen",
+      "logo": "https://img.sofascore.com/api/v1/team/2534/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Bournemouth",
+      "logo": "https://img.sofascore.com/api/v1/team/60/image"
+    },
+    "away": {
+      "name": "Aston Villa",
+      "logo": "https://img.sofascore.com/api/v1/team/40/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Fulham",
+      "logo": "https://img.sofascore.com/api/v1/team/43/image"
+    },
+    "away": {
+      "name": "Everton",
+      "logo": "https://img.sofascore.com/api/v1/team/48/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Wolverhampton",
+      "logo": "https://img.sofascore.com/api/v1/team/3/image"
+    },
+    "away": {
+      "name": "Chelsea",
+      "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Burnley",
+      "logo": "https://img.sofascore.com/api/v1/team/6/image"
+    },
+    "away": {
+      "name": "West Ham United",
+      "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Arsenal",
+      "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    },
+    "away": {
+      "name": "Sunderland",
+      "logo": "https://img.sofascore.com/api/v1/team/41/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "home": {
+      "name": "SV Zulte Waregem",
+      "logo": "https://img.sofascore.com/api/v1/team/2933/image"
+    },
+    "away": {
+      "name": "FCV Dender",
+      "logo": "https://img.sofascore.com/api/v1/team/389232/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Mozzart Bet Superliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/210/image/dark",
+    "home": {
+      "name": "FK Crvena zvezda",
+      "logo": "https://img.sofascore.com/api/v1/team/5149/image"
+    },
+    "away": {
+      "name": "FK Novi Pazar",
+      "logo": "https://img.sofascore.com/api/v1/team/25736/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Stoiximan Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+    "home": {
+      "name": "AEL Novibet",
+      "logo": "https://img.sofascore.com/api/v1/team/3265/image"
+    },
+    "away": {
+      "name": "GFS Panetolikos",
+      "logo": "https://img.sofascore.com/api/v1/team/7004/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Birmingham City",
+      "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    },
+    "away": {
+      "name": "Leicester City",
+      "logo": "https://img.sofascore.com/api/v1/team/31/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Preston North End",
+      "logo": "https://img.sofascore.com/api/v1/team/21/image"
+    },
+    "away": {
+      "name": "Portsmouth",
+      "logo": "https://img.sofascore.com/api/v1/team/2/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Wrexham",
+      "logo": "https://img.sofascore.com/api/v1/team/64/image"
+    },
+    "away": {
+      "name": "Millwall",
+      "logo": "https://img.sofascore.com/api/v1/team/25/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "West Bromwich Albion",
+      "logo": "https://img.sofascore.com/api/v1/team/8/image"
+    },
+    "away": {
+      "name": "Stoke City",
+      "logo": "https://img.sofascore.com/api/v1/team/29/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Coventry City",
+      "logo": "https://img.sofascore.com/api/v1/team/11/image"
+    },
+    "away": {
+      "name": "Oxford United",
+      "logo": "https://img.sofascore.com/api/v1/team/95/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Hull City",
+      "logo": "https://img.sofascore.com/api/v1/team/96/image"
+    },
+    "away": {
+      "name": "Bristol City",
+      "logo": "https://img.sofascore.com/api/v1/team/58/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Liga de Primera",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+    "home": {
+      "name": "Coquimbo Unido",
+      "logo": "https://img.sofascore.com/api/v1/team/3165/image"
+    },
+    "away": {
+      "name": "Palestino",
+      "logo": "https://img.sofascore.com/api/v1/team/3157/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Bolton Wanderers",
+      "logo": "https://img.sofascore.com/api/v1/team/5/image"
+    },
+    "away": {
+      "name": "Barnsley",
+      "logo": "https://img.sofascore.com/api/v1/team/23/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Wycombe Wanderers",
+      "logo": "https://img.sofascore.com/api/v1/team/62/image"
+    },
+    "away": {
+      "name": "Doncaster Rovers",
+      "logo": "https://img.sofascore.com/api/v1/team/84/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Huddersfield Town",
+      "logo": "https://img.sofascore.com/api/v1/team/59/image"
+    },
+    "away": {
+      "name": "Blackpool",
+      "logo": "https://img.sofascore.com/api/v1/team/67/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Rotherham United",
+      "logo": "https://img.sofascore.com/api/v1/team/13/image"
+    },
+    "away": {
+      "name": "Cardiff City",
+      "logo": "https://img.sofascore.com/api/v1/team/61/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Stockport County",
+      "logo": "https://img.sofascore.com/api/v1/team/10/image"
+    },
+    "away": {
+      "name": "Leyton Orient",
+      "logo": "https://img.sofascore.com/api/v1/team/83/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "AFC Wimbledon",
+      "logo": "https://img.sofascore.com/api/v1/team/23957/image"
+    },
+    "away": {
+      "name": "Reading",
+      "logo": "https://img.sofascore.com/api/v1/team/28/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Plymouth Argyle",
+      "logo": "https://img.sofascore.com/api/v1/team/71/image"
+    },
+    "away": {
+      "name": "Lincoln City",
+      "logo": "https://img.sofascore.com/api/v1/team/92/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Peterborough United",
+      "logo": "https://img.sofascore.com/api/v1/team/54/image"
+    },
+    "away": {
+      "name": "Wigan Athletic",
+      "logo": "https://img.sofascore.com/api/v1/team/49/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Mansfield Town",
+      "logo": "https://img.sofascore.com/api/v1/team/70/image"
+    },
+    "away": {
+      "name": "Exeter City",
+      "logo": "https://img.sofascore.com/api/v1/team/86/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:30 PM",
+    "endTime": "07-02-2026 11:50 PM",
+    "LeagueName": "Botola Pro",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/937/image/dark",
+    "home": {
+      "name": "Olympique Dcheira",
+      "logo": "https://img.sofascore.com/api/v1/team/204299/image"
+    },
+    "away": {
+      "name": "Fath Union Sport",
+      "logo": "https://img.sofascore.com/api/v1/team/55027/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:31 PM",
+    "endTime": "07-02-2026 11:51 PM",
+    "LeagueName": "League One",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",
+    "home": {
+      "name": "Northampton Town",
+      "logo": "https://img.sofascore.com/api/v1/team/57/image"
+    },
+    "away": {
+      "name": "Stevenage",
+      "logo": "https://img.sofascore.com/api/v1/team/133/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:45 PM",
+    "endTime": "08-02-2026 12:05 AM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "home": {
+      "name": "Barcelona",
+      "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+    },
+    "away": {
+      "name": "Mallorca",
+      "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 09:45 PM",
+    "endTime": "08-02-2026 12:05 AM",
+    "LeagueName": "LaLiga 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "home": {
+      "name": "Las Palmas",
+      "logo": "https://img.sofascore.com/api/v1/team/6577/image"
+    },
+    "away": {
+      "name": "Burgos Club de Fútbol",
+      "logo": "https://img.sofascore.com/api/v1/team/2854/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Liga Portugal Betclic",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+    "home": {
+      "name": "CF Estrela Amadora",
+      "logo": "https://img.sofascore.com/api/v1/team/3035/image"
+    },
+    "away": {
+      "name": "Santa Clara",
+      "logo": "https://img.sofascore.com/api/v1/team/3011/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Liga Portugal Betclic",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+    "home": {
+      "name": "Moreirense",
+      "logo": "https://img.sofascore.com/api/v1/team/3014/image"
+    },
+    "away": {
+      "name": "Gil Vicente",
+      "logo": "https://img.sofascore.com/api/v1/team/3010/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "VriendenLoterij Eredivisie",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "home": {
+      "name": "NEC Nijmegen",
+      "logo": "https://img.sofascore.com/api/v1/team/2962/image"
+    },
+    "away": {
+      "name": "Heracles Almelo",
+      "logo": "https://img.sofascore.com/api/v1/team/2977/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Eerste Divisie",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
+    "home": {
+      "name": "VVV-Venlo",
+      "logo": "https://img.sofascore.com/api/v1/team/2980/image"
+    },
+    "away": {
+      "name": "FC Eindhoven",
+      "logo": "https://img.sofascore.com/api/v1/team/2994/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Taawoun",
+      "logo": "https://img.sofascore.com/api/v1/team/56021/image"
+    },
+    "away": {
+      "name": "Al-Khaleej",
+      "logo": "https://img.sofascore.com/api/v1/team/167228/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Parva Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
+    "home": {
+      "name": "Levski Sofia",
+      "logo": "https://img.sofascore.com/api/v1/team/3273/image"
+    },
+    "away": {
+      "name": "Botev Vratsa",
+      "logo": "https://img.sofascore.com/api/v1/team/36938/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:00 PM",
+    "endTime": "08-02-2026 12:20 AM",
+    "LeagueName": "Liga Portugal 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
+    "home": {
+      "name": "UD Oliveirense",
+      "logo": "https://img.sofascore.com/api/v1/team/21831/image"
+    },
+    "away": {
+      "name": "Vizela",
+      "logo": "https://img.sofascore.com/api/v1/team/5136/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Stoiximan Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+    "home": {
+      "name": "Asteras Aktor",
+      "logo": "https://img.sofascore.com/api/v1/team/6342/image"
+    },
+    "away": {
+      "name": "NPS Volos",
+      "logo": "https://img.sofascore.com/api/v1/team/267459/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "CAF Champions League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+    "home": {
+      "name": "Atlético Petróleos de Luanda",
+      "logo": "https://img.sofascore.com/api/v1/team/148072/image"
+    },
+    "away": {
+      "name": "Simba SC",
+      "logo": "https://img.sofascore.com/api/v1/team/212409/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Trendyol 1.Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
+    "home": {
+      "name": "Pendikspor",
+      "logo": "https://img.sofascore.com/api/v1/team/7032/image"
+    },
+    "away": {
+      "name": "Amed Sportif Faaliyetler",
+      "logo": "https://img.sofascore.com/api/v1/team/207011/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Ligue 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "home": {
+      "name": "RC Lens",
+      "logo": "https://img.sofascore.com/api/v1/team/1648/image"
+    },
+    "away": {
+      "name": "Stade Rennais",
+      "logo": "https://img.sofascore.com/api/v1/team/1658/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "UAE Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
+    "home": {
+      "name": "Al-Ittihad Kalba",
+      "logo": "https://img.sofascore.com/api/v1/team/55705/image"
+    },
+    "away": {
+      "name": "Ajman",
+      "logo": "https://img.sofascore.com/api/v1/team/58687/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Première Ligue, Féminine",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
+    "home": {
+      "name": "Dijon FCO",
+      "logo": "https://img.sofascore.com/api/v1/team/295766/image"
+    },
+    "away": {
+      "name": "Nantes",
+      "logo": "https://img.sofascore.com/api/v1/team/306173/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Première Ligue, Féminine",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
+    "home": {
+      "name": "Montpellier HSC",
+      "logo": "https://img.sofascore.com/api/v1/team/36701/image"
+    },
+    "away": {
+      "name": "Le Havre AC",
+      "logo": "https://img.sofascore.com/api/v1/team/337994/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Fizz Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/187/image/dark",
+    "home": {
+      "name": "Ferencváros TC",
+      "logo": "https://img.sofascore.com/api/v1/team/1925/image"
+    },
+    "away": {
+      "name": "Újpest",
+      "logo": "https://img.sofascore.com/api/v1/team/1924/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "CAF Confederations Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
+    "home": {
+      "name": "Azam FC",
+      "logo": "https://img.sofascore.com/api/v1/team/212411/image"
+    },
+    "away": {
+      "name": "Maniema Union",
+      "logo": "https://img.sofascore.com/api/v1/team/281329/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Liigacup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/83/image/dark",
+    "home": {
+      "name": "VPS",
+      "logo": "https://img.sofascore.com/api/v1/team/2246/image"
+    },
+    "away": {
+      "name": "Ilves",
+      "logo": "https://img.sofascore.com/api/v1/team/22386/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:30 PM",
+    "endTime": "08-02-2026 12:50 AM",
+    "LeagueName": "Bahraini Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/846/image/dark",
+    "home": {
+      "name": "Malkiya",
+      "logo": "https://img.sofascore.com/api/v1/team/45477/image"
+    },
+    "away": {
+      "name": "Muharraq",
+      "logo": "https://img.sofascore.com/api/v1/team/45474/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 10:45 PM",
+    "endTime": "08-02-2026 01:05 AM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Palermo",
+      "logo": "https://img.sofascore.com/api/v1/team/2715/image"
+    },
+    "away": {
+      "name": "Empoli",
+      "logo": "https://img.sofascore.com/api/v1/team/2705/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 11:00 PM",
+    "endTime": "08-02-2026 01:20 AM",
+    "LeagueName": "Ekstraklasa",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "home": {
+      "name": "Jagiellonia Białystok",
+      "logo": "https://img.sofascore.com/api/v1/team/7691/image"
+    },
+    "away": {
+      "name": "Motor Lublin",
+      "logo": "https://img.sofascore.com/api/v1/team/7915/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 11:30 PM",
+    "endTime": "08-02-2026 01:50 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Genoa",
+      "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+    },
+    "away": {
+      "name": "Napoli",
+      "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 11:30 PM",
+    "endTime": "08-02-2026 01:50 AM",
+    "LeagueName": "Trendyol Süper Lig",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
+    "home": {
+      "name": "Samsunspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3053/image"
+    },
+    "away": {
+      "name": "Trabzonspor",
+      "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 11:30 PM",
+    "endTime": "08-02-2026 01:50 AM",
+    "LeagueName": "Botola Pro",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/937/image/dark",
+    "home": {
+      "name": "Union Touarga Sport",
+      "logo": "https://img.sofascore.com/api/v1/team/118834/image"
+    },
+    "away": {
+      "name": "Hassania d'Agadir",
+      "logo": "https://img.sofascore.com/api/v1/team/55039/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "home": {
+      "name": "Sevilla",
+      "logo": "https://img.sofascore.com/api/v1/team/2833/image"
+    },
+    "away": {
+      "name": "Girona FC",
+      "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 11:45 PM",
+    "endTime": "08-02-2026 02:05 AM",
+    "LeagueName": "Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "home": {
+      "name": "RC Sporting Charleroi",
+      "logo": "https://img.sofascore.com/api/v1/team/2898/image"
+    },
+    "away": {
+      "name": "Cercle Brugge",
+      "logo": "https://img.sofascore.com/api/v1/team/2929/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "Newcastle United",
+      "logo": "https://img.sofascore.com/api/v1/team/39/image"
+    },
+    "away": {
+      "name": "Brentford",
+      "logo": "https://img.sofascore.com/api/v1/team/50/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "home": {
+      "name": "Al-Qadsiah",
+      "logo": "https://img.sofascore.com/api/v1/team/56027/image"
+    },
+    "away": {
+      "name": "Al-Fateh",
+      "logo": "https://img.sofascore.com/api/v1/team/56023/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+    "home": {
+      "name": "Borussia M'gladbach",
+      "logo": "https://img.sofascore.com/api/v1/team/2527/image"
+    },
+    "away": {
+      "name": "Bayer 04 Leverkusen",
+      "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "LaLiga 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "home": {
+      "name": "Real Zaragoza",
+      "logo": "https://img.sofascore.com/api/v1/team/2815/image"
+    },
+    "away": {
+      "name": "Eibar",
+      "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Scottish Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/347/image/dark",
+    "home": {
+      "name": "Celtic",
+      "logo": "https://img.sofascore.com/api/v1/team/2352/image"
+    },
+    "away": {
+      "name": "Dundee FC",
+      "logo": "https://img.sofascore.com/api/v1/team/2357/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:15 AM",
+    "endTime": "08-02-2026 02:35 AM",
+    "LeagueName": "VriendenLoterij Eredivisie",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "home": {
+      "name": "PEC Zwolle",
+      "logo": "https://img.sofascore.com/api/v1/team/2971/image"
+    },
+    "away": {
+      "name": "FC Volendam",
+      "logo": "https://img.sofascore.com/api/v1/team/2968/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Stoiximan Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
+    "home": {
+      "name": "AE Kifisia",
+      "logo": "https://img.sofascore.com/api/v1/team/120224/image"
+    },
+    "away": {
+      "name": "APS Atromitos Athinon",
+      "logo": "https://img.sofascore.com/api/v1/team/5062/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Ligue 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "home": {
+      "name": "Stade Brestois",
+      "logo": "https://img.sofascore.com/api/v1/team/1715/image"
+    },
+    "away": {
+      "name": "Lorient",
+      "logo": "https://img.sofascore.com/api/v1/team/1656/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Liga Portugal Betclic",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+    "home": {
+      "name": "Estoril Praia",
+      "logo": "https://img.sofascore.com/api/v1/team/4500/image"
+    },
+    "away": {
+      "name": "Tondela",
+      "logo": "https://img.sofascore.com/api/v1/team/38396/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Romanian SuperLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+    "home": {
+      "name": "CFR 1907 Cluj",
+      "logo": "https://img.sofascore.com/api/v1/team/5287/image"
+    },
+    "away": {
+      "name": "FC Universitatea Cluj",
+      "logo": "https://img.sofascore.com/api/v1/team/7734/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Liga 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "home": {
+      "name": "Asociación Deportiva Tarma",
+      "logo": "https://img.sofascore.com/api/v1/team/335557/image"
+    },
+    "away": {
+      "name": "Sport Boys",
+      "logo": "https://img.sofascore.com/api/v1/team/2312/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:00 AM",
+    "endTime": "08-02-2026 03:20 AM",
+    "LeagueName": "Serie B",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+    "home": {
+      "name": "Spezia",
+      "logo": "https://img.sofascore.com/api/v1/team/2735/image"
+    },
+    "away": {
+      "name": "Virtus Entella",
+      "logo": "https://img.sofascore.com/api/v1/team/43680/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:00 AM",
+    "endTime": "08-02-2026 03:20 AM",
+    "LeagueName": "Betclic 1. Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
+    "home": {
+      "name": "Polonia Bytom",
+      "logo": "https://img.sofascore.com/api/v1/team/7692/image"
+    },
+    "away": {
+      "name": "ŁKS Łódź",
+      "logo": "https://img.sofascore.com/api/v1/team/3123/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:00 AM",
+    "endTime": "08-02-2026 03:20 AM",
+    "LeagueName": "Betclic 1. Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
+    "home": {
+      "name": "Miedź Legnica",
+      "logo": "https://img.sofascore.com/api/v1/team/35330/image"
+    },
+    "away": {
+      "name": "Pogoń Grodzisk Mazowiecki",
+      "logo": "https://img.sofascore.com/api/v1/team/202427/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:00 AM",
+    "endTime": "08-02-2026 03:20 AM",
+    "LeagueName": "Betclic 1. Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
+    "home": {
+      "name": "Znicz Pruszków",
+      "logo": "https://img.sofascore.com/api/v1/team/7923/image"
+    },
+    "away": {
+      "name": "Wieczysta Kraków",
+      "logo": "https://img.sofascore.com/api/v1/team/334956/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "VriendenLoterij Eredivisie",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "home": {
+      "name": "FC Twente",
+      "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    },
+    "away": {
+      "name": "SC Heerenveen",
+      "logo": "https://img.sofascore.com/api/v1/team/2964/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "CAF Champions League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+    "home": {
+      "name": "JS Kabylie",
+      "logo": "https://img.sofascore.com/api/v1/team/42202/image"
+    },
+    "away": {
+      "name": "Al Ahly FC",
+      "logo": "https://img.sofascore.com/api/v1/team/6910/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "CAF Champions League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+    "home": {
+      "name": "AS FAR Rabat",
+      "logo": "https://img.sofascore.com/api/v1/team/24394/image"
+    },
+    "away": {
+      "name": "Young Africans SC",
+      "logo": "https://img.sofascore.com/api/v1/team/134320/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "Ligue 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
+    "home": {
+      "name": "Saint-Étienne",
+      "logo": "https://img.sofascore.com/api/v1/team/1678/image"
+    },
+    "away": {
+      "name": "Montpellier",
+      "logo": "https://img.sofascore.com/api/v1/team/1642/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Rionegro Águilas Doradas",
+      "logo": "https://img.sofascore.com/api/v1/team/48244/image"
+    },
+    "away": {
+      "name": "Cúcuta Deportivo",
+      "logo": "https://img.sofascore.com/api/v1/team/6108/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "Paulista Série A1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "home": {
+      "name": "Portuguesa",
+      "logo": "https://img.sofascore.com/api/v1/team/21896/image"
+    },
+    "away": {
+      "name": "Ponte Preta",
+      "logo": "https://img.sofascore.com/api/v1/team/1969/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:30 AM",
+    "endTime": "08-02-2026 03:50 AM",
+    "LeagueName": "USL Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/28384/image/dark",
+    "home": {
+      "name": "Carolina Ascent",
+      "logo": "https://img.sofascore.com/api/v1/team/507682/image"
+    },
+    "away": {
+      "name": "Lexington SC",
+      "logo": "https://img.sofascore.com/api/v1/team/465515/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 01:45 AM",
+    "endTime": "08-02-2026 04:05 AM",
+    "LeagueName": "Ekstraklasa",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+    "home": {
+      "name": "Górnik Zabrze",
+      "logo": "https://img.sofascore.com/api/v1/team/3110/image"
+    },
+    "away": {
+      "name": "Lech Poznań",
+      "logo": "https://img.sofascore.com/api/v1/team/3121/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:00 AM",
+    "endTime": "08-02-2026 04:20 AM",
+    "LeagueName": "Swiss Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/215/image/dark",
+    "home": {
+      "name": "Grasshopper Club Zürich",
+      "logo": "https://img.sofascore.com/api/v1/team/2449/image"
+    },
+    "away": {
+      "name": "Young Boys",
+      "logo": "https://img.sofascore.com/api/v1/team/2445/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:00 AM",
+    "endTime": "08-02-2026 04:20 AM",
+    "LeagueName": "2. Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+    "home": {
+      "name": "Darmstadt 98",
+      "logo": "https://img.sofascore.com/api/v1/team/2576/image"
+    },
+    "away": {
+      "name": "1. FC Kaiserslautern",
+      "logo": "https://img.sofascore.com/api/v1/team/2675/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:00 AM",
+    "endTime": "08-02-2026 04:20 AM",
+    "LeagueName": "Mineiro, Módulo I",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
+    "home": {
+      "name": "Pouso Alegre FC",
+      "logo": "https://img.sofascore.com/api/v1/team/343540/image"
+    },
+    "away": {
+      "name": "EC Democrata",
+      "logo": "https://img.sofascore.com/api/v1/team/21848/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:00 AM",
+    "endTime": "08-02-2026 04:20 AM",
+    "LeagueName": "Scottish Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/347/image/dark",
+    "home": {
+      "name": "Aberdeen",
+      "logo": "https://img.sofascore.com/api/v1/team/2355/image"
+    },
+    "away": {
+      "name": "Motherwell",
+      "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:15 AM",
+    "endTime": "08-02-2026 04:35 AM",
+    "LeagueName": "Scottish Cup",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/347/image/dark",
+    "home": {
+      "name": "Rangers",
+      "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+    },
+    "away": {
+      "name": "Stranraer",
+      "logo": "https://img.sofascore.com/api/v1/team/2371/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:15 AM",
+    "endTime": "08-02-2026 04:35 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Fiorentina",
+      "logo": "https://img.sofascore.com/api/v1/team/2693/image"
+    },
+    "away": {
+      "name": "Torino",
+      "logo": "https://img.sofascore.com/api/v1/team/2696/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:15 AM",
+    "endTime": "08-02-2026 04:35 AM",
+    "LeagueName": "Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+    "home": {
+      "name": "KAA Gent",
+      "logo": "https://img.sofascore.com/api/v1/team/2903/image"
+    },
+    "away": {
+      "name": "Oud-Heverlee Leuven",
+      "logo": "https://img.sofascore.com/api/v1/team/2918/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "Liga Profesional de Fútbol",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "home": {
+      "name": "Aldosivi",
+      "logo": "https://img.sofascore.com/api/v1/team/36836/image"
+    },
+    "away": {
+      "name": "Rosario Central",
+      "logo": "https://img.sofascore.com/api/v1/team/3217/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "home": {
+      "name": "Real Sociedad",
+      "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    },
+    "away": {
+      "name": "Elche",
+      "logo": "https://img.sofascore.com/api/v1/team/2846/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "LaLiga 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+    "home": {
+      "name": "Cádiz",
+      "logo": "https://img.sofascore.com/api/v1/team/4488/image"
+    },
+    "away": {
+      "name": "Almería",
+      "logo": "https://img.sofascore.com/api/v1/team/2858/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "VriendenLoterij Eredivisie",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+    "home": {
+      "name": "Fortuna Sittard",
+      "logo": "https://img.sofascore.com/api/v1/team/2957/image"
+    },
+    "away": {
+      "name": "Sparta Rotterdam",
+      "logo": "https://img.sofascore.com/api/v1/team/2960/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "Paraibano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10295/image/dark",
+    "home": {
+      "name": "Sousa EC",
+      "logo": "https://img.sofascore.com/api/v1/team/21864/image"
+    },
+    "away": {
+      "name": "Atlético Cajazeirense",
+      "logo": "https://img.sofascore.com/api/v1/team/307368/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:30 AM",
+    "endTime": "08-02-2026 04:50 AM",
+    "LeagueName": "Liga AUF Uruguaya",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
+    "home": {
+      "name": "Progreso",
+      "logo": "https://img.sofascore.com/api/v1/team/3238/image"
+    },
+    "away": {
+      "name": "Central Español",
+      "logo": "https://img.sofascore.com/api/v1/team/3232/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:35 AM",
+    "endTime": "08-02-2026 04:55 AM",
+    "LeagueName": "Ligue 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+    "home": {
+      "name": "Nantes",
+      "logo": "https://img.sofascore.com/api/v1/team/1647/image"
+    },
+    "away": {
+      "name": "Olympique Lyonnais",
+      "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:35 AM",
+    "endTime": "08-02-2026 04:55 AM",
+    "LeagueName": "Première Ligue, Féminine",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
+    "home": {
+      "name": "Paris FC",
+      "logo": "https://img.sofascore.com/api/v1/team/264964/image"
+    },
+    "away": {
+      "name": "Paris Saint-Germain",
+      "logo": "https://img.sofascore.com/api/v1/team/55505/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 02:45 AM",
+    "endTime": "08-02-2026 05:05 AM",
+    "LeagueName": "Liga 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "home": {
+      "name": "Club Atlético Grau",
+      "logo": "https://img.sofascore.com/api/v1/team/282538/image"
+    },
+    "away": {
+      "name": "Sport Huancayo",
+      "logo": "https://img.sofascore.com/api/v1/team/33895/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:00 AM",
+    "endTime": "08-02-2026 05:20 AM",
+    "LeagueName": "Liga Portugal Betclic",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+    "home": {
+      "name": "FC Arouca",
+      "logo": "https://img.sofascore.com/api/v1/team/25777/image"
+    },
+    "away": {
+      "name": "Vitória SC",
+      "logo": "https://img.sofascore.com/api/v1/team/3009/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Liga de Primera",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+    "home": {
+      "name": "O'Higgins",
+      "logo": "https://img.sofascore.com/api/v1/team/3163/image"
+    },
+    "away": {
+      "name": "Deportes La Serena",
+      "logo": "https://img.sofascore.com/api/v1/team/5031/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Mineiro, Módulo I",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
+    "home": {
+      "name": "North Esporte Clube",
+      "logo": "https://img.sofascore.com/api/v1/team/465989/image"
+    },
+    "away": {
+      "name": "Uberlândia EC",
+      "logo": "https://img.sofascore.com/api/v1/team/32873/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Copa Chile",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+    "home": {
+      "name": "Deportes Temuco",
+      "logo": "https://img.sofascore.com/api/v1/team/119072/image"
+    },
+    "away": {
+      "name": "Deportes Puerto Montt",
+      "logo": "https://img.sofascore.com/api/v1/team/3158/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Liga Profesional de Fútbol",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "home": {
+      "name": "Racing Club",
+      "logo": "https://img.sofascore.com/api/v1/team/3215/image"
+    },
+    "away": {
+      "name": "Argentinos Juniors",
+      "logo": "https://img.sofascore.com/api/v1/team/3216/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Pernambucano",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/380/image/dark",
+    "home": {
+      "name": "Retrô",
+      "logo": "https://img.sofascore.com/api/v1/team/324839/image"
+    },
+    "away": {
+      "name": "Maguary",
+      "logo": "https://img.sofascore.com/api/v1/team/456897/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Bolivia U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48991/image"
+    },
+    "away": {
+      "name": "Brazil U20",
+      "logo": "https://img.sofascore.com/api/v1/team/43216/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "U20 CONMEBOL Women's Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1612/image/dark",
+    "home": {
+      "name": "Ecuador U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48986/image"
+    },
+    "away": {
+      "name": "Argentina U20",
+      "logo": "https://img.sofascore.com/api/v1/team/48992/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:30 AM",
+    "endTime": "08-02-2026 05:50 AM",
+    "LeagueName": "Liga FUTVE",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/231/image/dark",
+    "home": {
+      "name": "Zamora",
+      "logo": "https://img.sofascore.com/api/v1/team/6237/image"
+    },
+    "away": {
+      "name": "Estudiantes de Mérida",
+      "logo": "https://img.sofascore.com/api/v1/team/7745/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 03:40 AM",
+    "endTime": "08-02-2026 06:00 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Deportes Tolima",
+      "logo": "https://img.sofascore.com/api/v1/team/6111/image"
+    },
+    "away": {
+      "name": "Llaneros FC",
+      "logo": "https://img.sofascore.com/api/v1/team/89374/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:00 AM",
+    "endTime": "08-02-2026 06:20 AM",
+    "LeagueName": "Paulista Série A1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "home": {
+      "name": "Grêmio Novorizontino",
+      "logo": "https://img.sofascore.com/api/v1/team/135514/image"
+    },
+    "away": {
+      "name": "São Bernardo",
+      "logo": "https://img.sofascore.com/api/v1/team/47504/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:00 AM",
+    "endTime": "08-02-2026 06:20 AM",
+    "LeagueName": "Paulista Série A1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "home": {
+      "name": "Guarani",
+      "logo": "https://img.sofascore.com/api/v1/team/1972/image"
+    },
+    "away": {
+      "name": "Botafogo-SP",
+      "logo": "https://img.sofascore.com/api/v1/team/1979/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:00 AM",
+    "endTime": "08-02-2026 06:20 AM",
+    "LeagueName": "Mineiro, Módulo I",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
+    "home": {
+      "name": "Atlético Mineiro",
+      "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+    },
+    "away": {
+      "name": "Athletic Club",
+      "logo": "https://img.sofascore.com/api/v1/team/342775/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:00 AM",
+    "endTime": "08-02-2026 06:20 AM",
+    "LeagueName": "Gaúcho",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/377/image/dark",
+    "home": {
+      "name": "Grêmio",
+      "logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    },
+    "away": {
+      "name": "Novo Hamburgo",
+      "logo": "https://img.sofascore.com/api/v1/team/480376/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:00 AM",
+    "endTime": "08-02-2026 06:20 AM",
+    "LeagueName": "Primera División, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11540/image/dark",
+    "home": {
+      "name": "Rubio Ñu",
+      "logo": "https://img.sofascore.com/api/v1/team/36438/image"
+    },
+    "away": {
+      "name": "Sportivo Trinidense",
+      "logo": "https://img.sofascore.com/api/v1/team/39722/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:30 AM",
+    "endTime": "07-02-2026 06:50 AM",
+    "LeagueName": "USL Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/28384/image/dark",
+    "home": {
+      "name": "Sporting Jacksonville",
+      "logo": "https://img.sofascore.com/api/v1/team/1077193/image"
+    },
+    "away": {
+      "name": "DC Power FC",
+      "logo": "https://img.sofascore.com/api/v1/team/938777/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:30 AM",
+    "endTime": "07-02-2026 06:50 AM",
+    "LeagueName": "Copa Chile",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+    "home": {
+      "name": "Santiago Wanderers",
+      "logo": "https://img.sofascore.com/api/v1/team/3150/image"
+    },
+    "away": {
+      "name": "Unión San Felipe",
+      "logo": "https://img.sofascore.com/api/v1/team/3152/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:30 AM",
+    "endTime": "07-02-2026 06:50 AM",
+    "LeagueName": "Mineiro, Módulo I",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
+    "home": {
+      "name": "Tombense",
+      "logo": "https://img.sofascore.com/api/v1/team/87202/image"
+    },
+    "away": {
+      "name": "União Recreativa dos Trabalhadores",
+      "logo": "https://img.sofascore.com/api/v1/team/35278/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 04:30 AM",
+    "endTime": "07-02-2026 06:50 AM",
+    "LeagueName": "Liga FUTVE",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/231/image/dark",
+    "home": {
+      "name": "Caracas F.C.",
+      "logo": "https://img.sofascore.com/api/v1/team/6230/image"
+    },
+    "away": {
+      "name": "Academia Puerto Cabello",
+      "logo": "https://img.sofascore.com/api/v1/team/230725/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:30 AM",
+    "endTime": "07-02-2026 07:50 AM",
+    "LeagueName": "Liga MX, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "Querétaro FC",
+      "logo": "https://img.sofascore.com/api/v1/team/1951/image"
+    },
+    "away": {
+      "name": "Club León",
+      "logo": "https://img.sofascore.com/api/v1/team/36534/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:30 AM",
+    "endTime": "07-02-2026 07:50 AM",
+    "LeagueName": "Liga MX, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "CD Toluca",
+      "logo": "https://img.sofascore.com/api/v1/team/1931/image"
+    },
+    "away": {
+      "name": "Cruz Azul",
+      "logo": "https://img.sofascore.com/api/v1/team/1947/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:30 AM",
+    "endTime": "07-02-2026 07:50 AM",
+    "LeagueName": "Copa Chile",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+    "home": {
+      "name": "San Luis de Quillota",
+      "logo": "https://img.sofascore.com/api/v1/team/39220/image"
+    },
+    "away": {
+      "name": "Deportes Copiapó",
+      "logo": "https://img.sofascore.com/api/v1/team/89506/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:30 AM",
+    "endTime": "07-02-2026 07:50 AM",
+    "LeagueName": "Liga Profesional de Fútbol",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "home": {
+      "name": "River Plate",
+      "logo": "https://img.sofascore.com/api/v1/team/3211/image"
+    },
+    "away": {
+      "name": "Tigre",
+      "logo": "https://img.sofascore.com/api/v1/team/7628/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:30 AM",
+    "endTime": "07-02-2026 07:50 AM",
+    "LeagueName": "Liga Guate Banrural, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11615/image/dark",
+    "home": {
+      "name": "Comunicaciones FC",
+      "logo": "https://img.sofascore.com/api/v1/team/7024/image"
+    },
+    "away": {
+      "name": "CD Marquense",
+      "logo": "https://img.sofascore.com/api/v1/team/7019/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:50 AM",
+    "endTime": "07-02-2026 08:10 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Fortaleza FC",
+      "logo": "https://img.sofascore.com/api/v1/team/89368/image"
+    },
+    "away": {
+      "name": "Independiente Santa Fe",
+      "logo": "https://img.sofascore.com/api/v1/team/6116/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 05:50 AM",
+    "endTime": "07-02-2026 08:10 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Independiente Santa Fe",
+      "logo": "https://img.sofascore.com/api/v1/team/6116/image"
+    },
+    "away": {
+      "name": "Atlético Nacional",
+      "logo": "https://img.sofascore.com/api/v1/team/6106/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Primera División, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11540/image/dark",
+    "home": {
+      "name": "CS 2 de Mayo",
+      "logo": "https://img.sofascore.com/api/v1/team/5992/image"
+    },
+    "away": {
+      "name": "Cerro Porteño",
+      "logo": "https://img.sofascore.com/api/v1/team/5991/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Copa Chile",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+    "home": {
+      "name": "San Marcos de Arica",
+      "logo": "https://img.sofascore.com/api/v1/team/39219/image"
+    },
+    "away": {
+      "name": "Deportes Iquique",
+      "logo": "https://img.sofascore.com/api/v1/team/33596/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Paulista Série A1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "home": {
+      "name": "São Paulo",
+      "logo": "https://img.sofascore.com/api/v1/team/1981/image"
+    },
+    "away": {
+      "name": "EC Primavera",
+      "logo": "https://img.sofascore.com/api/v1/team/188777/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Liga de Primera",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+    "home": {
+      "name": "Colo Colo",
+      "logo": "https://img.sofascore.com/api/v1/team/3155/image"
+    },
+    "away": {
+      "name": "Everton de Viña del Mar",
+      "logo": "https://img.sofascore.com/api/v1/team/5032/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Liga AUF Uruguaya",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
+    "home": {
+      "name": "Peñarol",
+      "logo": "https://img.sofascore.com/api/v1/team/3227/image"
+    },
+    "away": {
+      "name": "Montevideo City Torque",
+      "logo": "https://img.sofascore.com/api/v1/team/174972/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:00 AM",
+    "endTime": "07-02-2026 08:20 AM",
+    "LeagueName": "Liga FUTVE",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/231/image/dark",
+    "home": {
+      "name": "Monagas",
+      "logo": "https://img.sofascore.com/api/v1/team/6233/image"
+    },
+    "away": {
+      "name": "Universidad Central",
+      "logo": "https://img.sofascore.com/api/v1/team/249952/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
+    "home": {
+      "name": "Bangu",
+      "logo": "https://img.sofascore.com/api/v1/team/1993/image"
+    },
+    "away": {
+      "name": "Boavista",
+      "logo": "https://img.sofascore.com/api/v1/team/6977/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
+    "home": {
+      "name": "Portuguesa-RJ",
+      "logo": "https://img.sofascore.com/api/v1/team/208067/image"
+    },
+    "away": {
+      "name": "Nova Iguaçu",
+      "logo": "https://img.sofascore.com/api/v1/team/6981/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
+    "home": {
+      "name": "Volta Redonda",
+      "logo": "https://img.sofascore.com/api/v1/team/6982/image"
+    },
+    "away": {
+      "name": "Madureira",
+      "logo": "https://img.sofascore.com/api/v1/team/6980/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
+    "home": {
+      "name": "Flamengo",
+      "logo": "https://img.sofascore.com/api/v1/team/5981/image"
+    },
+    "away": {
+      "name": "Sampaio Corrêa-RJ",
+      "logo": "https://img.sofascore.com/api/v1/team/257632/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "MLS Preseason",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18553/image/dark",
+    "home": {
+      "name": "Inter Miami CF",
+      "logo": "https://img.sofascore.com/api/v1/team/337602/image"
+    },
+    "away": {
+      "name": "Barcelona SC Guayaquil",
+      "logo": "https://img.sofascore.com/api/v1/team/5250/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:30 AM",
+    "endTime": "08-02-2026 09:50 AM",
+    "LeagueName": "USL Super League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/28384/image/dark",
+    "home": {
+      "name": "Fort Lauderdale United",
+      "logo": "https://img.sofascore.com/api/v1/team/1041471/image"
+    },
+    "away": {
+      "name": "Dallas Trinity",
+      "logo": "https://img.sofascore.com/api/v1/team/938069/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:30 AM",
+    "endTime": "08-02-2026 09:50 AM",
+    "LeagueName": "Liga 1",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+    "home": {
+      "name": "Cusco FC",
+      "logo": "https://img.sofascore.com/api/v1/team/63760/image"
+    },
+    "away": {
+      "name": "Universitario de Deportes",
+      "logo": "https://img.sofascore.com/api/v1/team/2305/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:30 AM",
+    "endTime": "08-02-2026 09:50 AM",
+    "LeagueName": "Liga Guate Banrural, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11615/image/dark",
+    "home": {
+      "name": "Deportivo Guastatoya",
+      "logo": "https://img.sofascore.com/api/v1/team/163298/image"
+    },
+    "away": {
+      "name": "CSD Xelajú MC",
+      "logo": "https://img.sofascore.com/api/v1/team/7026/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:36 AM",
+    "endTime": "08-02-2026 09:56 AM",
+    "LeagueName": "Liga MX, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "CF Pachuca",
+      "logo": "https://img.sofascore.com/api/v1/team/1936/image"
+    },
+    "away": {
+      "name": "FC Juárez",
+      "logo": "https://img.sofascore.com/api/v1/team/201624/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:35 AM",
+    "endTime": "08-02-2026 09:55 AM",
+    "LeagueName": "Liga MX, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "Atlas FC",
+      "logo": "https://img.sofascore.com/api/v1/team/1949/image"
+    },
+    "away": {
+      "name": "Pumas UNAM",
+      "logo": "https://img.sofascore.com/api/v1/team/1933/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:45 AM",
+    "endTime": "08-02-2026 10:05 AM",
+    "LeagueName": "Liga Profesional de Fútbol",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "home": {
+      "name": "Club Atlético Belgrano",
+      "logo": "https://img.sofascore.com/api/v1/team/3203/image"
+    },
+    "away": {
+      "name": "Banfield",
+      "logo": "https://img.sofascore.com/api/v1/team/3219/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:45 AM",
+    "endTime": "08-02-2026 10:05 AM",
+    "LeagueName": "Liga Profesional de Fútbol",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "home": {
+      "name": "Newell's Old Boys",
+      "logo": "https://img.sofascore.com/api/v1/team/3212/image"
+    },
+    "away": {
+      "name": "Defensa y Justicia",
+      "logo": "https://img.sofascore.com/api/v1/team/36839/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 08:00 AM",
+    "endTime": "08-02-2026 10:20 AM",
+    "LeagueName": "Primera A, Apertura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "home": {
+      "name": "Junior Barranquilla",
+      "logo": "https://img.sofascore.com/api/v1/team/6105/image"
+    },
+    "away": {
+      "name": "Boyacá Chicó FC",
+      "logo": "https://img.sofascore.com/api/v1/team/6107/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 08:30 AM",
+    "endTime": "08-02-2026 10:50 AM",
+    "LeagueName": "Primera División, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11542/image/dark",
+    "home": {
+      "name": "LD Alajuelense",
+      "logo": "https://img.sofascore.com/api/v1/team/6572/image"
+    },
+    "away": {
+      "name": "Herediano",
+      "logo": "https://img.sofascore.com/api/v1/team/7045/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 09:40 AM",
+    "endTime": "08-02-2026 12:00 PM",
+    "LeagueName": "Liga MX, Clausura",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "Club América",
+      "logo": "https://img.sofascore.com/api/v1/team/1939/image"
+    },
+    "away": {
+      "name": "CF Monterrey",
+      "logo": "https://img.sofascore.com/api/v1/team/1932/image"
+    },
+    "live_links": []
   }
 ]
