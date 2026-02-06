@@ -31,7 +31,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:45 PM",
     "endTime": "06-02-2026 10:05 PM",
     "LeagueName": "Parva Liga",
@@ -44,10 +44,25 @@
       "name": "FC CSKA 1948 Sofia",
       "logo": "https://img.sofascore.com/api/v1/team/252080/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/MMMMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/MMMMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 07:55 PM",
     "endTime": "06-02-2026 10:15 PM",
     "LeagueName": "UAE Pro League",
@@ -60,7 +75,22 @@
       "name": "Khor Fakkan",
       "logo": "https://img.sofascore.com/api/v1/team/234227/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/MMMMQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "DUBAI 1 Sports ",
+        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1280,27 +1310,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 05:30 PM",
-    "endTime": "06-02-2026 07:35 PM",
-    "LeagueName": "Tanzania Ligi Kuu Bara",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-    "home": {
-      "name": "Pamba",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
-    },
-    "away": {
-      "name": "Coastal Union",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/MMMM.m3u8|Referer=http://www.fawanews.sc/"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "06-02-2026 07:45 PM",
     "endTime": "06-02-2026 09:55 PM",
     "LeagueName": "Tanzania Ligi Kuu Bara",
@@ -1313,6 +1322,11 @@
       "name": "Mashujaa",
       "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/MMMMQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   }
 ]
