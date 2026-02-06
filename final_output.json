@@ -1,37 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 06:30 PM",
-    "endTime": "06-02-2026 08:50 PM",
-    "LeagueName": "Indonesia Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
-    "home": {
-      "name": "Persib Bandung",
-      "logo": "https://img.sofascore.com/api/v1/team/64289/image"
-    },
-    "away": {
-      "name": "Malut United FC",
-      "logo": "https://img.sofascore.com/api/v1/team/491968/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.104.40/hls/MMMMQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 07:45 PM",
     "endTime": "06-02-2026 10:05 PM",
     "LeagueName": "Parva Liga",
@@ -93,7 +62,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 08:55 PM",
     "endTime": "06-02-2026 11:15 PM",
     "LeagueName": "Saudi Pro League",
@@ -106,10 +75,32 @@
       "name": "Al-Riyadh",
       "logo": "https://img.sofascore.com/api/v1/team/168088/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "SporTV BR",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "scheme": 0,
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "tokenApi": ""
+      },
+      {
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK SPORTS ",
+        "link": "https://q.lppefe.shop/hls/llll.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:15 PM",
     "endTime": "06-02-2026 11:35 PM",
     "LeagueName": "Stars League",
@@ -122,10 +113,25 @@
       "name": "Al-Ahli Doha",
       "logo": "https://img.sofascore.com/api/v1/team/44443/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/llllQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Alkhas One ",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Romanian SuperLiga",
@@ -138,10 +144,25 @@
       "name": "FC Hermannstadt",
       "logo": "https://img.sofascore.com/api/v1/team/260356/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/llllQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.lppefe.shop/hls/llllQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Saudi Pro League",
@@ -154,10 +175,25 @@
       "name": "Damac FC",
       "logo": "https://img.sofascore.com/api/v1/team/204126/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS ",
+        "link": "https://q.lppefe.shop/hls/llllQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Egyptian Premier League",
@@ -170,10 +206,25 @@
       "name": "Modern Sport FC",
       "logo": "https://img.sofascore.com/api/v1/team/265830/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/llllQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD. ",
+        "link": "https://q.lppefe.shop/hls/llllQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "WWIN Liga BiH",
@@ -186,7 +237,12 @@
       "name": "NK Široki Brijeg",
       "logo": "https://img.sofascore.com/api/v1/team/5239/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1293,7 +1349,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:40 PM",
     "LeagueName": "Kuwait - Kuwait Premier League",
@@ -1306,7 +1362,12 @@
       "name": "Al Kuwait",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lVCLc_0aMZBqjYs2aocRGz7gjyKIyPiJqg&s"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_t64MjQwcA==.m3u8"
+      }
+    ]
   },
   {
     "status": "LIVE",
