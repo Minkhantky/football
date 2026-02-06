@@ -1,189 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 08:55 PM",
-    "endTime": "06-02-2026 11:15 PM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Neom SC",
-      "logo": "https://img.sofascore.com/api/v1/team/530631/image"
-    },
-    "away": {
-      "name": "Al-Riyadh",
-      "logo": "https://img.sofascore.com/api/v1/team/168088/image"
-    },
-    "live_links": [
-      {
-        "name": "SporTV BR",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-        "scheme": 0,
-        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-        "tokenApi": ""
-      },
-      {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK SPORTS ",
-        "link": "https://q.lppefe.shop/hls/llll.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 09:15 PM",
-    "endTime": "06-02-2026 11:35 PM",
-    "LeagueName": "Stars League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/825/image/dark",
-    "home": {
-      "name": "Al-Wakrah",
-      "logo": "https://img.sofascore.com/api/v1/team/44440/image"
-    },
-    "away": {
-      "name": "Al-Ahli Doha",
-      "logo": "https://img.sofascore.com/api/v1/team/44443/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/llllQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Alkhas One ",
-        "link": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 09:30 PM",
-    "endTime": "06-02-2026 11:50 PM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "FC Argeș Pitești",
-      "logo": "https://img.sofascore.com/api/v1/team/116221/image"
-    },
-    "away": {
-      "name": "FC Hermannstadt",
-      "logo": "https://img.sofascore.com/api/v1/team/260356/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/llllQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/llllQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 09:30 PM",
-    "endTime": "06-02-2026 11:50 PM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Ettifaq",
-      "logo": "https://img.sofascore.com/api/v1/team/34318/image"
-    },
-    "away": {
-      "name": "Damac FC",
-      "logo": "https://img.sofascore.com/api/v1/team/204126/image"
-    },
-    "live_links": [
-      {
-        "name": "AK SPORTS ",
-        "link": "https://q.lppefe.shop/hls/llllQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD6737/index.mpd",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 09:30 PM",
-    "endTime": "06-02-2026 11:50 PM",
-    "LeagueName": "Egyptian Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/808/image/dark",
-    "home": {
-      "name": "El Gouna FC",
-      "logo": "https://img.sofascore.com/api/v1/team/43565/image"
-    },
-    "away": {
-      "name": "Modern Sport FC",
-      "logo": "https://img.sofascore.com/api/v1/team/265830/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/llllQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD. ",
-        "link": "https://q.lppefe.shop/hls/llllQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 09:30 PM",
-    "endTime": "06-02-2026 11:50 PM",
-    "LeagueName": "WWIN Liga BiH",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/222/image/dark",
-    "home": {
-      "name": "FK Rudar Prijedor",
-      "logo": "https://img.sofascore.com/api/v1/team/36537/image"
-    },
-    "away": {
-      "name": "NK Široki Brijeg",
-      "logo": "https://img.sofascore.com/api/v1/team/5239/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 10:15 PM",
     "endTime": "07-02-2026 12:35 AM",
     "LeagueName": "Parva Liga",
@@ -259,7 +76,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:15 PM",
     "endTime": "07-02-2026 01:35 AM",
     "LeagueName": "Stars League",
@@ -272,10 +89,25 @@
       "name": "Al-Rayyan",
       "logo": "https://img.sofascore.com/api/v1/team/40660/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/itttq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Alkhas 4",
+        "link": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:15 PM",
     "endTime": "07-02-2026 01:35 AM",
     "LeagueName": "Fizz Liga",
@@ -288,10 +120,18 @@
       "name": "Kazincbarcikai SC",
       "logo": "https://img.sofascore.com/api/v1/team/8059/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/itttqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:30 PM",
     "endTime": "07-02-2026 01:50 AM",
     "LeagueName": "WWIN Liga BiH",
@@ -304,10 +144,15 @@
       "name": "FK Sloga Doboj",
       "logo": "https://img.sofascore.com/api/v1/team/37064/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:30 PM",
     "endTime": "07-02-2026 01:50 AM",
     "LeagueName": "Ekstraklasa",
@@ -320,10 +165,25 @@
       "name": "Zagłębie Lubin",
       "logo": "https://img.sofascore.com/api/v1/team/3113/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:30 PM",
     "endTime": "07-02-2026 01:50 AM",
     "LeagueName": "Campeonato Nacional Feminino",
@@ -336,10 +196,15 @@
       "name": "Damaiense",
       "logo": "https://img.sofascore.com/api/v1/team/363039/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 11:30 PM",
     "endTime": "07-02-2026 01:50 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -352,10 +217,25 @@
       "name": "Pogoń Siedlce",
       "logo": "https://img.sofascore.com/api/v1/team/162252/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/dadadaQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.lppefe.shop/hls/dadadaQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "2. Bundesliga",
@@ -368,10 +248,32 @@
       "name": "VfL Bochum 1848",
       "logo": "https://img.sofascore.com/api/v1/team/2542/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "beIN ENGLISH FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Sport Top Event DE",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Bundesliga SD",
+        "link": "https://broadcasthub.click//hls/kjzxkCIqkhtb/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "2. Bundesliga",
@@ -384,10 +286,46 @@
       "name": "1. FC Magdeburg",
       "logo": "https://img.sofascore.com/api/v1/team/2591/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK Sports ",
+        "link": "https://q.lppefe.shop/hls/dadadaQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK Sports ",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACA.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Bundesliga SD",
+        "link": "https://broadcasthub.click//hls/Mhe8gotoGQlu/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sky Sport Top Event DE",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "Frauen-Bundesliga",
@@ -400,10 +338,25 @@
       "name": "FC Bayern München",
       "logo": "https://img.sofascore.com/api/v1/team/5543/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.lppefe.shop/hls/dadadaQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/sc-freiburg-w-vs-bayern-munich-w-football-1401323\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:00 AM",
     "endTime": "07-02-2026 02:20 AM",
     "LeagueName": "Saudi Pro League",
@@ -416,7 +369,50 @@
       "name": "Al-Ittihad",
       "logo": "https://img.sofascore.com/api/v1/team/34315/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ARABIC TV",
+        "link": "https://q.sdyrkyulk.shop/hls/CACACAQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "FOX Deportes FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sportdigital FUSSBALL DE",
+        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "scheme": 0,
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport TV1 Portugal",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "FANCODE FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "scheme": 0,
+        "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1316,23 +1312,70 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 09:30 PM",
-    "endTime": "06-02-2026 11:40 PM",
-    "LeagueName": "Kuwait - Kuwait Premier League",
-    "LeagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lVCLc_0aMZBqjYs2aocRGz7gjyKIyPiJqg&s",
+    "matchTime": "06-02-2026 11:30 PM",
+    "endTime": "07-02-2026 01:50 AM",
+    "LeagueName": "HNL",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/170/image/dark",
     "home": {
-      "name": "Al Qadsia",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lVCLc_0aMZBqjYs2aocRGz7gjyKIyPiJqg&s"
+      "name": "NK Lokomotiva Zagreb",
+      "logo": "https://img.sofascore.com/api/v1/team/36246/image"
     },
     "away": {
-      "name": "Al Kuwait",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lVCLc_0aMZBqjYs2aocRGz7gjyKIyPiJqg&s"
+      "name": "HNK Gorica",
+      "logo": "https://img.sofascore.com/api/v1/team/43917/image"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_t64MjQwcA==.m3u8"
+        "link": "https://q.sdvdsokvsdv.shop/hls/dadadaQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/dadadaQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
+  },
+  {
+    "status": "PRELIVE",
+    "matchTime": "07-02-2026 12:00 AM",
+    "endTime": "07-02-2026 02:10 AM",
+    "LeagueName": "South Africa Nedbank Cup",
+    "LeagueLogo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png",
+    "home": {
+      "name": "Chippa Utd",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png"
+    },
+    "away": {
+      "name": "Durban City",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/b/b7/Psl-logo.png"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdyrkyulk.shop/hls/dadadaQQQQQ.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 12:30 AM",
+    "endTime": "07-02-2026 02:50 AM",
+    "LeagueName": "3. Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/491/image/dark",
+    "home": {
+      "name": "SV Waldhof Mannheim",
+      "logo": "https://img.sofascore.com/api/v1/team/2680/image"
+    },
+    "away": {
+      "name": "SSV Ulm 1846",
+      "logo": "https://img.sofascore.com/api/v1/team/2580/image"
+    },
+    "live_links": []
   }
 ]
