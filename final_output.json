@@ -1,68 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "06-02-2026 07:45 PM",
-    "endTime": "06-02-2026 10:05 PM",
-    "LeagueName": "Parva Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
-    "home": {
-      "name": "PFK Montana 1921",
-      "logo": "https://img.sofascore.com/api/v1/team/32642/image"
-    },
-    "away": {
-      "name": "FC CSKA 1948 Sofia",
-      "logo": "https://img.sofascore.com/api/v1/team/252080/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/MMMMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.104.40/hls/MMMMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 07:55 PM",
-    "endTime": "06-02-2026 10:15 PM",
-    "LeagueName": "UAE Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
-    "home": {
-      "name": "Al-Dhafra",
-      "logo": "https://img.sofascore.com/api/v1/team/81305/image"
-    },
-    "away": {
-      "name": "Khor Fakkan",
-      "logo": "https://img.sofascore.com/api/v1/team/234227/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/MMMMQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "DUBAI 1 Sports ",
-        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "06-02-2026 08:55 PM",
     "endTime": "06-02-2026 11:15 PM",
     "LeagueName": "Saudi Pro League",
@@ -131,7 +69,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Romanian SuperLiga",
@@ -162,7 +100,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Saudi Pro League",
@@ -193,7 +131,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "Egyptian Premier League",
@@ -224,7 +162,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:50 PM",
     "LeagueName": "WWIN Liga BiH",
@@ -245,7 +183,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 10:15 PM",
     "endTime": "07-02-2026 12:35 AM",
     "LeagueName": "Parva Liga",
@@ -258,10 +196,15 @@
       "name": "Arda Kardzhali",
       "logo": "https://img.sofascore.com/api/v1/team/274971/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 10:30 PM",
     "endTime": "07-02-2026 12:50 AM",
     "LeagueName": "CAF Champions League",
@@ -274,10 +217,12 @@
       "name": "Al-Hilal Al-Ubayyid",
       "logo": "https://img.sofascore.com/api/v1/team/251254/image"
     },
-    "live_links": []
+    "live_links": {
+      "error": "HTTP Error 503: Service Unavailable"
+    }
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "06-02-2026 10:30 PM",
     "endTime": "07-02-2026 12:50 AM",
     "LeagueName": "UAE Pro League",
@@ -290,7 +235,19 @@
       "name": "Al-Ain",
       "logo": "https://img.sofascore.com/api/v1/team/37082/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "DUBAI 1 Sports ",
+        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1349,7 +1306,7 @@
     "live_links": []
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "06-02-2026 09:30 PM",
     "endTime": "06-02-2026 11:40 PM",
     "LeagueName": "Kuwait - Kuwait Premier League",
@@ -1366,27 +1323,6 @@
       {
         "name": "Link 1",
         "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_t64MjQwcA==.m3u8"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "06-02-2026 07:45 PM",
-    "endTime": "06-02-2026 09:55 PM",
-    "LeagueName": "Tanzania Ligi Kuu Bara",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
-    "home": {
-      "name": "Mashujaa",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
-    },
-    "away": {
-      "name": "Mashujaa",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/MMMMQ.m3u8|Referer=http://www.fawanews.sc/"
       }
     ]
   }
