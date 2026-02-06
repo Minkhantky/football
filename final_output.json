@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 06:45 AM",
     "endTime": "06-02-2026 09:05 AM",
     "LeagueName": "Copa Argentina",
@@ -13,10 +13,32 @@
       "name": "Temperley",
       "logo": "https://img.sofascore.com/api/v1/team/112499/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tycsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TVC 1.",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tycsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TYC 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tycsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:00 AM",
     "endTime": "06-02-2026 09:20 AM",
     "LeagueName": "Gaúcho",
@@ -29,10 +51,15 @@
       "name": "EC Avenida",
       "logo": "https://img.sofascore.com/api/v1/team/32765/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:00 AM",
     "endTime": "06-02-2026 09:20 AM",
     "LeagueName": "Brasileirão Betano",
@@ -45,10 +72,32 @@
       "name": "Coritiba",
       "logo": "https://img.sofascore.com/api/v1/team/1982/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "SporTV BR",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "scheme": 0,
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "tokenApi": ""
+      },
+      {
+        "name": "PREMIERE BR FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "scheme": 0,
+        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:00 AM",
     "endTime": "06-02-2026 09:20 AM",
     "LeagueName": "CONMEBOL Libertadores",
@@ -61,10 +110,67 @@
       "name": "Universidad Católica del Ecuador",
       "logo": "https://img.sofascore.com/api/v1/team/21942/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ESPN HD ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD ESPN ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Arabic",
+        "link": "http://nullsignal.site/b2/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/juventud-vs-universidad-catolica-football-1494504\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MX HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn3mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MX HD 2..",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MX 1 HD",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn2mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MX 2 HD",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn2mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:30 AM",
     "endTime": "06-02-2026 09:50 AM",
     "LeagueName": "Primera A, Apertura",
@@ -77,7 +183,15 @@
       "name": "Deportivo Pereira",
       "logo": "https://img.sofascore.com/api/v1/team/6109/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -112,7 +226,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:30 AM",
     "endTime": "06-02-2026 11:55 AM",
     "LeagueName": "Liga MX Femenil",
@@ -125,10 +239,17 @@
       "name": "Matches",
       "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36",
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "scheme": 0
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:30 AM",
     "endTime": "06-02-2026 09:55 AM",
     "LeagueName": "CONCACAF U17 Championship",
@@ -141,10 +262,18 @@
       "name": "Antigua &amp; Barbuda U17",
       "logo": "https://img.sofascore.com/api/v1/team/1075861/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "scheme": 0,
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "06-02-2026 07:30 AM",
     "endTime": "06-02-2026 09:55 AM",
     "LeagueName": "CONCACAF U17 Championship",
@@ -157,7 +286,22 @@
       "name": "Anguilla U17",
       "logo": "https://img.sofascore.com/api/v1/team/1165441/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://spxt.nullsignal.site/livedhfh25/1968452.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Soccer",
+        "link": "https://spxt.nullsignal.site/livedhfh25/1968452.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1308,70 +1452,6 @@
     "away": {
       "name": "Colombia U20",
       "logo": "https://img.sofascore.com/api/v1/team/43214/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 04:30 AM",
-    "endTime": "06-02-2026 06:50 AM",
-    "LeagueName": "Liga FUTVE",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/231/image/dark",
-    "home": {
-      "name": "Portuguesa FC",
-      "logo": "https://img.sofascore.com/api/v1/team/6234/image"
-    },
-    "away": {
-      "name": "Deportivo Táchira",
-      "logo": "https://img.sofascore.com/api/v1/team/6231/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 04:30 AM",
-    "endTime": "06-02-2026 06:50 AM",
-    "LeagueName": "Liga AUF Uruguaya",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-    "home": {
-      "name": "Albion FC",
-      "logo": "https://img.sofascore.com/api/v1/team/278204/image"
-    },
-    "away": {
-      "name": "Liverpool UY",
-      "logo": "https://img.sofascore.com/api/v1/team/6879/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 05:30 AM",
-    "endTime": "06-02-2026 07:50 AM",
-    "LeagueName": "Liga de Primera",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-    "home": {
-      "name": "Audax Italiano",
-      "logo": "https://img.sofascore.com/api/v1/team/3162/image"
-    },
-    "away": {
-      "name": "Universidad de Concepción",
-      "logo": "https://img.sofascore.com/api/v1/team/5034/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 05:30 AM",
-    "endTime": "06-02-2026 07:50 AM",
-    "LeagueName": "Mineiro, Módulo I",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
-    "home": {
-      "name": "Betim Futebol",
-      "logo": "https://img.sofascore.com/api/v1/team/368413/image"
-    },
-    "away": {
-      "name": "Itabirito FC",
-      "logo": "https://img.sofascore.com/api/v1/team/454864/image"
     },
     "live_links": []
   },
