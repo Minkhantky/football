@@ -473,483 +473,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "VriendenLoterij Eredivisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-    "home": {
-      "name": "NAC Breda",
-      "logo": "https://img.sofascore.com/api/v1/team/2947/image"
-    },
-    "away": {
-      "name": "Excelsior",
-      "logo": "https://img.sofascore.com/api/v1/team/2967/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q4L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK Sports ",
-        "link": "https://q.lppefe.shop/hls/VVVVQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPN NL ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN NL 2 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn2_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "Red Star FC",
-      "logo": "https://img.sofascore.com/api/v1/team/52874/image"
-    },
-    "away": {
-      "name": "Pau FC",
-      "logo": "https://img.sofascore.com/api/v1/team/1685/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/UFFFQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD. ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/UFFFQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "Stade de Reims",
-      "logo": "https://img.sofascore.com/api/v1/team/1682/image"
-    },
-    "away": {
-      "name": "Bastia",
-      "logo": "https://img.sofascore.com/api/v1/team/1655/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "US Boulogne Côte-d'Opale",
-      "logo": "https://img.sofascore.com/api/v1/team/1711/image"
-    },
-    "away": {
-      "name": "Rodez AF",
-      "logo": "https://img.sofascore.com/api/v1/team/6925/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/FOOOZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/FOOOZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "USL Dunkerque",
-      "logo": "https://img.sofascore.com/api/v1/team/6918/image"
-    },
-    "away": {
-      "name": "Guingamp",
-      "logo": "https://img.sofascore.com/api/v1/team/1654/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/UFFF.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://nullsignal.site/b4/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "Annecy FC",
-      "logo": "https://img.sofascore.com/api/v1/team/210894/image"
-    },
-    "away": {
-      "name": "Grenoble Foot 38",
-      "logo": "https://img.sofascore.com/api/v1/team/1671/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/FOOOZQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/annecy-vs-grenoble-football-1389307\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "De Graafschap",
-      "logo": "https://img.sofascore.com/api/v1/team/2949/image"
-    },
-    "away": {
-      "name": "Jong Ajax",
-      "logo": "https://img.sofascore.com/api/v1/team/46160/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/UFFFQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/UFFFQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "FC Emmen",
-      "logo": "https://img.sofascore.com/api/v1/team/2965/image"
-    },
-    "away": {
-      "name": "Jong FC Utrecht",
-      "logo": "https://img.sofascore.com/api/v1/team/53067/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/VVVV.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/VVVV.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "TOP Oss",
-      "logo": "https://img.sofascore.com/api/v1/team/2978/image"
-    },
-    "away": {
-      "name": "Vitesse",
-      "logo": "https://img.sofascore.com/api/v1/team/2958/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/VVVVQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/VVVVQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "Helmond Sport",
-      "logo": "https://img.sofascore.com/api/v1/team/2974/image"
-    },
-    "away": {
-      "name": "FC Den Bosch",
-      "logo": "https://img.sofascore.com/api/v1/team/2963/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/VVVVQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/VVVVQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "MVV Maastricht",
-      "logo": "https://img.sofascore.com/api/v1/team/2976/image"
-    },
-    "away": {
-      "name": "Jong PSV Eindhoven",
-      "logo": "https://img.sofascore.com/api/v1/team/46168/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/VVVVQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/VVVVQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "Roda JC Kerkrade",
-      "logo": "https://img.sofascore.com/api/v1/team/2954/image"
-    },
-    "away": {
-      "name": "ADO Den Haag",
-      "logo": "https://img.sofascore.com/api/v1/team/2966/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/VVVVQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPN ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN NL 3",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Eerste Divisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/131/image/dark",
-    "home": {
-      "name": "SC Cambuur",
-      "logo": "https://img.sofascore.com/api/v1/team/2970/image"
-    },
-    "away": {
-      "name": "Almere City FC",
-      "logo": "https://img.sofascore.com/api/v1/team/2990/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.lppefe.shop/hls/UFFFQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.lppefe.shop/hls/UFFFQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Challenger Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/9/image/dark",
-    "home": {
-      "name": "RFC Liège",
-      "logo": "https://img.sofascore.com/api/v1/team/389226/image"
-    },
-    "away": {
-      "name": "Koninklijke Lierse Sportkring",
-      "logo": "https://img.sofascore.com/api/v1/team/116075/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "Challenger Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/9/image/dark",
-    "home": {
-      "name": "Patro Eisden Maasmechelen",
-      "logo": "https://img.sofascore.com/api/v1/team/35076/image"
-    },
-    "away": {
-      "name": "Jong KRC Genk U23",
-      "logo": "https://img.sofascore.com/api/v1/team/421124/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 01:30 AM",
-    "endTime": "07-02-2026 03:50 AM",
-    "LeagueName": "WWIN Liga BiH",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/222/image/dark",
-    "home": {
-      "name": "FK Sarajevo",
-      "logo": "https://img.sofascore.com/api/v1/team/5237/image"
-    },
-    "away": {
-      "name": "FK Radnik Bijeljina",
-      "logo": "https://img.sofascore.com/api/v1/team/6149/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 01:45 AM",
     "endTime": "07-02-2026 04:05 AM",
     "LeagueName": "Challenge League",
@@ -1335,7 +858,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -1356,7 +879,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "Primera División, Apertura",
@@ -1372,12 +895,22 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "https://q.sdvdsokvsdv.shop/hls/HJHJHJQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/HJHJHJQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -1398,7 +931,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:30 AM",
     "endTime": "07-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -4871,6 +4404,22 @@
     "away": {
       "name": "CF Monterrey",
       "logo": "https://img.sofascore.com/api/v1/team/1932/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 04:15 AM",
+    "endTime": "07-02-2026 06:26 AM",
+    "LeagueName": "Liga MX, Clausura Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
+    "home": {
+      "name": "Puebla W",
+      "logo": "https://img.sofascore.com/api/v1/team/1941/image"
+    },
+    "away": {
+      "name": "Santos Laguna W",
+      "logo": "https://img.sofascore.com/api/v1/team/1948/image"
     },
     "live_links": []
   }
