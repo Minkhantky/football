@@ -1,179 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 06:30 AM",
-    "endTime": "07-02-2026 08:50 AM",
-    "LeagueName": "Liga Profesional de Fútbol",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-    "home": {
-      "name": "Central Córdoba",
-      "logo": "https://img.sofascore.com/api/v1/team/65676/image"
-    },
-    "away": {
-      "name": "Club Atlético Unión de Santa Fe",
-      "logo": "https://img.sofascore.com/api/v1/team/3204/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "TNT 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tntsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TNT 2 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 07:00 AM",
-    "endTime": "07-02-2026 09:20 AM",
-    "LeagueName": "Liga AUF Uruguaya",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-    "home": {
-      "name": "Montevideo Wanderers",
-      "logo": "https://img.sofascore.com/api/v1/team/3240/image"
-    },
-    "away": {
-      "name": "Defensor Sporting",
-      "logo": "https://img.sofascore.com/api/v1/team/3229/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney11\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney11\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 07:30 AM",
-    "endTime": "07-02-2026 09:50 AM",
-    "LeagueName": "Liga MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
-    "home": {
-      "name": "Tigres UANL",
-      "logo": "https://img.sofascore.com/api/v1/team/1940/image"
-    },
-    "away": {
-      "name": "Santos Laguna",
-      "logo": "https://img.sofascore.com/api/v1/team/1948/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA7HD/default.mpd",
-        "scheme": 0,
-        "api": "c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0",
-        "tokenApi": ""
-      },
-      {
-        "name": "FOX Deportes",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "scheme": 0,
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=azteca7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "FOX DEP",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=foxdeportes\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 07:30 AM",
-    "endTime": "07-02-2026 09:50 AM",
-    "LeagueName": "Liga MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
-    "home": {
-      "name": "Club Necaxa",
-      "logo": "https://img.sofascore.com/api/v1/team/1944/image"
-    },
-    "away": {
-      "name": "Atlético San Luis",
-      "logo": "https://img.sofascore.com/api/v1/team/1950/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/necaxa-vs-atletico-san-luis-football-1492499\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:00 AM",
-    "endTime": "07-02-2026 10:20 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Independiente Medellín",
-      "logo": "https://img.sofascore.com/api/v1/team/6115/image"
-    },
-    "away": {
-      "name": "Internacional de Bogotá",
-      "logo": "https://img.sofascore.com/api/v1/team/1164534/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "07-02-2026 09:36 AM",
     "endTime": "07-02-2026 11:56 AM",
     "LeagueName": "Liga MX, Clausura",
@@ -186,10 +13,32 @@
       "name": "CD Guadalajara",
       "logo": "https://img.sofascore.com/api/v1/team/1938/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA7HD/default.mpd",
+        "scheme": 0,
+        "api": "c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=azteca7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/mazatlan-vs-guadalajara-chivas-football-1492502\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 09:36 AM",
     "endTime": "07-02-2026 11:56 AM",
     "LeagueName": "Liga MX, Clausura",
@@ -202,10 +51,32 @@
       "name": "Club Puebla",
       "logo": "https://img.sofascore.com/api/v1/team/1941/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "TUDN USA ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TUDN HD ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/club-tijuana-vs-puebla-football-1492501\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 AM",
     "endTime": "07-02-2026 12:50 PM",
     "LeagueName": "A-League Men",
@@ -218,10 +89,18 @@
       "name": "Sydney FC",
       "logo": "https://img.sofascore.com/api/v1/team/5971/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "scheme": 0,
+        "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 AM",
     "endTime": "07-02-2026 12:50 PM",
     "LeagueName": "A-League Men",
@@ -234,7 +113,15 @@
       "name": "Sydney FC",
       "logo": "https://img.sofascore.com/api/v1/team/5971/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.105.46/hls/KIKIKIqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
