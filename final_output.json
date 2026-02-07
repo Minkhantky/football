@@ -182,13 +182,6 @@
         "tokenApi": ""
       },
       {
-        "name": "SKY SPORT NZ",
-        "link": "http://nullsignal.site/skynz8/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
         "name": "MAX TV",
         "link": "",
         "scheme": 0,
@@ -328,68 +321,6 @@
         "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
         "scheme": 0,
         "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:45 PM",
-    "endTime": "08-02-2026 01:05 AM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Palermo",
-      "logo": "https://img.sofascore.com/api/v1/team/2715/image"
-    },
-    "away": {
-      "name": "Empoli",
-      "logo": "https://img.sofascore.com/api/v1/team/2705/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/jyyyqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.104.40/hls/jyyyqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 11:00 PM",
-    "endTime": "08-02-2026 01:20 AM",
-    "LeagueName": "Ekstraklasa",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-    "home": {
-      "name": "Jagiellonia Białystok",
-      "logo": "https://img.sofascore.com/api/v1/team/7691/image"
-    },
-    "away": {
-      "name": "Motor Lublin",
-      "logo": "https://img.sofascore.com/api/v1/team/7915/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/jyyyqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD  ",
-        "link": "http://205.237.104.40/hls/jyyyqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
         "tokenApi": ""
       }
     ]
@@ -665,7 +596,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:00 AM",
     "endTime": "08-02-2026 03:20 AM",
     "LeagueName": "Serie B",
@@ -681,12 +612,22 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "https://q.sdvdsokvsdv.shop/hls/uuuu.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD STREAM ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/spezia-vs-virtus-entella-football-1419812\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:00 AM",
     "endTime": "08-02-2026 03:20 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -707,7 +648,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:00 AM",
     "endTime": "08-02-2026 03:20 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -728,7 +669,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:00 AM",
     "endTime": "08-02-2026 03:20 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -749,7 +690,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "VriendenLoterij Eredivisie",
@@ -762,42 +703,46 @@
       "name": "SC Heerenveen",
       "logo": "https://img.sofascore.com/api/v1/team/2964/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "HD TV ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/eiiiiq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMy9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN NL",
+        "link": "https://broadcasthub.click//hls/DzazxOvS3QE1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn1_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "JS Kabylie",
-      "logo": "https://img.sofascore.com/api/v1/team/42202/image"
-    },
-    "away": {
-      "name": "Al Ahly FC",
-      "logo": "https://img.sofascore.com/api/v1/team/6910/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "AS FAR Rabat",
-      "logo": "https://img.sofascore.com/api/v1/team/24394/image"
-    },
-    "away": {
-      "name": "Young Africans SC",
-      "logo": "https://img.sofascore.com/api/v1/team/134320/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "Ligue 2",
@@ -810,10 +755,25 @@
       "name": "Montpellier",
       "logo": "https://img.sofascore.com/api/v1/team/1642/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/gguuuqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/gguuuqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "Primera A, Apertura",
@@ -826,10 +786,32 @@
       "name": "Cúcuta Deportivo",
       "logo": "https://img.sofascore.com/api/v1/team/6108/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "Paulista Série A1",
@@ -842,10 +824,25 @@
       "name": "Ponte Preta",
       "logo": "https://img.sofascore.com/api/v1/team/1969/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvvsdcez.shop/hls/gguuuqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvvsdcez.shop/hls/gguuuqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "USL Super League",
@@ -858,7 +855,12 @@
       "name": "Lexington SC",
       "logo": "https://img.sofascore.com/api/v1/team/465515/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
