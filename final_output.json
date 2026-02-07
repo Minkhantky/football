@@ -22,10 +22,24 @@
         "tokenApi": ""
       },
       {
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
         "name": "beIN SPORTS FHD ",
         "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
         "scheme": 0,
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "tokenApi": ""
+      },
+      {
+        "name": "FANCODE FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "scheme": 0,
+        "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "tokenApi": ""
       },
       {
@@ -41,13 +55,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
-      },
-      {
-        "name": "ESPAÑA + 🇪🇸 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       },
       {
         "name": "ESPN TV 2",
@@ -132,7 +139,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:35 AM",
     "endTime": "08-02-2026 04:55 AM",
     "LeagueName": "Ligue 1",
@@ -146,6 +153,13 @@
       "logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
     "live_links": [
+      {
+        "name": "DAZN Multi Commentary",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/oxp2szjst0/out/v1/293313ddb4d543a79c71f7356d0b07f5/cenc.mpd",
+        "scheme": 0,
+        "api": "8981d699a0e52014854dc7d7d6b1ce93:a7aba376e015c4583487683c848818e4",
+        "tokenApi": ""
+      },
       {
         "name": "AK SPORTS HD ",
         "link": "https://q.sdvdsokvsdv.shop/hls/HRRRRQ.m3u8|Referer=http://www.fawanews.sc/",
@@ -260,7 +274,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:45 AM",
     "endTime": "08-02-2026 05:05 AM",
     "LeagueName": "Liga 1",
@@ -273,182 +287,10 @@
       "name": "Sport Huancayo",
       "logo": "https://img.sofascore.com/api/v1/team/33895/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:15 AM",
-    "endTime": "08-02-2026 02:35 AM",
-    "LeagueName": "VriendenLoterij Eredivisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-    "home": {
-      "name": "PEC Zwolle",
-      "logo": "https://img.sofascore.com/api/v1/team/2971/image"
-    },
-    "away": {
-      "name": "FC Volendam",
-      "logo": "https://img.sofascore.com/api/v1/team/2968/image"
-    },
-    "live_links": [
-      {
-        "name": "HD TV 1",
-        "link": "https://q.sdyrkyulk.shop/hls/zjjjqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link HD ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMi9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV 2",
-        "link": "http://195.178.110.25/hls/zjjjqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 AM",
-    "endTime": "08-02-2026 02:50 AM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "AE Kifisia",
-      "logo": "https://img.sofascore.com/api/v1/team/120224/image"
-    },
-    "away": {
-      "name": "APS Atromitos Athinon",
-      "logo": "https://img.sofascore.com/api/v1/team/5062/image"
-    },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD HD ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMC9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 AM",
-    "endTime": "08-02-2026 02:50 AM",
-    "LeagueName": "Liga Portugal Betclic",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-    "home": {
-      "name": "Estoril Praia",
-      "logo": "https://img.sofascore.com/api/v1/team/4500/image"
-    },
-    "away": {
-      "name": "Tondela",
-      "logo": "https://img.sofascore.com/api/v1/team/38396/image"
-    },
-    "live_links": [
-      {
-        "name": "HD TV ",
-        "link": "https://q.sdvvsdcez.shop/hls/zjjjqqqqQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 1",
-        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 2",
-        "link": "https://spxt.nullsignal.site/livedhfh-dks/589151.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD HD ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxNC9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 AM",
-    "endTime": "08-02-2026 02:50 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "CFR 1907 Cluj",
-      "logo": "https://img.sofascore.com/api/v1/team/5287/image"
-    },
-    "away": {
-      "name": "FC Universitatea Cluj",
-      "logo": "https://img.sofascore.com/api/v1/team/7734/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyNC9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://q.sdyrkyulk.shop/hls/zjjjqqqqQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 AM",
-    "endTime": "08-02-2026 02:50 AM",
-    "LeagueName": "Liga 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-    "home": {
-      "name": "Asociación Deportiva Tarma",
-      "logo": "https://img.sofascore.com/api/v1/team/335557/image"
-    },
-    "away": {
-      "name": "Sport Boys",
-      "logo": "https://img.sofascore.com/api/v1/team/2312/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/FKKKQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "https://q.sdvdsokvsdv.shop/hls/HRRRRQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -952,7 +794,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:35 AM",
     "endTime": "08-02-2026 04:55 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -983,7 +825,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:00 AM",
     "endTime": "08-02-2026 05:20 AM",
     "LeagueName": "Liga Portugal Betclic",
@@ -996,7 +838,36 @@
       "name": "Vitória SC",
       "logo": "https://img.sofascore.com/api/v1/team/3009/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK Sports ",
+        "link": "https://q.sdvvsdcez.shop/hls/HRRRRQQQ.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 1",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://spxt.nullsignal.site/livedhfh-dks/589151.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD HD ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxNC9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1477,34 +1348,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/419928/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 AM",
-    "endTime": "08-02-2026 02:50 AM",
-    "LeagueName": "Liga Portugal 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
-    "home": {
-      "name": "Leixões SC",
-      "logo": "https://img.sofascore.com/api/v1/team/3018/image"
-    },
-    "away": {
-      "name": "Feirense",
-      "logo": "https://img.sofascore.com/api/v1/team/4501/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD +",
-        "link": "https://spxt.nullsignal.site/livedhfh-dks/1688744.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   },
   {
     "status": "UPCOMING",
