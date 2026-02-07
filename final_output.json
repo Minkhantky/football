@@ -1,83 +1,100 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 03:40 AM",
-    "endTime": "08-02-2026 06:00 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
     "home": {
-      "name": "Deportes Tolima",
-      "logo": "https://img.sofascore.com/api/v1/team/6111/image"
+      "name": "Bangu",
+      "logo": "https://img.sofascore.com/api/v1/team/1993/image"
     },
     "away": {
-      "name": "Llaneros FC",
-      "logo": "https://img.sofascore.com/api/v1/team/89374/image"
+      "name": "Boavista",
+      "logo": "https://img.sofascore.com/api/v1/team/6977/image"
     },
     "live_links": [
       {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
+  },
+  {
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
+    "home": {
+      "name": "Portuguesa-RJ",
+      "logo": "https://img.sofascore.com/api/v1/team/208067/image"
+    },
+    "away": {
+      "name": "Nova Iguaçu",
+      "logo": "https://img.sofascore.com/api/v1/team/6981/image"
+    },
+    "live_links": [
+      {
+        "name": "Premiere FHD ",
+        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
         "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
         "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 04:00 AM",
-    "endTime": "08-02-2026 06:20 AM",
-    "LeagueName": "Paulista Série A1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
     "home": {
-      "name": "Grêmio Novorizontino",
-      "logo": "https://img.sofascore.com/api/v1/team/135514/image"
+      "name": "Volta Redonda",
+      "logo": "https://img.sofascore.com/api/v1/team/6982/image"
     },
     "away": {
-      "name": "São Bernardo",
-      "logo": "https://img.sofascore.com/api/v1/team/47504/image"
+      "name": "Madureira",
+      "logo": "https://img.sofascore.com/api/v1/team/6980/image"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 04:00 AM",
-    "endTime": "08-02-2026 06:20 AM",
-    "LeagueName": "Paulista Série A1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
-    "home": {
-      "name": "Guarani",
-      "logo": "https://img.sofascore.com/api/v1/team/1972/image"
-    },
-    "away": {
-      "name": "Botafogo-SP",
-      "logo": "https://img.sofascore.com/api/v1/team/1979/image"
-    },
-    "live_links": [
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
       {
-        "name": "Link 1",
-        "link": "https://no.link"
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 04:00 AM",
-    "endTime": "08-02-2026 06:20 AM",
-    "LeagueName": "Mineiro, Módulo I",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/379/image/dark",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 06:30 AM",
+    "endTime": "08-02-2026 08:50 AM",
+    "LeagueName": "Carioca",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
     "home": {
-      "name": "Atlético Mineiro",
-      "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+      "name": "Flamengo",
+      "logo": "https://img.sofascore.com/api/v1/team/5981/image"
     },
     "away": {
-      "name": "Athletic Club",
-      "logo": "https://img.sofascore.com/api/v1/team/342775/image"
+      "name": "Sampaio Corrêa-RJ",
+      "logo": "https://img.sofascore.com/api/v1/team/257632/image"
     },
     "live_links": [
       {
@@ -104,123 +121,7 @@
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 04:00 AM",
-    "endTime": "08-02-2026 06:20 AM",
-    "LeagueName": "Gaúcho",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/377/image/dark",
-    "home": {
-      "name": "Grêmio",
-      "logo": "https://img.sofascore.com/api/v1/team/5926/image"
-    },
-    "away": {
-      "name": "Novo Hamburgo",
-      "logo": "https://img.sofascore.com/api/v1/team/480376/image"
-    },
-    "live_links": [
-      {
-        "name": "Premiere FHD ",
-        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-        "scheme": 0,
-        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 04:00 AM",
-    "endTime": "08-02-2026 06:20 AM",
-    "LeagueName": "Primera División, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11540/image/dark",
-    "home": {
-      "name": "Rubio Ñu",
-      "logo": "https://img.sofascore.com/api/v1/team/36438/image"
-    },
-    "away": {
-      "name": "Sportivo Trinidense",
-      "logo": "https://img.sofascore.com/api/v1/team/39722/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 06:30 AM",
-    "endTime": "08-02-2026 08:50 AM",
-    "LeagueName": "Carioca",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
-    "home": {
-      "name": "Bangu",
-      "logo": "https://img.sofascore.com/api/v1/team/1993/image"
-    },
-    "away": {
-      "name": "Boavista",
-      "logo": "https://img.sofascore.com/api/v1/team/6977/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 06:30 AM",
-    "endTime": "08-02-2026 08:50 AM",
-    "LeagueName": "Carioca",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
-    "home": {
-      "name": "Portuguesa-RJ",
-      "logo": "https://img.sofascore.com/api/v1/team/208067/image"
-    },
-    "away": {
-      "name": "Nova Iguaçu",
-      "logo": "https://img.sofascore.com/api/v1/team/6981/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 06:30 AM",
-    "endTime": "08-02-2026 08:50 AM",
-    "LeagueName": "Carioca",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
-    "home": {
-      "name": "Volta Redonda",
-      "logo": "https://img.sofascore.com/api/v1/team/6982/image"
-    },
-    "away": {
-      "name": "Madureira",
-      "logo": "https://img.sofascore.com/api/v1/team/6980/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 06:30 AM",
-    "endTime": "08-02-2026 08:50 AM",
-    "LeagueName": "Carioca",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
-    "home": {
-      "name": "Flamengo",
-      "logo": "https://img.sofascore.com/api/v1/team/5981/image"
-    },
-    "away": {
-      "name": "Sampaio Corrêa-RJ",
-      "logo": "https://img.sofascore.com/api/v1/team/257632/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 AM",
     "endTime": "08-02-2026 08:50 AM",
     "LeagueName": "MLS Preseason",
@@ -233,7 +134,12 @@
       "name": "Barcelona SC Guayaquil",
       "logo": "https://img.sofascore.com/api/v1/team/5250/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
