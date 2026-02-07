@@ -313,179 +313,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "VriendenLoterij Eredivisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-    "home": {
-      "name": "FC Twente",
-      "logo": "https://img.sofascore.com/api/v1/team/2955/image"
-    },
-    "away": {
-      "name": "SC Heerenveen",
-      "logo": "https://img.sofascore.com/api/v1/team/2964/image"
-    },
-    "live_links": [
-      {
-        "name": "HD TV ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/eiiiiq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMy9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPN NL",
-        "link": "https://broadcasthub.click//hls/DzazxOvS3QE1/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn1_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "Ligue 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
-    "home": {
-      "name": "Saint-Étienne",
-      "logo": "https://img.sofascore.com/api/v1/team/1678/image"
-    },
-    "away": {
-      "name": "Montpellier",
-      "logo": "https://img.sofascore.com/api/v1/team/1642/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/gguuuqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/gguuuqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Rionegro Águilas Doradas",
-      "logo": "https://img.sofascore.com/api/v1/team/48244/image"
-    },
-    "away": {
-      "name": "Cúcuta Deportivo",
-      "logo": "https://img.sofascore.com/api/v1/team/6108/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winplus2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "Paulista Série A1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
-    "home": {
-      "name": "Portuguesa",
-      "logo": "https://img.sofascore.com/api/v1/team/21896/image"
-    },
-    "away": {
-      "name": "Ponte Preta",
-      "logo": "https://img.sofascore.com/api/v1/team/1969/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/gguuuqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvvsdcez.shop/hls/gguuuqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:30 AM",
-    "endTime": "08-02-2026 03:50 AM",
-    "LeagueName": "USL Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/28384/image/dark",
-    "home": {
-      "name": "Carolina Ascent",
-      "logo": "https://img.sofascore.com/api/v1/team/507682/image"
-    },
-    "away": {
-      "name": "Lexington SC",
-      "logo": "https://img.sofascore.com/api/v1/team/465515/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "08-02-2026 01:45 AM",
     "endTime": "08-02-2026 04:05 AM",
     "LeagueName": "Ekstraklasa",
@@ -776,7 +603,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga de Primera",
@@ -814,7 +641,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Mineiro, Módulo I",
@@ -835,7 +662,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -856,7 +683,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -908,7 +735,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Pernambucano",
@@ -929,7 +756,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -950,7 +777,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -971,7 +798,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga FUTVE",
@@ -992,7 +819,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 03:40 AM",
     "endTime": "08-02-2026 06:00 AM",
     "LeagueName": "Primera A, Apertura",
@@ -1005,10 +832,18 @@
       "name": "Llaneros FC",
       "logo": "https://img.sofascore.com/api/v1/team/89374/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:00 AM",
     "endTime": "08-02-2026 06:20 AM",
     "LeagueName": "Paulista Série A1",
@@ -1021,10 +856,15 @@
       "name": "São Bernardo",
       "logo": "https://img.sofascore.com/api/v1/team/47504/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:00 AM",
     "endTime": "08-02-2026 06:20 AM",
     "LeagueName": "Paulista Série A1",
@@ -1037,10 +877,15 @@
       "name": "Botafogo-SP",
       "logo": "https://img.sofascore.com/api/v1/team/1979/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:00 AM",
     "endTime": "08-02-2026 06:20 AM",
     "LeagueName": "Mineiro, Módulo I",
@@ -1053,10 +898,32 @@
       "name": "Athletic Club",
       "logo": "https://img.sofascore.com/api/v1/team/342775/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Sport Tv BR",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "scheme": 0,
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "tokenApi": ""
+      },
+      {
+        "name": "PREMIERE BR FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "scheme": 0,
+        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:00 AM",
     "endTime": "08-02-2026 06:20 AM",
     "LeagueName": "Gaúcho",
@@ -1069,10 +936,25 @@
       "name": "Novo Hamburgo",
       "logo": "https://img.sofascore.com/api/v1/team/480376/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Premiere FHD ",
+        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "scheme": 0,
+        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:00 AM",
     "endTime": "08-02-2026 06:20 AM",
     "LeagueName": "Primera División, Apertura",
@@ -1085,7 +967,12 @@
       "name": "Sportivo Trinidense",
       "logo": "https://img.sofascore.com/api/v1/team/39722/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
