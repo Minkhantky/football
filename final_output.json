@@ -1,82 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 09:36 AM",
-    "endTime": "07-02-2026 11:56 AM",
-    "LeagueName": "Liga MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
-    "home": {
-      "name": "Mazatlán FC",
-      "logo": "https://img.sofascore.com/api/v1/team/1946/image"
-    },
-    "away": {
-      "name": "CD Guadalajara",
-      "logo": "https://img.sofascore.com/api/v1/team/1938/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://nog-live1-ott.izzigo.tv/4/out/u/dash/AZTECA7HD/default.mpd",
-        "scheme": 0,
-        "api": "c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=azteca7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/mazatlan-vs-guadalajara-chivas-football-1492502\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:36 AM",
-    "endTime": "07-02-2026 11:56 AM",
-    "LeagueName": "Liga MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
-    "home": {
-      "name": "Club Tijuana",
-      "logo": "https://img.sofascore.com/api/v1/team/36525/image"
-    },
-    "away": {
-      "name": "Club Puebla",
-      "logo": "https://img.sofascore.com/api/v1/team/1941/image"
-    },
-    "live_links": [
-      {
-        "name": "TUDN USA ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TUDN HD ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/club-tijuana-vs-puebla-football-1492501\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 AM",
     "endTime": "07-02-2026 12:50 PM",
     "LeagueName": "A-League Men",
@@ -124,7 +48,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:30 PM",
     "endTime": "07-02-2026 02:50 PM",
     "LeagueName": "A-League Men",
@@ -137,7 +61,22 @@
       "name": "Central Coast Mariners",
       "logo": "https://img.sofascore.com/api/v1/team/5966/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.105.46/hls/KIKIKIqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.105.46/hls/KIKIKIqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
