@@ -259,7 +259,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Trendyol Süper Lig",
@@ -275,7 +275,7 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://205.237.107.90/hls/FCCCQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyNy9pbmRleC5tM3U4",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -290,7 +290,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Serie A Women",
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Serie A Women",
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 06:15 PM",
     "endTime": "07-02-2026 08:35 PM",
     "LeagueName": "Fizz Liga",
@@ -345,10 +345,15 @@
       "name": "ETO FC Győr",
       "logo": "https://img.sofascore.com/api/v1/team/1923/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Singapore Premier League",
@@ -381,7 +386,7 @@
   {
     "status": "UPCOMING",
     "matchTime": "07-02-2026 06:30 PM",
-    "endTime": "07-02-2026 08:50 PM",
+    "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "home": {
@@ -397,7 +402,7 @@
   {
     "status": "UPCOMING",
     "matchTime": "07-02-2026 06:30 PM",
-    "endTime": "07-02-2026 08:50 PM",
+    "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "home": {
@@ -413,7 +418,7 @@
   {
     "status": "UPCOMING",
     "matchTime": "07-02-2026 06:30 PM",
-    "endTime": "07-02-2026 08:50 PM",
+    "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
     "home": {
