@@ -384,7 +384,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
@@ -397,10 +397,25 @@
       "name": "Hertha BSC",
       "logo": "https://img.sofascore.com/api/v1/team/2528/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link HD ",
+        "link": "http://205.237.104.40/hls/LMLMLMQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Simulcast FHD ",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
@@ -413,10 +428,25 @@
       "name": "SG Dynamo Dresden",
       "logo": "https://img.sofascore.com/api/v1/team/2595/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link HD ",
+        "link": "http://205.237.104.40/hls/LMLMLMQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Simulcast FHD ",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:40 PM",
     "LeagueName": "2. Bundesliga",
@@ -429,10 +459,25 @@
       "name": "1. FC Nürnberg",
       "logo": "https://img.sofascore.com/api/v1/team/2523/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link HD ",
+        "link": "http://205.237.104.40/hls/LMLMLMQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Simulcast FHD ",
+        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+        "scheme": 0,
+        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:50 PM",
     "LeagueName": "Women's Super League",
@@ -445,10 +490,25 @@
       "name": "Manchester United",
       "logo": "https://img.sofascore.com/api/v1/team/301455/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "SKY PL FHD",
+        "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+        "scheme": 0,
+        "api": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK Sports ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/dndndn.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:50 PM",
     "LeagueName": "Indonesia Super League",
@@ -461,10 +521,25 @@
       "name": "Madura United FC",
       "logo": "https://img.sofascore.com/api/v1/team/86578/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/LMLMLM.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/LMLMLM.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:30 PM",
     "endTime": "07-02-2026 08:50 PM",
     "LeagueName": "Indonesia Super League",
@@ -477,7 +552,22 @@
       "name": "Persebaya Surabaya",
       "logo": "https://img.sofascore.com/api/v1/team/76319/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/LMLMLMQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/LMLMLMQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
