@@ -87,7 +87,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 04:30 PM",
     "endTime": "07-02-2026 06:50 PM",
     "LeagueName": "Club Friendly Games",
@@ -100,7 +100,12 @@
       "name": "SK Hanácká Slavia Kroměříž",
       "logo": "https://img.sofascore.com/api/v1/team/4865/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
