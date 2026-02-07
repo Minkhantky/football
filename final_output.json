@@ -1,45 +1,24 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:45 PM",
-    "endTime": "08-02-2026 12:05 AM",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
     "LeagueName": "LaLiga",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
     "home": {
-      "name": "Barcelona",
-      "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+      "name": "Sevilla",
+      "logo": "https://img.sofascore.com/api/v1/team/2833/image"
     },
     "away": {
-      "name": "Mallorca",
-      "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+      "name": "Girona FC",
+      "logo": "https://img.sofascore.com/api/v1/team/24264/image"
     },
     "live_links": [
-      {
-        "name": "DAZN Multi Commentary",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tukyatanrh/out/v1/b7c6158cd5b04eaa9b35c4dba0b7868e/cenc.mpd",
-        "scheme": 0,
-        "api": "2ce7f684e516626f196d42f6be84682c:2a42f5091cf2007c5897d457f85d47fd",
-        "tokenApi": ""
-      },
       {
         "name": "Laliga TV FHD",
         "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
         "scheme": 0,
         "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-        "tokenApi": ""
-      },
-      {
-        "name": "TSN SPORTS⁵ FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-        "scheme": 0,
-        "api": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
-        "tokenApi": ""
-      },
-      {
-        "name": "FANCODE FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-        "scheme": 0,
-        "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
         "tokenApi": ""
       },
       {
@@ -50,8 +29,15 @@
         "tokenApi": ""
       },
       {
+        "name": "FANCODE FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+        "scheme": 0,
+        "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+        "tokenApi": ""
+      },
+      {
         "name": "Arabic ",
-        "link": "http://nullsignal.site/b2/index.m3u8",
+        "link": "http://nullsignal.site/b3/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -61,21 +47,14 @@
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       },
       {
-        "name": "Español 2",
+        "name": "ESPN 2",
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN HD ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnplus2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       },
       {
         "name": "ESPN DEPORTES ",
@@ -83,18 +62,11 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espndeportes\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney13\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 11:30 PM",
     "endTime": "08-02-2026 01:50 AM",
     "LeagueName": "Serie A",
@@ -109,10 +81,24 @@
     },
     "live_links": [
       {
+        "name": "DAZN Multi Commentary",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/q6iw46dcvx/out/v1/e32b3e61e276478da14d21da45d4a833/cenc.mpd",
+        "scheme": 0,
+        "api": "42fd6c698ac8dcba54bc3e38b495f596:eb6544f45b4a70824f133ae90d25b490",
+        "tokenApi": ""
+      },
+      {
         "name": "PARAMOUNT+ FHD",
         "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f2hpuk04yi/out/v1/e99df832ffd6425fbe92ba4424d14115/cenc.mpd",
         "scheme": 0,
         "api": "cb4d3e53d80cf3069ec63af4843779e0:e6e5efdf6eb828f0098faa9bf87cd6bd",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gm8ldqlubg/out/v1/0df2de66769541e387006728678fdf82/cenc.mpd",
+        "scheme": 0,
+        "api": "1983a73dbf751b9c800dd47875455c23:b7acab969fd082c8e51137397557d866",
         "tokenApi": ""
       },
       {
@@ -137,6 +123,13 @@
         "tokenApi": ""
       },
       {
+        "name": "DAZN ITALIAN FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/q6iw46dcvx/out/v1/e32b3e61e276478da14d21da45d4a833/cenc.mpd",
+        "scheme": 0,
+        "api": "ca82c11b88ddb3554eccfaf6adcd4bdf:545c789b3b928aa977360b9052a6c0d3",
+        "tokenApi": ""
+      },
+      {
         "name": "ESPN HD ",
         "link": "",
         "scheme": 0,
@@ -153,120 +146,44 @@
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "English Premier League",
-    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
     "home": {
-      "name": "EPL",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png"
+      "name": "Newcastle United",
+      "logo": "https://img.sofascore.com/api/v1/team/39/image"
     },
     "away": {
-      "name": "Goal Rush",
-      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQuK9f83R-ZR8UuTd9cAuDw0iRlnsA6BktkcSzGtkUarFGjxrwrz87NJ6TgcU5c6uDEYC1rGahGofzkMFFfABHpeLggTOmsG3xQDknM3OjWLgdPBfdDFm0dIEXNUp5tYg_wfLREEuE92_3wUz7Kd-kuJtX8aohww70b_xJA0eGKVVPdPUkdXPTUC-xUA/s1600/1000027519.png"
+      "name": "Brentford",
+      "logo": "https://img.sofascore.com/api/v1/team/50/image"
     },
     "live_links": [
       {
-        "name": "PEACOCK ENGLISH FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yeyt75scbv/out/v1/ee4d18ec246c4a7d89db2828a8ca3f26/cenc.mpd",
+        "name": "PEACOCK FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sfxnavg6ut/out/v1/add58e9380f34098b543cb509a14b77a/cenc.mpd",
         "scheme": 0,
-        "api": "8e6f882be073a7f05c69121d2bc8594f:fa4dd4a356420a3553766a7216c235a8",
+        "api": "3057d6c36f29cc529b798a022d963577:249391c395a87bfe119899cb59125260",
         "tokenApi": ""
       },
       {
-        "name": "SKY EPL FHD",
+        "name": "FUBO SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w7uxmk4nko/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
+        "scheme": 0,
+        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "tokenApi": ""
+      },
+      {
+        "name": "SKY SPORTS FHD",
         "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
         "scheme": 0,
         "api": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
         "tokenApi": ""
       },
       {
-        "name": "Sky Sports FHD",
-        "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
-        "scheme": 0,
-        "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-    "home": {
-      "name": "Arsenal",
-      "logo": "https://img.sofascore.com/api/v1/team/42/image"
-    },
-    "away": {
-      "name": "Sunderland",
-      "logo": "https://img.sofascore.com/api/v1/team/41/image"
-    },
-    "live_links": [
-      {
-        "name": "PEACOCK ENG FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/y5gxdauclx/out/v1/ae9608e5ddaf4251b5166ad1a72446f2/cenc.mpd",
-        "scheme": 0,
-        "api": "6995fa7ff4b428756663c7c90170f1fa:6bba510b676f76612c55108d70daad64",
-        "tokenApi": ""
-      },
-      {
-        "name": "FUBO SPORTS FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n9gdsvrmla/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd",
-        "scheme": 0,
-        "api": "d8044ae85244d1959eac426867786b7f:8d58d4fe36400b2a62039c510a07022c",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK Sports ",
-        "link": "https://s.silingiti.shop/hls/SSSS.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "UNIVERSO HD",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=universo_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney12\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-    "home": {
-      "name": "Wolverhampton",
-      "logo": "https://img.sofascore.com/api/v1/team/3/image"
-    },
-    "away": {
-      "name": "Chelsea",
-      "logo": "https://img.sofascore.com/api/v1/team/38/image"
-    },
-    "live_links": [
-      {
-        "name": "AK Sports  ",
-        "link": "https://s.sikamika.shop/hls/SSSSQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
         "name": "SKY SPORT NZ",
-        "link": "http://nullsignal.site/skynz2/index.m3u8",
+        "link": "http://nullsignal.site/skynz8/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -276,77 +193,70 @@
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max5\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "ESPN HD",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       },
       {
         "name": "HD TV ",
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney11\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney16\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Bundesliga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
     "home": {
-      "name": "Bournemouth",
-      "logo": "https://img.sofascore.com/api/v1/team/60/image"
+      "name": "Borussia M'gladbach",
+      "logo": "https://img.sofascore.com/api/v1/team/2527/image"
     },
     "away": {
-      "name": "Aston Villa",
-      "logo": "https://img.sofascore.com/api/v1/team/40/image"
+      "name": "Bayer 04 Leverkusen",
+      "logo": "https://img.sofascore.com/api/v1/team/2681/image"
     },
     "live_links": [
       {
-        "name": "FUBO SPORTS FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/s5ysat44k9/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd",
+        "name": "DAZN SPORTS FHD ",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oljmlzm3f7/out/v1/25d20a0245084fb3bafb4aa5419f2ecc/cenc.mpd",
         "scheme": 0,
-        "api": "838b8558c8646b24d72f3dbb404849f1:1a8c7acb4e5798b83278549e438acd4a",
+        "api": "50040b1bb16126933617c018a99ab803:9488a6f9ebdda411e7a290b9f28018ba",
         "tokenApi": ""
       },
       {
-        "name": "SKY SPORTS FHD",
-        "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
+        "name": "SKY BUNDESLIGA FHD",
+        "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
         "scheme": 0,
-        "api": "3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e",
+        "api": "67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2",
         "tokenApi": ""
       },
       {
-        "name": "ESPAÑA + 🇪🇸 ",
+        "name": "beIN SPORTS FHD ",
+        "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "scheme": 0,
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV  ",
         "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney17\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       },
       {
-        "name": "AK Sports ",
-        "link": "https://r.sinakro.shop/hls/SSSSQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "MAX TV",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney8\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "link": "http://nullsignal.site/skynz7/index.m3u8",
+        "name": "SonyLiv (Asia)",
+        "link": "https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770510612~acl=/*~id=edc6400814507190be399ad48a8672b6-1770467400133~hmac=8b70eae033ec449f6c2537fe5f6cc03abaffd16bb2ff1cf3cda880960cab9dbe|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; V2338A; Build/PQ3A.190705.08061357)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a8c2cadbb6544eb1332f5313f0e8add6-1770484200114",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -354,407 +264,71 @@
     ]
   },
   {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "Saudi Pro League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
     "home": {
-      "name": "Fulham",
-      "logo": "https://img.sofascore.com/api/v1/team/43/image"
+      "name": "Al-Qadsiah",
+      "logo": "https://img.sofascore.com/api/v1/team/56027/image"
     },
     "away": {
-      "name": "Everton",
-      "logo": "https://img.sofascore.com/api/v1/team/48/image"
+      "name": "Al-Fateh",
+      "logo": "https://img.sofascore.com/api/v1/team/56023/image"
     },
     "live_links": [
       {
-        "name": "AK SPORTS ",
-        "link": "https://s.sikamika.shop/hls/SSSSQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "Server HD ",
+        "link": "https://live.vivo200.com/live/sd-1-4404554.m3u8?txSecret=68655abde640aad94486140b98fe151e&txTime=6987A0E8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "SKY SPORT NZ",
-        "link": "http://nullsignal.site/skynz9/index.m3u8",
+        "name": "Thmanyah - FHD",
+        "link": "https://bbb.exoadash.com/TVD1451/index.mpd",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "HD TV ",
-        "link": "",
+        "name": "Fox Soccer",
+        "link": "https://spxt.nullsignal.site/livedhfh252/1968452.m3u8",
         "scheme": 0,
         "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney9\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+        "tokenApi": ""
       }
     ]
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "matchTime": "08-02-2026 12:00 AM",
+    "endTime": "08-02-2026 02:20 AM",
+    "LeagueName": "LaLiga 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
     "home": {
-      "name": "Burnley",
-      "logo": "https://img.sofascore.com/api/v1/team/6/image"
+      "name": "Real Zaragoza",
+      "logo": "https://img.sofascore.com/api/v1/team/2815/image"
     },
     "away": {
-      "name": "West Ham United",
-      "logo": "https://img.sofascore.com/api/v1/team/37/image"
-    },
-    "live_links": [
-      {
-        "name": "PEACOCK ENG FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ubr2zo9jlo/out/v1/c79c5c9ed19c46d7a408de729a04a4b8/cenc.mpd",
-        "scheme": 0,
-        "api": "0310374cd513e2344bbc73228658a8b2:ddb50b5a8fed413011985d09b83aa95f",
-        "tokenApi": ""
-      },
-      {
-        "name": "FUBO SPORTS FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/aitydgneci/out/v1/84086708a0bc422bbd9edcab7e1ecc06/cenc.mpd",
-        "scheme": 0,
-        "api": "b27e461e43c7284c4222d9c0e9e4ae5a:c77f44da42895ee6288aaf15e5e660c6",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK Sports  ",
-        "link": "https://w.slingow.shop/hls/SSSSQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney10\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
-    "home": {
-      "name": "SV Zulte Waregem",
-      "logo": "https://img.sofascore.com/api/v1/team/2933/image"
-    },
-    "away": {
-      "name": "FCV Dender",
-      "logo": "https://img.sofascore.com/api/v1/team/389232/image"
+      "name": "Eibar",
+      "logo": "https://img.sofascore.com/api/v1/team/2839/image"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Mozzart Bet Superliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/210/image/dark",
-    "home": {
-      "name": "FK Crvena zvezda",
-      "logo": "https://img.sofascore.com/api/v1/team/5149/image"
-    },
-    "away": {
-      "name": "FK Novi Pazar",
-      "logo": "https://img.sofascore.com/api/v1/team/25736/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "AEL Novibet",
-      "logo": "https://img.sofascore.com/api/v1/team/3265/image"
-    },
-    "away": {
-      "name": "GFS Panetolikos",
-      "logo": "https://img.sofascore.com/api/v1/team/7004/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD HD ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMC9pbmRleC5tM3U4",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
         "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Birmingham City",
-      "logo": "https://img.sofascore.com/api/v1/team/9/image"
-    },
-    "away": {
-      "name": "Leicester City",
-      "logo": "https://img.sofascore.com/api/v1/team/31/image"
-    },
-    "live_links": [
-      {
-        "name": "PARAMOUNT+ FHD",
-        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ppnfabj0jb/out/v1/f8a7ae74504b485c90a5934703d45244/cenc.mpd",
-        "scheme": 0,
-        "api": "a26244c3c69378ce27a253872da83224:22b37d50ad21f90ddc0c2dbb0501834b",
+        "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
         "tokenApi": ""
       },
       {
-        "name": "Link 1",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "name": "LaLiga Hypermotion ES FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
         "scheme": 0,
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
         "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvvsdcez.shop/hls/FOOOQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Preston North End",
-      "logo": "https://img.sofascore.com/api/v1/team/21/image"
-    },
-    "away": {
-      "name": "Portsmouth",
-      "logo": "https://img.sofascore.com/api/v1/team/2/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/voooqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Wrexham",
-      "logo": "https://img.sofascore.com/api/v1/team/64/image"
-    },
-    "away": {
-      "name": "Millwall",
-      "logo": "https://img.sofascore.com/api/v1/team/25/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/voooqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "West Bromwich Albion",
-      "logo": "https://img.sofascore.com/api/v1/team/8/image"
-    },
-    "away": {
-      "name": "Stoke City",
-      "logo": "https://img.sofascore.com/api/v1/team/29/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/voooqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Coventry City",
-      "logo": "https://img.sofascore.com/api/v1/team/11/image"
-    },
-    "away": {
-      "name": "Oxford United",
-      "logo": "https://img.sofascore.com/api/v1/team/95/image"
-    },
-    "live_links": [
-      {
-        "name": "DAZN SPORTS FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6gxb2qcvgg/out/v1/64c7856118814fed8f01ddb622aa976b/cenc.mpd",
-        "scheme": 0,
-        "api": "9104112c8eeb0cf1d1f9cf7fff2876f2:1458433e76e25fe0751540840fbaca52",
-        "tokenApi": ""
-      },
-      {
-        "name": "PARAMOUNT+ FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lqhkkz5cev/out/v1/f4f56d0db0b9417880aa52c61b71ad72/cenc.mpd",
-        "scheme": 0,
-        "api": "c75916499466a6aee74b70ca09ba5cf8:417e45d9e8fe7875f7b1dba334a508ad",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 1",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "scheme": 0,
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/vooo.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Hull City",
-      "logo": "https://img.sofascore.com/api/v1/team/96/image"
-    },
-    "away": {
-      "name": "Bristol City",
-      "logo": "https://img.sofascore.com/api/v1/team/58/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/voooq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/voooq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Liga de Primera",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-    "home": {
-      "name": "Coquimbo Unido",
-      "logo": "https://img.sofascore.com/api/v1/team/3165/image"
-    },
-    "away": {
-      "name": "Palestino",
-      "logo": "https://img.sofascore.com/api/v1/team/3157/image"
-    },
-    "live_links": [
-      {
-        "name": "AK Sports  ",
-        "link": "http://205.237.105.197/hls/AJJJJQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "MAX TV",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=eventos13\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HS 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsportschile\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Botola Pro",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/937/image/dark",
-    "home": {
-      "name": "Olympique Dcheira",
-      "logo": "https://img.sofascore.com/api/v1/team/204299/image"
-    },
-    "away": {
-      "name": "Fath Union Sport",
-      "logo": "https://img.sofascore.com/api/v1/team/55027/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
       }
     ]
   },
@@ -997,27 +571,6 @@
     "status": "LIVE",
     "matchTime": "07-02-2026 10:00 PM",
     "endTime": "08-02-2026 12:20 AM",
-    "LeagueName": "Parva Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
-    "home": {
-      "name": "Levski Sofia",
-      "logo": "https://img.sofascore.com/api/v1/team/3273/image"
-    },
-    "away": {
-      "name": "Botev Vratsa",
-      "logo": "https://img.sofascore.com/api/v1/team/36938/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:00 PM",
-    "endTime": "08-02-2026 12:20 AM",
     "LeagueName": "Liga Portugal 2",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
     "home": {
@@ -1136,90 +689,6 @@
     "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "Première Ligue, Féminine",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
-    "home": {
-      "name": "Dijon FCO",
-      "logo": "https://img.sofascore.com/api/v1/team/295766/image"
-    },
-    "away": {
-      "name": "Nantes",
-      "logo": "https://img.sofascore.com/api/v1/team/306173/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "Première Ligue, Féminine",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1139/image/dark",
-    "home": {
-      "name": "Montpellier HSC",
-      "logo": "https://img.sofascore.com/api/v1/team/36701/image"
-    },
-    "away": {
-      "name": "Le Havre AC",
-      "logo": "https://img.sofascore.com/api/v1/team/337994/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "Fizz Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/187/image/dark",
-    "home": {
-      "name": "Ferencváros TC",
-      "logo": "https://img.sofascore.com/api/v1/team/1925/image"
-    },
-    "away": {
-      "name": "Újpest",
-      "logo": "https://img.sofascore.com/api/v1/team/1924/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "Liigacup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/83/image/dark",
-    "home": {
-      "name": "VPS",
-      "logo": "https://img.sofascore.com/api/v1/team/2246/image"
-    },
-    "away": {
-      "name": "Ilves",
-      "logo": "https://img.sofascore.com/api/v1/team/22386/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Bahraini Premier League",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/846/image/dark",
     "home": {
@@ -1303,7 +772,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 11:30 PM",
     "endTime": "08-02-2026 01:50 AM",
     "LeagueName": "Trendyol Süper Lig",
@@ -1327,44 +796,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
-    "matchTime": "07-02-2026 11:30 PM",
-    "endTime": "08-02-2026 01:50 AM",
-    "LeagueName": "Botola Pro",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/937/image/dark",
-    "home": {
-      "name": "Union Touarga Sport",
-      "logo": "https://img.sofascore.com/api/v1/team/118834/image"
-    },
-    "away": {
-      "name": "Hassania d'Agadir",
-      "logo": "https://img.sofascore.com/api/v1/team/55039/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 12:00 AM",
-    "endTime": "08-02-2026 02:20 AM",
-    "LeagueName": "LaLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "home": {
-      "name": "Sevilla",
-      "logo": "https://img.sofascore.com/api/v1/team/2833/image"
-    },
-    "away": {
-      "name": "Girona FC",
-      "logo": "https://img.sofascore.com/api/v1/team/24264/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 11:45 PM",
     "endTime": "08-02-2026 02:05 AM",
     "LeagueName": "Pro League",
@@ -1377,74 +809,15 @@
       "name": "Cercle Brugge",
       "logo": "https://img.sofascore.com/api/v1/team/2929/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 12:00 AM",
-    "endTime": "08-02-2026 02:20 AM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-    "home": {
-      "name": "Newcastle United",
-      "logo": "https://img.sofascore.com/api/v1/team/39/image"
-    },
-    "away": {
-      "name": "Brentford",
-      "logo": "https://img.sofascore.com/api/v1/team/50/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 12:00 AM",
-    "endTime": "08-02-2026 02:20 AM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Qadsiah",
-      "logo": "https://img.sofascore.com/api/v1/team/56027/image"
-    },
-    "away": {
-      "name": "Al-Fateh",
-      "logo": "https://img.sofascore.com/api/v1/team/56023/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 12:00 AM",
-    "endTime": "08-02-2026 02:20 AM",
-    "LeagueName": "Bundesliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "home": {
-      "name": "Borussia M'gladbach",
-      "logo": "https://img.sofascore.com/api/v1/team/2527/image"
-    },
-    "away": {
-      "name": "Bayer 04 Leverkusen",
-      "logo": "https://img.sofascore.com/api/v1/team/2681/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 12:00 AM",
-    "endTime": "08-02-2026 02:20 AM",
-    "LeagueName": "LaLiga 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-    "home": {
-      "name": "Real Zaragoza",
-      "logo": "https://img.sofascore.com/api/v1/team/2815/image"
-    },
-    "away": {
-      "name": "Eibar",
-      "logo": "https://img.sofascore.com/api/v1/team/2839/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 12:00 AM",
     "endTime": "08-02-2026 02:20 AM",
     "LeagueName": "Scottish Cup",
@@ -1457,7 +830,15 @@
       "name": "Dundee FC",
       "logo": "https://img.sofascore.com/api/v1/team/2357/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Premier FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "scheme": 0,
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2514,50 +1895,5 @@
       "logo": "https://img.sofascore.com/api/v1/team/4501/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Scottish Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/347/image/dark",
-    "home": {
-      "name": "Dunfermline Athletic",
-      "logo": "https://img.sofascore.com/api/v1/team/2350/image"
-    },
-    "away": {
-      "name": "Kelty Hearts F.C.",
-      "logo": "https://img.sofascore.com/api/v1/team/206633/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/voooqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 09:30 PM",
-    "endTime": "07-02-2026 11:50 PM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Birmingham City",
-      "logo": "https://img.sofascore.com/api/v1/team/9/image"
-    },
-    "away": {
-      "name": "Leicester City",
-      "logo": "https://img.sofascore.com/api/v1/team/31/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
   }
 ]
