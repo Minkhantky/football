@@ -379,293 +379,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Carrarese",
-      "logo": "https://img.sofascore.com/api/v1/team/2745/image"
-    },
-    "away": {
-      "name": "Südtirol",
-      "logo": "https://img.sofascore.com/api/v1/team/2760/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/RRRRZQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/RRRRZQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Mantova",
-      "logo": "https://img.sofascore.com/api/v1/team/2770/image"
-    },
-    "away": {
-      "name": "Bari",
-      "logo": "https://img.sofascore.com/api/v1/team/2712/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Juve Stabia",
-      "logo": "https://img.sofascore.com/api/v1/team/5324/image"
-    },
-    "away": {
-      "name": "Padova",
-      "logo": "https://img.sofascore.com/api/v1/team/2741/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Modena",
-      "logo": "https://img.sofascore.com/api/v1/team/2706/image"
-    },
-    "away": {
-      "name": "Sampdoria",
-      "logo": "https://img.sofascore.com/api/v1/team/2711/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/DUUU.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/DUUU.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Catanzaro",
-      "logo": "https://img.sofascore.com/api/v1/team/2796/image"
-    },
-    "away": {
-      "name": "Reggiana",
-      "logo": "https://img.sofascore.com/api/v1/team/24516/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/RRRRZQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "hd",
-        "link": "http://205.237.105.197/hls/RRRRZQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Frosinone",
-      "logo": "https://img.sofascore.com/api/v1/team/2801/image"
-    },
-    "away": {
-      "name": "Venezia",
-      "logo": "https://img.sofascore.com/api/v1/team/2688/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/RRRRZQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Algerian Ligue 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/841/image/dark",
-    "home": {
-      "name": "ES Mostaganem",
-      "logo": "https://img.sofascore.com/api/v1/team/186100/image"
-    },
-    "away": {
-      "name": "MC Oran",
-      "logo": "https://img.sofascore.com/api/v1/team/45001/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Saudi Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
-    "home": {
-      "name": "Al-Kholood",
-      "logo": "https://img.sofascore.com/api/v1/team/269199/image"
-    },
-    "away": {
-      "name": "Al-Shabab",
-      "logo": "https://img.sofascore.com/api/v1/team/34313/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/JJJJJ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Thmanyah - FHD",
-        "link": "https://bbb.exoadash.com/TVD1403/index.mpd",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Serie A Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-    "home": {
-      "name": "FC Como",
-      "logo": "https://img.sofascore.com/api/v1/team/404899/image"
-    },
-    "away": {
-      "name": "Juventus",
-      "logo": "https://img.sofascore.com/api/v1/team/269824/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:30 PM",
-    "endTime": "07-02-2026 10:50 PM",
-    "LeagueName": "Liga Portugal 2",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
-    "home": {
-      "name": "Marítimo",
-      "logo": "https://img.sofascore.com/api/v1/team/3007/image"
-    },
-    "away": {
-      "name": "SC Farense",
-      "logo": "https://img.sofascore.com/api/v1/team/2998/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD +",
-        "link": "https://spxt.nullsignal.site/livedhfh-dks/1688744.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 09:30 PM",
     "endTime": "07-02-2026 11:50 PM",
     "LeagueName": "Pro League",
@@ -1274,7 +987,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Stoiximan Super League",
@@ -1302,38 +1015,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "Atlético Petróleos de Luanda",
-      "logo": "https://img.sofascore.com/api/v1/team/148072/image"
-    },
-    "away": {
-      "name": "Simba SC",
-      "logo": "https://img.sofascore.com/api/v1/team/212409/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/QGGG.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.104.40/hls/QGGG.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Trendyol 1.Lig",
@@ -1357,7 +1039,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "UAE Pro League",
@@ -1392,7 +1074,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -1413,7 +1095,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -1434,7 +1116,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Fizz Liga",
@@ -1455,38 +1137,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "CAF Confederations Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
-    "home": {
-      "name": "Azam FC",
-      "logo": "https://img.sofascore.com/api/v1/team/212411/image"
-    },
-    "away": {
-      "name": "Maniema Union",
-      "logo": "https://img.sofascore.com/api/v1/team/281329/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.104.40/hls/diiiqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.104.40/hls/diiiqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Liigacup",
@@ -1507,7 +1158,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Bahraini Premier League",
@@ -1531,7 +1182,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 10:45 PM",
     "endTime": "08-02-2026 01:05 AM",
     "LeagueName": "Serie B",
@@ -1544,10 +1195,15 @@
       "name": "Empoli",
       "logo": "https://img.sofascore.com/api/v1/team/2705/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 11:00 PM",
     "endTime": "08-02-2026 01:20 AM",
     "LeagueName": "Ekstraklasa",
@@ -1560,7 +1216,12 @@
       "name": "Motor Lublin",
       "logo": "https://img.sofascore.com/api/v1/team/7915/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
