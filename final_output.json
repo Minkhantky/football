@@ -1,65 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 02:15 AM",
-    "endTime": "08-02-2026 04:35 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Fiorentina",
-      "logo": "https://img.sofascore.com/api/v1/team/2693/image"
-    },
-    "away": {
-      "name": "Torino",
-      "logo": "https://img.sofascore.com/api/v1/team/2696/image"
-    },
-    "live_links": [
-      {
-        "name": "beIN SPORTS FHD ",
-        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-        "scheme": 0,
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "tokenApi": ""
-      },
-      {
-        "name": "CBS Golazo FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "scheme": 0,
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "tokenApi": ""
-      },
-      {
-        "name": "Fox Deportes FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "scheme": 0,
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPN HD",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney19\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "Low Stream ",
-        "link": "https://q.sdvvsdcez.shop/hls/eiiiiqQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
     "matchTime": "08-02-2026 02:30 AM",
     "endTime": "08-02-2026 04:50 AM",
     "LeagueName": "LaLiga",
@@ -125,7 +66,73 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
+    "matchTime": "08-02-2026 02:15 AM",
+    "endTime": "08-02-2026 04:35 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Fiorentina",
+      "logo": "https://img.sofascore.com/api/v1/team/2693/image"
+    },
+    "away": {
+      "name": "Torino",
+      "logo": "https://img.sofascore.com/api/v1/team/2696/image"
+    },
+    "live_links": [
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3msztjryf3/out/v1/af017ada0ebd4d5a9f7396ab4a4d85d1/cenc.mpd",
+        "scheme": 0,
+        "api": "dd4312bff142aef6b12a76476abfc80f:891e0fa6afa39b9e4fdc103f18febc99",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN SPORTS FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Deportes FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN HD",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney19\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Low Stream ",
+        "link": "https://q.sdvvsdcez.shop/hls/eiiiiqQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 02:35 AM",
     "endTime": "08-02-2026 04:55 AM",
     "LeagueName": "Ligue 1",
@@ -138,10 +145,46 @@
       "name": "Olympique Lyonnais",
       "logo": "https://img.sofascore.com/api/v1/team/1649/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS HD ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/HRRRRQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Ligue1+ HD",
+        "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic",
+        "link": "http://nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "AK Sports ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxMy9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:30 AM",
     "endTime": "08-02-2026 04:50 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -163,6 +206,13 @@
         "tokenApi": ""
       },
       {
+        "name": "low Stream ",
+        "link": "https://q.sdyrkyulk.shop/hls/TTTTIQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
         "name": "HD 1",
         "link": "",
         "scheme": 0,
@@ -179,7 +229,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:30 AM",
     "endTime": "08-02-2026 04:50 AM",
     "LeagueName": "LaLiga 2",
@@ -843,7 +893,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:30 AM",
     "endTime": "08-02-2026 04:50 AM",
     "LeagueName": "VriendenLoterij Eredivisie",
@@ -865,6 +915,13 @@
         "tokenApi": ""
       },
       {
+        "name": "Fast TV ",
+        "link": "https://q.sdvvsdcez.shop/hls/TTTTIQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
         "name": "ESPN NL",
         "link": "https://broadcasthub.click//hls/zk0Nc2A3VdSM/index.m3u8",
         "scheme": 0,
@@ -874,7 +931,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 02:30 AM",
     "endTime": "08-02-2026 04:50 AM",
     "LeagueName": "Paraibano",
@@ -896,34 +953,6 @@
   },
   {
     "status": "PRELIVE",
-    "matchTime": "08-02-2026 02:30 AM",
-    "endTime": "08-02-2026 04:50 AM",
-    "LeagueName": "Liga AUF Uruguaya",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-    "home": {
-      "name": "Progreso",
-      "logo": "https://img.sofascore.com/api/v1/team/3238/image"
-    },
-    "away": {
-      "name": "Central Español",
-      "logo": "https://img.sofascore.com/api/v1/team/3232/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney20\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "08-02-2026 02:35 AM",
     "endTime": "08-02-2026 04:55 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -936,7 +965,22 @@
       "name": "Paris Saint-Germain",
       "logo": "https://img.sofascore.com/api/v1/team/55505/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvvsdcez.shop/hls/TTTTI.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdvvsdcez.shop/hls/TTTTI.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
