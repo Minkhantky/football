@@ -1,96 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 03:00 PM",
-    "endTime": "07-02-2026 05:20 PM",
-    "LeagueName": "A-League Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-    "home": {
-      "name": "Melbourne Victory",
-      "logo": "https://img.sofascore.com/api/v1/team/174100/image"
-    },
-    "away": {
-      "name": "Newcastle Jets",
-      "logo": "https://img.sofascore.com/api/v1/team/174102/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.2/hls/KYYYqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 03:00 PM",
-    "endTime": "07-02-2026 05:20 PM",
-    "LeagueName": "Indonesia Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
-    "home": {
-      "name": "Persik Kediri",
-      "logo": "https://img.sofascore.com/api/v1/team/135866/image"
-    },
-    "away": {
-      "name": "Dewa United FC",
-      "logo": "https://img.sofascore.com/api/v1/team/383891/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 03:00 PM",
-    "endTime": "07-02-2026 05:20 PM",
-    "LeagueName": "Indonesia Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1015/image/dark",
-    "home": {
-      "name": "Bhayangkara Presisi Lampung FC",
-      "logo": "https://img.sofascore.com/api/v1/team/220867/image"
-    },
-    "away": {
-      "name": "Borneo FC Samarinda",
-      "logo": "https://img.sofascore.com/api/v1/team/189945/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 03:05 PM",
-    "endTime": "07-02-2026 05:25 PM",
-    "LeagueName": "A-League Men",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-    "home": {
-      "name": "Western Sydney Wanderers",
-      "logo": "https://img.sofascore.com/api/v1/team/72926/image"
-    },
-    "away": {
-      "name": "Melbourne City",
-      "logo": "https://img.sofascore.com/api/v1/team/42210/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.2/hls/KYYYqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 04:30 PM",
     "endTime": "07-02-2026 06:50 PM",
     "LeagueName": "Club Friendly Games",
@@ -204,7 +114,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Romanian SuperLiga",
@@ -217,10 +127,25 @@
       "name": "FC Farul Constanța",
       "logo": "https://img.sofascore.com/api/v1/team/3294/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLOQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/LOLOLOQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Frauen-Bundesliga",
@@ -233,10 +158,25 @@
       "name": "VfL Wolfsburg",
       "logo": "https://img.sofascore.com/api/v1/team/5556/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLOQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN",
+        "link": "https://spxt.nullsignal.site/livedhfh252/1696670.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Liga F Moeve",
@@ -249,10 +189,25 @@
       "name": "Granada Club de Fútbol",
       "logo": "https://img.sofascore.com/api/v1/team/114819/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLOQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/LOLOLOQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Thai League 1",
@@ -265,10 +220,15 @@
       "name": "Chonburi FC",
       "logo": "https://img.sofascore.com/api/v1/team/35886/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Liga Portugal 2",
@@ -281,7 +241,22 @@
       "name": "Felgueiras",
       "logo": "https://img.sofascore.com/api/v1/team/3030/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://spxt.nullsignal.site/livedhfh-dks/589151.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2972,7 +2947,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:40 PM",
     "LeagueName": "Tanzania Ligi Kuu Bara",
@@ -2985,6 +2960,11 @@
       "name": "TRA United",
       "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/FCCC.m3u8|Referer=http://www.fawanews.sc/"
+      }
+    ]
   }
 ]
