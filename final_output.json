@@ -379,65 +379,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 07:55 PM",
-    "endTime": "07-02-2026 10:15 PM",
-    "LeagueName": "UAE Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/971/image/dark",
-    "home": {
-      "name": "Dibba Al-Fujairah",
-      "logo": "https://img.sofascore.com/api/v1/team/81309/image"
-    },
-    "away": {
-      "name": "Baniyas",
-      "logo": "https://img.sofascore.com/api/v1/team/58689/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD 1",
-        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 2",
-        "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 08:15 PM",
-    "endTime": "07-02-2026 10:35 PM",
-    "LeagueName": "Bahraini Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/846/image/dark",
-    "home": {
-      "name": "Riffa",
-      "logo": "https://img.sofascore.com/api/v1/team/40659/image"
-    },
-    "away": {
-      "name": "Hidd",
-      "logo": "https://img.sofascore.com/api/v1/team/45472/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "07-02-2026 08:30 PM",
     "endTime": "07-02-2026 10:50 PM",
     "LeagueName": "Serie B",
@@ -1092,6 +1033,13 @@
     },
     "live_links": [
       {
+        "name": "HD 1",
+        "link": "https://b.rtzsa.cfd/hls/YEEEQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
         "name": "Link 1",
         "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
         "scheme": 0,
@@ -1130,6 +1078,13 @@
     },
     "live_links": [
       {
+        "name": "HD TV  ",
+        "link": "https://b.rtzsa.cfd/hls/YEEEQQq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
         "name": "Link 1",
         "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxNS9pbmRleC5tM3U4",
         "scheme": 0,
@@ -1160,6 +1115,13 @@
       "logo": "https://img.sofascore.com/api/v1/team/2977/image"
     },
     "live_links": [
+      {
+        "name": "HD 1",
+        "link": "http://205.237.105.197/hls/USSSSQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
       {
         "name": "Link 1",
         "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMi9pbmRleC5tM3U4",
@@ -1207,7 +1169,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.105.197/hls/USSSSQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "HD 1",
@@ -1242,7 +1207,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.105.197/hls/USSSSQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "Thmanyah - FHD",
@@ -1306,7 +1274,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Stoiximan Super League",
@@ -1319,10 +1287,22 @@
       "name": "NPS Volos",
       "logo": "https://img.sofascore.com/api/v1/team/267459/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD HD ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyMC9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "CAF Champions League",
@@ -1335,10 +1315,25 @@
       "name": "Simba SC",
       "logo": "https://img.sofascore.com/api/v1/team/212409/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/QGGG.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/QGGG.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Trendyol 1.Lig",
@@ -1351,26 +1346,18 @@
       "name": "Amed Sportif Faaliyetler",
       "logo": "https://img.sofascore.com/api/v1/team/207011/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/jyyy.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 10:30 PM",
-    "endTime": "08-02-2026 12:50 AM",
-    "LeagueName": "Ligue 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-    "home": {
-      "name": "RC Lens",
-      "logo": "https://img.sofascore.com/api/v1/team/1648/image"
-    },
-    "away": {
-      "name": "Stade Rennais",
-      "logo": "https://img.sofascore.com/api/v1/team/1658/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "UAE Pro League",
@@ -1383,10 +1370,29 @@
       "name": "Ajman",
       "logo": "https://img.sofascore.com/api/v1/team/58687/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD 1",
+        "link": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 2",
+        "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -1399,10 +1405,15 @@
       "name": "Nantes",
       "logo": "https://img.sofascore.com/api/v1/team/306173/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Première Ligue, Féminine",
@@ -1415,10 +1426,15 @@
       "name": "Le Havre AC",
       "logo": "https://img.sofascore.com/api/v1/team/337994/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Fizz Liga",
@@ -1431,10 +1447,15 @@
       "name": "Újpest",
       "logo": "https://img.sofascore.com/api/v1/team/1924/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "CAF Confederations Cup",
@@ -1447,10 +1468,25 @@
       "name": "Maniema Union",
       "logo": "https://img.sofascore.com/api/v1/team/281329/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.104.40/hls/diiiqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/diiiqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Liigacup",
@@ -1463,10 +1499,15 @@
       "name": "Ilves",
       "logo": "https://img.sofascore.com/api/v1/team/22386/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 10:30 PM",
     "endTime": "08-02-2026 12:50 AM",
     "LeagueName": "Bahraini Premier League",
@@ -1479,7 +1520,15 @@
       "name": "Muharraq",
       "logo": "https://img.sofascore.com/api/v1/team/45474/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
