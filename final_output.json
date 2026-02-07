@@ -114,7 +114,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Romanian SuperLiga",
@@ -130,7 +130,7 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://205.237.107.90/hls/LOLOLOQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyNC9pbmRleC5tM3U4",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Frauen-Bundesliga",
@@ -176,7 +176,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Liga F Moeve",
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Thai League 1",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:50 PM",
     "LeagueName": "Liga Portugal 2",
@@ -259,7 +259,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Trendyol Süper Lig",
@@ -272,10 +272,25 @@
       "name": "Antalyaspor",
       "logo": "https://img.sofascore.com/api/v1/team/3056/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/FCCCQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/FCCCQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Serie A Women",
@@ -288,10 +303,15 @@
       "name": "Lazio",
       "logo": "https://img.sofascore.com/api/v1/team/389322/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Serie A Women",
@@ -304,7 +324,12 @@
       "name": "Parma",
       "logo": "https://img.sofascore.com/api/v1/team/424787/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -323,7 +348,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 06:00 PM",
     "endTime": "07-02-2026 08:20 PM",
     "LeagueName": "Singapore Premier League",
@@ -336,7 +361,22 @@
       "name": "Tampines Rovers",
       "logo": "https://img.sofascore.com/api/v1/team/3043/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/FCCCQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/FCCCQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2947,7 +2987,7 @@
     "live_links": []
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:30 PM",
     "endTime": "07-02-2026 07:40 PM",
     "LeagueName": "Tanzania Ligi Kuu Bara",
