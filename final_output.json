@@ -1,54 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 AM",
-    "endTime": "07-02-2026 12:50 PM",
-    "LeagueName": "A-League Men",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-    "home": {
-      "name": "Auckland FC",
-      "logo": "https://img.sofascore.com/api/v1/team/800224/image"
-    },
-    "away": {
-      "name": "Sydney FC",
-      "logo": "https://img.sofascore.com/api/v1/team/5971/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
-        "scheme": 0,
-        "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "07-02-2026 10:30 AM",
-    "endTime": "07-02-2026 12:50 PM",
-    "LeagueName": "A-League Men",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-    "home": {
-      "name": "Auckland FC",
-      "logo": "https://img.sofascore.com/api/v1/team/800224/image"
-    },
-    "away": {
-      "name": "Sydney FC",
-      "logo": "https://img.sofascore.com/api/v1/team/5971/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.46/hls/KIKIKIqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
     "matchTime": "07-02-2026 12:30 PM",
     "endTime": "07-02-2026 02:50 PM",
     "LeagueName": "A-League Men",
