@@ -94,6 +94,65 @@
     ]
   },
   {
+    "status": "PRELIVE",
+    "matchTime": "07-02-2026 11:30 PM",
+    "endTime": "08-02-2026 01:50 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Genoa",
+      "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+    },
+    "away": {
+      "name": "Napoli",
+      "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    },
+    "live_links": [
+      {
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f2hpuk04yi/out/v1/e99df832ffd6425fbe92ba4424d14115/cenc.mpd",
+        "scheme": 0,
+        "api": "cb4d3e53d80cf3069ec63af4843779e0:e6e5efdf6eb828f0098faa9bf87cd6bd",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN SPORTS FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Deportes FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN HD ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney15\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
+  },
+  {
     "status": "LIVE",
     "matchTime": "07-02-2026 09:30 PM",
     "endTime": "07-02-2026 11:50 PM",
@@ -1198,12 +1257,22 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.104.40/hls/jyyyqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.104.40/hls/jyyyqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "07-02-2026 11:00 PM",
     "endTime": "08-02-2026 01:20 AM",
     "LeagueName": "Ekstraklasa",
@@ -1219,28 +1288,22 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.104.40/hls/jyyyqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD  ",
+        "link": "http://205.237.104.40/hls/jyyyqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "07-02-2026 11:30 PM",
-    "endTime": "08-02-2026 01:50 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Genoa",
-      "logo": "https://img.sofascore.com/api/v1/team/2713/image"
-    },
-    "away": {
-      "name": "Napoli",
-      "logo": "https://img.sofascore.com/api/v1/team/2714/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 11:30 PM",
     "endTime": "08-02-2026 01:50 AM",
     "LeagueName": "Trendyol Süper Lig",
@@ -1253,10 +1316,18 @@
       "name": "Trabzonspor",
       "logo": "https://img.sofascore.com/api/v1/team/3051/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QyNy9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "07-02-2026 11:30 PM",
     "endTime": "08-02-2026 01:50 AM",
     "LeagueName": "Botola Pro",
@@ -1269,7 +1340,12 @@
       "name": "Hassania d'Agadir",
       "logo": "https://img.sofascore.com/api/v1/team/55039/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
