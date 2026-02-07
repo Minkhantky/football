@@ -16,7 +16,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://195.178.110.2/hls/KYYYqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
@@ -79,9 +82,9 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "link": "http://195.178.110.2/hls/KYYYqqq.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
-        "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "api": "",
         "tokenApi": ""
       }
     ]
@@ -108,7 +111,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:00 PM",
     "endTime": "07-02-2026 07:20 PM",
     "LeagueName": "Parva Liga",
@@ -121,10 +124,25 @@
       "name": "FK Spartak Varna",
       "logo": "https://img.sofascore.com/api/v1/team/3278/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLOQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/LOLOLOQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:00 PM",
     "endTime": "07-02-2026 07:20 PM",
     "LeagueName": "Trendyol 1.Lig",
@@ -137,10 +155,25 @@
       "name": "Esenler Erokspor",
       "logo": "https://img.sofascore.com/api/v1/team/262480/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLO.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/LOLOLO.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 05:00 PM",
     "endTime": "07-02-2026 07:20 PM",
     "LeagueName": "Trendyol 1.Lig",
@@ -153,7 +186,22 @@
       "name": "Sivasspor",
       "logo": "https://img.sofascore.com/api/v1/team/3076/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LOLOLOQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/LOLOLOQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2920,6 +2968,22 @@
     "away": {
       "name": "Feirense",
       "logo": "https://img.sofascore.com/api/v1/team/4501/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "07-02-2026 05:30 PM",
+    "endTime": "07-02-2026 07:40 PM",
+    "LeagueName": "Tanzania Ligi Kuu Bara",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+    "home": {
+      "name": "Mbeya City",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "away": {
+      "name": "TRA United",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
     },
     "live_links": []
   }
