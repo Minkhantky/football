@@ -313,100 +313,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 01:00 AM",
-    "endTime": "08-02-2026 03:20 AM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Spezia",
-      "logo": "https://img.sofascore.com/api/v1/team/2735/image"
-    },
-    "away": {
-      "name": "Virtus Entella",
-      "logo": "https://img.sofascore.com/api/v1/team/43680/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/uuuu.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD STREAM ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedstreams.top\\/embed\\/echo\\/spezia-vs-virtus-entella-football-1419812\\/1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:00 AM",
-    "endTime": "08-02-2026 03:20 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "Polonia Bytom",
-      "logo": "https://img.sofascore.com/api/v1/team/7692/image"
-    },
-    "away": {
-      "name": "ŁKS Łódź",
-      "logo": "https://img.sofascore.com/api/v1/team/3123/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:00 AM",
-    "endTime": "08-02-2026 03:20 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "Miedź Legnica",
-      "logo": "https://img.sofascore.com/api/v1/team/35330/image"
-    },
-    "away": {
-      "name": "Pogoń Grodzisk Mazowiecki",
-      "logo": "https://img.sofascore.com/api/v1/team/202427/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 01:00 AM",
-    "endTime": "08-02-2026 03:20 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "Znicz Pruszków",
-      "logo": "https://img.sofascore.com/api/v1/team/7923/image"
-    },
-    "away": {
-      "name": "Wieczysta Kraków",
-      "logo": "https://img.sofascore.com/api/v1/team/334956/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "08-02-2026 01:30 AM",
     "endTime": "08-02-2026 03:50 AM",
     "LeagueName": "VriendenLoterij Eredivisie",
@@ -870,7 +776,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga de Primera",
@@ -883,10 +789,32 @@
       "name": "Deportes La Serena",
       "logo": "https://img.sofascore.com/api/v1/team/5031/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=eventos13\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsportschile\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Mineiro, Módulo I",
@@ -899,10 +827,15 @@
       "name": "Uberlândia EC",
       "logo": "https://img.sofascore.com/api/v1/team/32873/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -915,10 +848,15 @@
       "name": "Deportes Puerto Montt",
       "logo": "https://img.sofascore.com/api/v1/team/3158/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -931,10 +869,46 @@
       "name": "Argentinos Juniors",
       "logo": "https://img.sofascore.com/api/v1/team/3216/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "scheme": 0,
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "scheme": 0,
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "tokenApi": ""
+      },
+      {
+        "name": "tnt Sports ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnpremium\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 3",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnpremium\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Pernambucano",
@@ -947,10 +921,15 @@
       "name": "Maguary",
       "logo": "https://img.sofascore.com/api/v1/team/456897/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -963,10 +942,15 @@
       "name": "Brazil U20",
       "logo": "https://img.sofascore.com/api/v1/team/43216/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "U20 CONMEBOL Women's Championship",
@@ -979,10 +963,15 @@
       "name": "Argentina U20",
       "logo": "https://img.sofascore.com/api/v1/team/48992/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 03:30 AM",
     "endTime": "08-02-2026 05:50 AM",
     "LeagueName": "Liga FUTVE",
@@ -995,7 +984,12 @@
       "name": "Estudiantes de Mérida",
       "logo": "https://img.sofascore.com/api/v1/team/7745/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
