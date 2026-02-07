@@ -1,37 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "07-02-2026 12:30 PM",
-    "endTime": "07-02-2026 02:50 PM",
-    "LeagueName": "A-League Men",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-    "home": {
-      "name": "Brisbane Roar",
-      "logo": "https://img.sofascore.com/api/v1/team/5968/image"
-    },
-    "away": {
-      "name": "Central Coast Mariners",
-      "logo": "https://img.sofascore.com/api/v1/team/5966/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.46/hls/KIKIKIqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.46/hls/KIKIKIqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "07-02-2026 03:00 PM",
     "endTime": "07-02-2026 05:20 PM",
     "LeagueName": "A-League Women",
@@ -44,10 +13,15 @@
       "name": "Newcastle Jets",
       "logo": "https://img.sofascore.com/api/v1/team/174102/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:00 PM",
     "endTime": "07-02-2026 05:20 PM",
     "LeagueName": "Indonesia Super League",
@@ -60,10 +34,15 @@
       "name": "Dewa United FC",
       "logo": "https://img.sofascore.com/api/v1/team/383891/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:00 PM",
     "endTime": "07-02-2026 05:20 PM",
     "LeagueName": "Indonesia Super League",
@@ -76,10 +55,15 @@
       "name": "Borneo FC Samarinda",
       "logo": "https://img.sofascore.com/api/v1/team/189945/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "07-02-2026 03:05 PM",
     "endTime": "07-02-2026 05:25 PM",
     "LeagueName": "A-League Men",
@@ -92,7 +76,12 @@
       "name": "Melbourne City",
       "logo": "https://img.sofascore.com/api/v1/team/42210/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2907,6 +2896,22 @@
     "away": {
       "name": "Club Atletico La Paz",
       "logo": "https://img.sofascore.com/api/v1/team/419928/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 12:30 AM",
+    "endTime": "08-02-2026 02:50 AM",
+    "LeagueName": "Liga Portugal 2",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/239/image/dark",
+    "home": {
+      "name": "Leixões SC",
+      "logo": "https://img.sofascore.com/api/v1/team/3018/image"
+    },
+    "away": {
+      "name": "Feirense",
+      "logo": "https://img.sofascore.com/api/v1/team/4501/image"
     },
     "live_links": []
   }
