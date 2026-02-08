@@ -241,99 +241,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "09-02-2026 01:30 AM",
-    "endTime": "09-02-2026 03:50 AM",
-    "LeagueName": "CAF Confederations Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
-    "home": {
-      "name": "Olympic Safi",
-      "logo": "https://img.sofascore.com/api/v1/team/55037/image"
-    },
-    "away": {
-      "name": "Djoliba AC",
-      "logo": "https://img.sofascore.com/api/v1/team/69324/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/UUUUQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b6/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 01:30 AM",
-    "endTime": "09-02-2026 03:50 AM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "Olympiacos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3245/image"
-    },
-    "away": {
-      "name": "Panathinaikos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/3248/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxMi9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD  ",
-        "link": "http://195.178.110.27/hls/RDDD.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 01:30 AM",
-    "endTime": "09-02-2026 03:50 AM",
-    "LeagueName": "Paulista Série A1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
-    "home": {
-      "name": "EC Noroeste",
-      "logo": "https://img.sofascore.com/api/v1/team/6962/image"
-    },
-    "away": {
-      "name": "Santos",
-      "logo": "https://img.sofascore.com/api/v1/team/1968/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdyrkyulk.shop/hls/UUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdyrkyulk.shop/hls/UUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "09-02-2026 02:00 AM",
     "endTime": "09-02-2026 04:20 AM",
     "LeagueName": "Scottish Cup",
@@ -933,7 +840,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 04:00 AM",
     "endTime": "09-02-2026 06:20 AM",
     "LeagueName": "Paulista Série A1",
@@ -946,10 +853,25 @@
       "name": "Red Bull Bragantino",
       "logo": "https://img.sofascore.com/api/v1/team/1999/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MX TV",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 04:00 AM",
     "endTime": "09-02-2026 06:20 AM",
     "LeagueName": "Paulista Série A1",
@@ -962,10 +884,25 @@
       "name": "Mirassol",
       "logo": "https://img.sofascore.com/api/v1/team/21982/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max5\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "MAX TV",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max5\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 04:00 AM",
     "endTime": "09-02-2026 06:20 AM",
     "LeagueName": "Primera División, Apertura",
@@ -978,7 +915,12 @@
       "name": "Guaraní",
       "logo": "https://img.sofascore.com/api/v1/team/5994/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
