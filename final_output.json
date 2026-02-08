@@ -1,6 +1,74 @@
 [
   {
     "status": "LIVE",
+    "matchTime": "08-02-2026 06:00 PM",
+    "endTime": "08-02-2026 08:20 PM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Bologna",
+      "logo": "https://img.sofascore.com/api/v1/team/2685/image"
+    },
+    "away": {
+      "name": "Parma",
+      "logo": "https://img.sofascore.com/api/v1/team/2690/image"
+    },
+    "live_links": [
+      {
+        "name": "PARAMOUNT FHD ",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wwvhuapw5w/out/v1/23dc28b137934d518fdfa9cb3a88cfb4/cenc.mpd",
+        "scheme": 0,
+        "api": "505c54a69abd38bd4170d9e8d34522bc:e5a3bc79d972fbb053e4827852c60c66",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN ENGLISH FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO2 FHD",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "scheme": 0,
+        "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM ",
+        "link": "http://205.237.107.90/hls/AFFF.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "08-02-2026 07:30 PM",
+    "endTime": "08-02-2026 09:50 PM",
+    "LeagueName": "LaLiga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "home": {
+      "name": "Deportivo Alavés",
+      "logo": "https://img.sofascore.com/api/v1/team/2885/image"
+    },
+    "away": {
+      "name": "Getafe",
+      "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
     "matchTime": "08-02-2026 05:00 PM",
     "endTime": "08-02-2026 07:20 PM",
     "LeagueName": "Trendyol 1.Lig",
@@ -62,7 +130,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 05:45 PM",
     "endTime": "08-02-2026 08:05 PM",
     "LeagueName": "VriendenLoterij Eredivisie",
@@ -75,10 +143,46 @@
       "name": "Feyenoord",
       "logo": "https://img.sofascore.com/api/v1/team/2959/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Premier SPORTS FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+        "scheme": 0,
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "tokenApi": ""
+      },
+      {
+        "name": "SportDigital FHD ",
+        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "scheme": 0,
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "tokenApi": ""
+      },
+      {
+        "name": "nl 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn_nl2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "NL 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn2_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/DFFFQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 05:45 PM",
     "endTime": "08-02-2026 08:05 PM",
     "LeagueName": "Ekstraklasa",
@@ -91,26 +195,25 @@
       "name": "Bruk-Bet Termalica Nieciecza",
       "logo": "https://img.sofascore.com/api/v1/team/36851/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/DFFF.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/DFFF.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 06:00 PM",
-    "endTime": "08-02-2026 08:20 PM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Bologna",
-      "logo": "https://img.sofascore.com/api/v1/team/2685/image"
-    },
-    "away": {
-      "name": "Parma",
-      "logo": "https://img.sofascore.com/api/v1/team/2690/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:00 PM",
     "endTime": "08-02-2026 08:20 PM",
     "LeagueName": "Trendyol Süper Lig",
@@ -123,10 +226,25 @@
       "name": "Başakşehir FK",
       "logo": "https://img.sofascore.com/api/v1/team/3086/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/DFFFQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxOS9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:00 PM",
     "endTime": "08-02-2026 08:20 PM",
     "LeagueName": "Serie A Women",
@@ -139,7 +257,22 @@
       "name": "Milan",
       "logo": "https://img.sofascore.com/api/v1/team/298858/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/DFFFQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Soccer",
+        "link": "https://spxt.nullsignal.site/livedhfh252/1968452.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -298,22 +431,6 @@
     "away": {
       "name": "CD Castellón",
       "logo": "https://img.sofascore.com/api/v1/team/5067/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 07:30 PM",
-    "endTime": "08-02-2026 09:50 PM",
-    "LeagueName": "LaLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "home": {
-      "name": "Deportivo Alavés",
-      "logo": "https://img.sofascore.com/api/v1/team/2885/image"
-    },
-    "away": {
-      "name": "Getafe",
-      "logo": "https://img.sofascore.com/api/v1/team/2859/image"
     },
     "live_links": []
   },
@@ -2041,6 +2158,58 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "08-02-2026 05:30 PM",
+    "endTime": "08-02-2026 07:50 PM",
+    "LeagueName": "Betclic 1. Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
+    "home": {
+      "name": "Polonia Warszawa",
+      "logo": "https://img.sofascore.com/api/v1/team/3119/image"
+    },
+    "away": {
+      "name": "Stal Mielec",
+      "logo": "https://img.sofascore.com/api/v1/team/38732/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/ruuuQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/ruuuQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "08-02-2026 05:30 PM",
+    "endTime": "08-02-2026 07:40 PM",
+    "LeagueName": "South Africa NedBank ",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/team/213100/image",
+    "home": {
+      "name": "ORBIT College FC",
+      "logo": "https://img.sofascore.com/api/v1/team/275818/image"
+    },
+    "away": {
+      "name": "Golden Arrows",
+      "logo": "https://img.sofascore.com/api/v1/team/213100/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.105.46/hls/ssss.m3u8|Referer=http://www.fawanews.sc/"
       }
     ]
   }
