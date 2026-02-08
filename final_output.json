@@ -84,7 +84,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 02:30 PM",
     "endTime": "08-02-2026 04:50 PM",
     "LeagueName": "A-League Women",
@@ -97,7 +97,12 @@
       "name": "Adelaide United",
       "logo": "https://img.sofascore.com/api/v1/team/174076/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
