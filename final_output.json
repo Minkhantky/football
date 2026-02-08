@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 12:30 PM",
     "endTime": "08-02-2026 02:50 PM",
     "LeagueName": "A-League Women",
@@ -13,10 +13,22 @@
       "name": "Canberra United",
       "logo": "https://img.sofascore.com/api/v1/team/174098/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/UUUTTTQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 12:30 PM",
     "endTime": "08-02-2026 02:50 PM",
     "LeagueName": "A-League Men",
@@ -29,10 +41,22 @@
       "name": "Newcastle Jets",
       "logo": "https://img.sofascore.com/api/v1/team/2934/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 12:30 PM",
     "endTime": "08-02-2026 02:50 PM",
     "LeagueName": "A-League Women",
@@ -45,7 +69,19 @@
       "name": "Brisbane Roar",
       "logo": "https://img.sofascore.com/api/v1/team/174078/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/UUUTTTQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
