@@ -231,8 +231,8 @@ class SocoLiveAPI:
         os.path.join(os.path.dirname(__file__), "..", "..", "storage", "app", "data", "scrape.json")
     )
 
-    REPLACE_LOGO_URL = "https://sta.vnres.co/file/common/20250522/1a38e8271ee60fd82b2129330af59968.png"
-    REPLACEMENT_LOGO = "https://football.redsport.live//storage/01HQNMEPGZC4XHY6ZWW022VAYN.png"
+    REPLACE_LOGO_URL = "https://sta.vnres.co/file/common/20260205/a016057150f9efee255771b56e7a7534.png"
+    REPLACEMENT_LOGO = "https://img.sofascore.com/api/v1/team/44/image"
 
     def __init__(self):
         self.app = Flask(__name__)
@@ -313,13 +313,13 @@ class SocoLiveAPI:
 
                     dt_utc = datetime.fromtimestamp(match_ts, tz=pytz.UTC)
                     dt_mm = dt_utc.astimezone(self.tz)
-                    formatted_time = dt_mm.strftime("%Y-%m-%d %H:%M:%S")
+                    formatted_time = dt_mm.strftime("%Y-%m-%d %I:%M %p")
 
                     is_live = (now_ts >= match_ts) or (prelive_threshold > match_ts)
 
                     match_obj = {
                         "date": formatted_time,
-                        "league": self.replace_league(item.get("subCateName", "")),
+                        "league": item.get("subCateName", ""),
                         "home": {
                             "name": item.get("hostName", ""),
                             "logo": self.replace_logo(item.get("hostIcon", "")),
@@ -536,11 +536,6 @@ class SocoLiveAPI:
         if url == SocoLiveAPI.REPLACE_LOGO_URL:
             return SocoLiveAPI.REPLACEMENT_LOGO
         return url
-
-    @staticmethod
-    def replace_league(name: str) -> str:
-        return "Premier League" if name == "ENG PR" else name
-
 
 if __name__ == "__main__":
     api = SocoLiveAPI()
