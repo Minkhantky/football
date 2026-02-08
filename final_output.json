@@ -241,58 +241,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "09-02-2026 02:00 AM",
-    "endTime": "09-02-2026 04:20 AM",
-    "LeagueName": "Scottish Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/347/image/dark",
-    "home": {
-      "name": "Stenhousemuir",
-      "logo": "https://img.sofascore.com/api/v1/team/2370/image"
-    },
-    "away": {
-      "name": "Falkirk FC",
-      "logo": "https://img.sofascore.com/api/v1/team/2363/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD  ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 02:00 AM",
-    "endTime": "09-02-2026 04:20 AM",
-    "LeagueName": "Liga FUTVE",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/231/image/dark",
-    "home": {
-      "name": "Trujillanos FC",
-      "logo": "https://img.sofascore.com/api/v1/team/6235/image"
-    },
-    "away": {
-      "name": "Carabobo",
-      "logo": "https://img.sofascore.com/api/v1/team/6229/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "LaLiga 2",
