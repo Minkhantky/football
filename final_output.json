@@ -16,7 +16,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 02:15 AM",
     "endTime": "09-02-2026 04:35 AM",
     "LeagueName": "Serie A",
@@ -29,10 +29,60 @@
       "name": "Lazio",
       "logo": "https://img.sofascore.com/api/v1/team/2699/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "TNT¹ SPORTS FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "scheme": 0,
+        "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN ENGLISH FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Deportes FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO2 FHD",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "scheme": 0,
+        "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM 1",
+        "link": "http://195.178.110.25/hls/FFFFQ.m3u80|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM 2",
+        "link": "https://q.sdyrkyulk.shop/hls/FFFFQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 02:15 AM",
     "endTime": "09-02-2026 04:35 AM",
     "LeagueName": "Ligue 1",
@@ -45,7 +95,50 @@
       "name": "Olympique de Marseille",
       "logo": "https://img.sofascore.com/api/v1/team/1641/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Ligue1+",
+        "link": "https://bbb.exoadash.com/TVD2083/index.mpd",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM ",
+        "link": "http://195.178.110.25/hls/FFFFQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q3L2luZGV4Lm0zdTg=",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney10\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
     "status": "LIVE",
@@ -138,162 +231,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney8\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 11:30 PM",
-    "endTime": "09-02-2026 01:50 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Sassuolo",
-      "logo": "https://img.sofascore.com/api/v1/team/2793/image"
-    },
-    "away": {
-      "name": "Inter",
-      "logo": "https://img.sofascore.com/api/v1/team/2697/image"
-    },
-    "live_links": [
-      {
-        "name": "Paramount+ FHD",
-        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/q5c2qumewr/out/v1/e39c17bf0a4f4fc79b6b3c2d8197aa00/cenc.mpd",
-        "scheme": 0,
-        "api": "fb55792b400cd74c97fd925b74192ef5:bbcda49c4a438800a2480bfe4eb24eea",
-        "tokenApi": ""
-      },
-      {
-        "name": "beIN ENGLISH FHD ",
-        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-        "scheme": 0,
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "tokenApi": ""
-      },
-      {
-        "name": "CBS Golazo FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
-        "scheme": 0,
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "tokenApi": ""
-      },
-      {
-        "name": "Fox Deportes FHD ",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "scheme": 0,
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "tokenApi": ""
-      },
-      {
-        "name": "ZIGGO2 FHD",
-        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
-        "scheme": 0,
-        "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPAÑA + 🇪🇸 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "Mexico 🇲🇽 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD tv ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney6\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "SD STREAM ",
-        "link": "https://q.sdvdsokvsdv.shop/hls/zgggZQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 11:30 PM",
-    "endTime": "09-02-2026 01:50 AM",
-    "LeagueName": "Trendyol Süper Lig",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
-    "home": {
-      "name": "Beşiktaş JK",
-      "logo": "https://img.sofascore.com/api/v1/team/3050/image"
-    },
-    "away": {
-      "name": "Alanyaspor",
-      "logo": "https://img.sofascore.com/api/v1/team/6362/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/zgggZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "beIN SPORTS SD ",
-        "link": "https://broadcasthub.click//hls/hhx33tWwGEeW/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Portugal ",
-        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv5.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxOS9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 11:30 PM",
-    "endTime": "09-02-2026 01:50 AM",
-    "LeagueName": "Stoiximan Super League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/185/image/dark",
-    "home": {
-      "name": "Aris Thessaloniki",
-      "logo": "https://img.sofascore.com/api/v1/team/3252/image"
-    },
-    "away": {
-      "name": "PAOK",
-      "logo": "https://img.sofascore.com/api/v1/team/3251/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxMi9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
       }
     ]
   },
@@ -599,6 +536,13 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      },
+      {
+        "name": "HD  ",
+        "link": "http://195.178.110.27/hls/RDDD.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
@@ -619,12 +563,22 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "https://q.sdyrkyulk.shop/hls/UUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "https://q.sdyrkyulk.shop/hls/UUUUQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:00 AM",
     "endTime": "09-02-2026 04:20 AM",
     "LeagueName": "Scottish Cup",
@@ -637,10 +591,25 @@
       "name": "Falkirk FC",
       "logo": "https://img.sofascore.com/api/v1/team/2363/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvdsokvsdv.shop/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD  ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/FFFF.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:00 AM",
     "endTime": "09-02-2026 04:20 AM",
     "LeagueName": "Liga FUTVE",
@@ -653,7 +622,12 @@
       "name": "Carabobo",
       "logo": "https://img.sofascore.com/api/v1/team/6229/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
