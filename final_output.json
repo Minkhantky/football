@@ -15,7 +15,7 @@
     },
     "live_links": [
       {
-        "name": "PEACOCK ENG FHD",
+        "name": "PEACOCK ENG FHD..",
         "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/jhavab54kx/out/v1/f0e6828fc0ca4743accf05176d122c7c/cenc.mpd",
         "scheme": 0,
         "api": "784e7ab6c9b6d7e74fa17d28d92229e4:3dbd5b9e8381198ba845ee36f44d834e",
@@ -167,7 +167,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 11:30 PM",
     "endTime": "09-02-2026 01:50 AM",
     "LeagueName": "Serie A",
@@ -180,7 +180,71 @@
       "name": "Inter",
       "logo": "https://img.sofascore.com/api/v1/team/2697/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Paramount+ FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sccpp1pgwc/out/v1/7c14d4fa8c0b45fc907517a20c68f4b9/cenc.mpd",
+        "scheme": 0,
+        "api": "86d4cc03bcf4c20ba4331fee897fb8d6:5c11f325545bf085f48dbf259252a0b2",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN ENGLISH FHD ",
+        "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "scheme": 0,
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Fox Deportes FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO2 FHD",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,",
+        "scheme": 0,
+        "api": "3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPAÑA + 🇪🇸 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Mexico 🇲🇽 ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD tv ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney6\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "SD STREAM ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/zgggZQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "LIVE",
@@ -332,86 +396,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espndeportes\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 09:00 PM",
-    "endTime": "08-02-2026 11:20 PM",
-    "LeagueName": "Bundesliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-    "home": {
-      "name": "1. FC Köln",
-      "logo": "https://img.sofascore.com/api/v1/team/2671/image"
-    },
-    "away": {
-      "name": "RB Leipzig",
-      "logo": "https://img.sofascore.com/api/v1/team/36360/image"
-    },
-    "live_links": [
-      {
-        "name": "DAZN ENGLISH FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rxy8joj9lc/out/v1/d40d0deb8aa645c0ba03aeea10d23f0a/cenc.mpd",
-        "scheme": 0,
-        "api": "74fe21505e83fbaff1a34ddd89f90053:3e4f3de67188f71266207e512d63007a",
-        "tokenApi": ""
-      },
-      {
-        "name": "DAZN GERMANY FHD",
-        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/grbe2juidi/out/v1/41e3c2437b0542feb75d2fbc09c65be1/cenc.mpd",
-        "scheme": 0,
-        "api": "430aa30c13f11d646e74e5183d719a8e:763da1fe4e8968aca386ae08998adbff",
-        "tokenApi": ""
-      },
-      {
-        "name": "ESPAÑA + 🇪🇸 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn5\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD TV ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney18\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "SD STREAM ",
-        "link": "https://q.sdvvsdcez.shop/hls/fllllqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "SonyLiv (Asia)",
-        "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/master.m3u8?hdnea=exp=1770575402~acl=/*~id=87273432987020017429331031122627~hmac=050456d998806441950d0bf5aba3ad79dc93910f735298723c6069f2df38c593|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; moto g04s; Build/ULA34.89-177)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c0b7113f5a0a20cd76a71b81bf54e745-1770558600114",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 09:15 PM",
-    "endTime": "08-02-2026 11:35 PM",
-    "LeagueName": "Parva Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
-    "home": {
-      "name": "Botev Plovdiv",
-      "logo": "https://img.sofascore.com/api/v1/team/5241/image"
-    },
-    "away": {
-      "name": "Beroe Stara Zagora",
-      "logo": "https://img.sofascore.com/api/v1/team/3281/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
       }
     ]
   },
@@ -1004,23 +988,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 11:30 PM",
-    "endTime": "09-02-2026 01:50 AM",
-    "LeagueName": "Liga F Moeve",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-    "home": {
-      "name": "DUX Logroño",
-      "logo": "https://img.sofascore.com/api/v1/team/861598/image"
-    },
-    "away": {
-      "name": "Fútbol Club Barcelona",
-      "logo": "https://img.sofascore.com/api/v1/team/77889/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 11:30 PM",
     "endTime": "09-02-2026 01:50 AM",
     "LeagueName": "Trendyol Süper Lig",
@@ -1033,10 +1001,46 @@
       "name": "Alanyaspor",
       "logo": "https://img.sofascore.com/api/v1/team/6362/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://q.sdvvsdcez.shop/hls/zgggZQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "beIN SPORTS SD ",
+        "link": "https://broadcasthub.click//hls/hhx33tWwGEeW/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Portugal ",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv5.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxOS9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 11:30 PM",
     "endTime": "09-02-2026 01:50 AM",
     "LeagueName": "Stoiximan Super League",
@@ -1049,7 +1053,15 @@
       "name": "PAOK",
       "logo": "https://img.sofascore.com/api/v1/team/3251/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxMi9pbmRleC5tM3U4",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
