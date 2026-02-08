@@ -242,30 +242,6 @@
   {
     "status": "LIVE",
     "matchTime": "09-02-2026 01:30 AM",
-    "endTime": "09-02-2026 03:40 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Fortaleza FC",
-      "logo": "https://img.sofascore.com/api/v1/team/89368/image"
-    },
-    "away": {
-      "name": "América de Cali",
-      "logo": "https://img.sofascore.com/api/v1/team/6102/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 01:30 AM",
     "endTime": "09-02-2026 03:50 AM",
     "LeagueName": "CAF Confederations Cup",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
@@ -634,7 +610,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Gaúcho",
@@ -658,7 +634,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Primera División, Clausura",
@@ -679,7 +655,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Cearense",
@@ -700,7 +676,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga de Primera",
@@ -738,7 +714,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Mineiro, Módulo I",
@@ -776,7 +752,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -797,7 +773,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -818,7 +794,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Carioca",
@@ -849,7 +825,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Pernambucano",
@@ -870,7 +846,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga Guate Banrural, Clausura",
@@ -891,7 +867,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Paraibano",
@@ -912,7 +888,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga FUTVE",
@@ -933,7 +909,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:40 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Primera A, Apertura",
@@ -946,7 +922,15 @@
       "name": "Once Caldas",
       "logo": "https://img.sofascore.com/api/v1/team/6118/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
