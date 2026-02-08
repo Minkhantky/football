@@ -1,37 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 02:30 PM",
-    "endTime": "08-02-2026 04:50 PM",
-    "LeagueName": "A-League Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-    "home": {
-      "name": "Western Sydney Wanderers",
-      "logo": "https://img.sofascore.com/api/v1/team/174108/image"
-    },
-    "away": {
-      "name": "Adelaide United",
-      "logo": "https://img.sofascore.com/api/v1/team/174076/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "08-02-2026 05:00 PM",
     "endTime": "08-02-2026 07:20 PM",
     "LeagueName": "Trendyol 1.Lig",
@@ -44,10 +13,22 @@
       "name": "Bandırmaspor",
       "logo": "https://img.sofascore.com/api/v1/team/44320/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/AAAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 05:00 PM",
     "endTime": "08-02-2026 07:20 PM",
     "LeagueName": "Trendyol 1.Lig",
@@ -60,7 +41,19 @@
       "name": "Iğdır FK",
       "logo": "https://img.sofascore.com/api/v1/team/388264/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/AAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2063,7 +2056,7 @@
     "live_links": []
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 04:30 PM",
     "endTime": "08-02-2026 06:50 PM",
     "LeagueName": "Parva Liga",
