@@ -2061,5 +2061,36 @@
       "logo": "https://img.sofascore.com/api/v1/team/6109/image"
     },
     "live_links": []
+  },
+  {
+    "status": "PRELIVE",
+    "matchTime": "08-02-2026 04:30 PM",
+    "endTime": "08-02-2026 06:50 PM",
+    "LeagueName": "Parva Liga",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/247/image/dark",
+    "home": {
+      "name": "FK Dobrudzha Dobrich",
+      "logo": "https://img.sofascore.com/api/v1/team/5242/image"
+    },
+    "away": {
+      "name": "FK Septemvri Sofia",
+      "logo": "https://img.sofascore.com/api/v1/team/201203/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AAAAAQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD  TV ",
+        "link": "http://205.237.107.90/hls/AAAAAQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   }
 ]
