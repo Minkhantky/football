@@ -1,6 +1,6 @@
 [
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "LaLiga",
@@ -236,131 +236,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney10\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:30 AM",
-    "endTime": "09-02-2026 02:50 AM",
-    "LeagueName": "Liga de Expansión MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11612/image/dark",
-    "home": {
-      "name": "Tlaxcala FC",
-      "logo": "https://img.sofascore.com/api/v1/team/274613/image"
-    },
-    "away": {
-      "name": "Leones Negros",
-      "logo": "https://img.sofascore.com/api/v1/team/36535/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD TV. ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=disney9\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "MEXICO 🇲🇽 ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn3mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:30 AM",
-    "endTime": "09-02-2026 02:50 AM",
-    "LeagueName": "Paraibano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10295/image/dark",
-    "home": {
-      "name": "Confiança EC",
-      "logo": "https://img.sofascore.com/api/v1/team/381469/image"
-    },
-    "away": {
-      "name": "Esporte Clube de Patos",
-      "logo": "https://img.sofascore.com/api/v1/team/307388/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:30 AM",
-    "endTime": "09-02-2026 02:50 AM",
-    "LeagueName": "Romanian SuperLiga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-    "home": {
-      "name": "SC Oțelul Galați",
-      "logo": "https://img.sofascore.com/api/v1/team/3291/image"
-    },
-    "away": {
-      "name": "FCSB",
-      "logo": "https://img.sofascore.com/api/v1/team/3301/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/qdff.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxNC9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:30 AM",
-    "endTime": "09-02-2026 02:50 AM",
-    "LeagueName": "Liga Portugal Betclic",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-    "home": {
-      "name": "Sporting Braga",
-      "logo": "https://img.sofascore.com/api/v1/team/2999/image"
-    },
-    "away": {
-      "name": "Rio Ave",
-      "logo": "https://img.sofascore.com/api/v1/team/3036/image"
-    },
-    "live_links": [
-      {
-        "name": "SportDigital Fussball",
-        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "scheme": 0,
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 1",
-        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "SD Stream ",
-        "link": "https://q.sdyrkyulk.shop/hls/oiiiqqqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
       }
     ]
   },
@@ -611,7 +486,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "LaLiga 2",
@@ -635,7 +510,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -673,7 +548,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "Liga AUF Uruguaya",
@@ -704,7 +579,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -739,7 +614,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 02:30 AM",
     "endTime": "09-02-2026 04:50 AM",
     "LeagueName": "Sergipano",
@@ -760,7 +635,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:00 AM",
     "endTime": "09-02-2026 05:20 AM",
     "LeagueName": "Liga 1",
@@ -773,10 +648,29 @@
       "name": "ADC Juan Pablo II",
       "logo": "https://img.sofascore.com/api/v1/team/511206/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:00 AM",
     "endTime": "09-02-2026 05:20 AM",
     "LeagueName": "Liga Portugal Betclic",
@@ -789,7 +683,15 @@
       "name": "FC Alverca",
       "logo": "https://img.sofascore.com/api/v1/team/190328/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "SportDigital Fussball",
+        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "scheme": 0,
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
