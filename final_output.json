@@ -22,10 +22,24 @@
         "tokenApi": ""
       },
       {
+        "name": "FUBO SPORTS FHD ",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zhvqx4dxc0/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd",
+        "scheme": 0,
+        "api": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
+        "tokenApi": ""
+      },
+      {
         "name": "beIN ENGLISH FHD ",
         "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
         "scheme": 0,
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD 2",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yxzhfyqsz5/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd",
+        "scheme": 0,
+        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
         "tokenApi": ""
       },
       {
@@ -47,6 +61,13 @@
         "link": "http://205.237.107.90/hls/AFFF.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Santa Sports FHD ",
+        "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
+        "scheme": 0,
+        "api": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0",
         "tokenApi": ""
       }
     ]
