@@ -16,7 +16,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.107.90/hls/AAAAAQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "HD TV ",
@@ -44,7 +47,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.107.90/hls/AAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "HD TV ",
@@ -54,54 +60,6 @@
         "tokenApi": ""
       }
     ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 05:30 PM",
-    "endTime": "08-02-2026 07:50 PM",
-    "LeagueName": "Liga F Moeve",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-    "home": {
-      "name": "Levante UD",
-      "logo": "https://img.sofascore.com/api/v1/team/38322/image"
-    },
-    "away": {
-      "name": "Club Atlético de Madrid",
-      "logo": "https://img.sofascore.com/api/v1/team/77879/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 05:30 PM",
-    "endTime": "08-02-2026 07:50 PM",
-    "LeagueName": "Liga F Moeve",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-    "home": {
-      "name": "Sevilla FC",
-      "logo": "https://img.sofascore.com/api/v1/team/77903/image"
-    },
-    "away": {
-      "name": "Athletic Club",
-      "logo": "https://img.sofascore.com/api/v1/team/77877/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "08-02-2026 05:30 PM",
-    "endTime": "08-02-2026 07:50 PM",
-    "LeagueName": "Liga F Moeve",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-    "home": {
-      "name": "Costa Adeje Tenerife",
-      "logo": "https://img.sofascore.com/api/v1/team/202971/image"
-    },
-    "away": {
-      "name": "Alhama Club de Fútbol",
-      "logo": "https://img.sofascore.com/api/v1/team/325475/image"
-    },
-    "live_links": []
   },
   {
     "status": "UPCOMING",
