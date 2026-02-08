@@ -296,7 +296,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 PM",
     "endTime": "08-02-2026 08:50 PM",
     "LeagueName": "Championship",
@@ -309,10 +309,32 @@
       "name": "Sheffield Wednesday",
       "logo": "https://img.sofascore.com/api/v1/team/12/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "beIN ENGLISH FHD",
+        "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+        "scheme": 0,
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link HD ",
+        "link": "https://r.sgdqdzsd.shop/hls/ciiiiQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD  TV ",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv4.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 PM",
     "endTime": "08-02-2026 08:50 PM",
     "LeagueName": "Women's Super League",
@@ -325,10 +347,25 @@
       "name": "Aston Villa",
       "logo": "https://img.sofascore.com/api/v1/team/266375/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 PM",
     "endTime": "08-02-2026 08:50 PM",
     "LeagueName": "Women's Super League",
@@ -341,10 +378,25 @@
       "name": "Manchester City",
       "logo": "https://img.sofascore.com/api/v1/team/142658/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "ZIGGO 3FHD",
+        "link": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+        "scheme": 0,
+        "api": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "https://r.sinaisam.shop/hls/ciiii.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 PM",
     "endTime": "08-02-2026 08:50 PM",
     "LeagueName": "Women's Super League",
@@ -357,10 +409,25 @@
       "name": "Brighton",
       "logo": "https://img.sofascore.com/api/v1/team/266376/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "08-02-2026 06:30 PM",
     "endTime": "08-02-2026 08:50 PM",
     "LeagueName": "Women's Super League",
@@ -373,7 +440,22 @@
       "name": "Everton",
       "logo": "https://img.sofascore.com/api/v1/team/36704/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://r.sinaisam.shop/hls/ciiiiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
