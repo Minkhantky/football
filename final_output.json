@@ -1,90 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 PM",
-    "endTime": "08-02-2026 02:50 PM",
-    "LeagueName": "A-League Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-    "home": {
-      "name": "Sydney FC",
-      "logo": "https://img.sofascore.com/api/v1/team/174106/image"
-    },
-    "away": {
-      "name": "Canberra United",
-      "logo": "https://img.sofascore.com/api/v1/team/174098/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.2/hls/UUUTTTQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 PM",
-    "endTime": "08-02-2026 02:50 PM",
-    "LeagueName": "A-League Men",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-    "home": {
-      "name": "Adelaide United",
-      "logo": "https://img.sofascore.com/api/v1/team/2946/image"
-    },
-    "away": {
-      "name": "Newcastle Jets",
-      "logo": "https://img.sofascore.com/api/v1/team/2934/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 12:30 PM",
-    "endTime": "08-02-2026 02:50 PM",
-    "LeagueName": "A-League Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-    "home": {
-      "name": "Melbourne City",
-      "logo": "https://img.sofascore.com/api/v1/team/207680/image"
-    },
-    "away": {
-      "name": "Brisbane Roar",
-      "logo": "https://img.sofascore.com/api/v1/team/174078/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD ",
-        "link": "http://195.178.110.2/hls/UUUTTTQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "PRELIVE",
     "matchTime": "08-02-2026 02:30 PM",
     "endTime": "08-02-2026 04:50 PM",
     "LeagueName": "A-League Women",
@@ -100,7 +16,17 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/UUUTTTQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
