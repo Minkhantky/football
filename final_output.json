@@ -241,83 +241,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "09-02-2026 12:45 AM",
-    "endTime": "09-02-2026 03:05 AM",
-    "LeagueName": "Pro League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
-    "home": {
-      "name": "KV Mechelen",
-      "logo": "https://img.sofascore.com/api/v1/team/5044/image"
-    },
-    "away": {
-      "name": "Royal Antwerp FC",
-      "logo": "https://img.sofascore.com/api/v1/team/2889/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:45 AM",
-    "endTime": "09-02-2026 03:05 AM",
-    "LeagueName": "Liga 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-    "home": {
-      "name": "Los Chankas CYC",
-      "logo": "https://img.sofascore.com/api/v1/team/252254/image"
-    },
-    "away": {
-      "name": "Alianza Atlético de Sullana",
-      "logo": "https://img.sofascore.com/api/v1/team/2307/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 12:45 AM",
-    "endTime": "09-02-2026 03:05 AM",
-    "LeagueName": "Sergipano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11665/image/dark",
-    "home": {
-      "name": "AA Guarany",
-      "logo": "https://img.sofascore.com/api/v1/team/307366/image"
-    },
-    "away": {
-      "name": "Desportiva Aracaju",
-      "logo": "https://img.sofascore.com/api/v1/team/829655/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "09-02-2026 01:30 AM",
     "endTime": "09-02-2026 03:40 AM",
     "LeagueName": "Primera A, Apertura",
@@ -595,7 +518,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "https://q.sdvvsdcez.shop/hls/mlllqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "HD 1",
@@ -635,7 +561,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:00 AM",
     "endTime": "09-02-2026 05:20 AM",
     "LeagueName": "Liga 1",
@@ -670,7 +596,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 03:00 AM",
     "endTime": "09-02-2026 05:20 AM",
     "LeagueName": "Liga Portugal Betclic",
@@ -690,11 +616,25 @@
         "scheme": 0,
         "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "tokenApi": ""
+      },
+      {
+        "name": "Low Quality  ",
+        "link": "https://q.sdvdsokvsdv.shop/hls/mlllqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport tv pr",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Gaúcho",
@@ -707,10 +647,18 @@
       "name": "São Luiz",
       "logo": "https://img.sofascore.com/api/v1/team/32768/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Premiere ",
+        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+        "scheme": 0,
+        "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Primera División, Clausura",
@@ -723,10 +671,15 @@
       "name": "San Carlos",
       "logo": "https://img.sofascore.com/api/v1/team/7047/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Cearense",
@@ -739,10 +692,15 @@
       "name": "Fortaleza",
       "logo": "https://img.sofascore.com/api/v1/team/2020/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga de Primera",
@@ -755,10 +713,32 @@
       "name": "Deportes Limache",
       "logo": "https://img.sofascore.com/api/v1/team/331131/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsportschile\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=eventos13\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Mineiro, Módulo I",
@@ -771,10 +751,32 @@
       "name": "América Mineiro",
       "logo": "https://img.sofascore.com/api/v1/team/1973/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Sport Tv BR",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "scheme": 0,
+        "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+        "tokenApi": ""
+      },
+      {
+        "name": "Premiere FHD ",
+        "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "scheme": 0,
+        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -787,10 +789,15 @@
       "name": "Deportes Recoleta",
       "logo": "https://img.sofascore.com/api/v1/team/284309/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Copa Chile",
@@ -803,10 +810,15 @@
       "name": "Curicó Unido",
       "logo": "https://img.sofascore.com/api/v1/team/33595/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Carioca",
@@ -819,10 +831,25 @@
       "name": "Botafogo",
       "logo": "https://img.sofascore.com/api/v1/team/1958/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "PREMIERE BR FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "scheme": 0,
+        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=premiere1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Pernambucano",
@@ -835,10 +862,15 @@
       "name": "Decisão Goiana",
       "logo": "https://img.sofascore.com/api/v1/team/490743/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga Guate Banrural, Clausura",
@@ -851,10 +883,15 @@
       "name": "CD Mictlán",
       "logo": "https://img.sofascore.com/api/v1/team/7020/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Paraibano",
@@ -867,10 +904,15 @@
       "name": "Campinense",
       "logo": "https://img.sofascore.com/api/v1/team/34010/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "09-02-2026 03:30 AM",
     "endTime": "09-02-2026 05:50 AM",
     "LeagueName": "Liga FUTVE",
@@ -883,7 +925,12 @@
       "name": "Deportivo La Guaira",
       "logo": "https://img.sofascore.com/api/v1/team/36437/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
