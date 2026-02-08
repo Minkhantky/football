@@ -1,6 +1,6 @@
 [
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:30 AM",
     "endTime": "08-02-2026 08:50 AM",
     "LeagueName": "Carioca",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:30 AM",
     "endTime": "08-02-2026 08:50 AM",
     "LeagueName": "Carioca",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:30 AM",
     "endTime": "08-02-2026 08:50 AM",
     "LeagueName": "Carioca",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "08-02-2026 06:30 AM",
     "endTime": "08-02-2026 08:50 AM",
     "LeagueName": "Carioca",
@@ -121,28 +121,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
-    "matchTime": "08-02-2026 06:30 AM",
-    "endTime": "08-02-2026 08:50 AM",
-    "LeagueName": "MLS Preseason",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18553/image/dark",
-    "home": {
-      "name": "Inter Miami CF",
-      "logo": "https://img.sofascore.com/api/v1/team/337602/image"
-    },
-    "away": {
-      "name": "Barcelona SC Guayaquil",
-      "logo": "https://img.sofascore.com/api/v1/team/5250/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:30 AM",
     "endTime": "08-02-2026 09:50 AM",
     "LeagueName": "USL Super League",
@@ -155,10 +134,15 @@
       "name": "Dallas Trinity",
       "logo": "https://img.sofascore.com/api/v1/team/938069/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:30 AM",
     "endTime": "08-02-2026 09:50 AM",
     "LeagueName": "Liga 1",
@@ -171,10 +155,32 @@
       "name": "Universitario de Deportes",
       "logo": "https://img.sofascore.com/api/v1/team/2305/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.2/hls/YYYY.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:30 AM",
     "endTime": "08-02-2026 09:50 AM",
     "LeagueName": "Liga Guate Banrural, Clausura",
@@ -187,10 +193,15 @@
       "name": "CSD Xelajú MC",
       "logo": "https://img.sofascore.com/api/v1/team/7026/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:36 AM",
     "endTime": "08-02-2026 09:56 AM",
     "LeagueName": "Liga MX, Clausura",
@@ -203,10 +214,25 @@
       "name": "FC Juárez",
       "logo": "https://img.sofascore.com/api/v1/team/201624/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.2/hls/YYYYQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/YYYYQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:35 AM",
     "endTime": "08-02-2026 09:55 AM",
     "LeagueName": "Liga MX, Clausura",
@@ -219,10 +245,53 @@
       "name": "Pumas UNAM",
       "logo": "https://img.sofascore.com/api/v1/team/1933/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "HD TV ",
+        "link": "http://195.178.110.2/hls/KHHHQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=canal5mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn_mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 3",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 4",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:45 AM",
     "endTime": "08-02-2026 10:05 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -235,10 +304,39 @@
       "name": "Banfield",
       "logo": "https://img.sofascore.com/api/v1/team/3219/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "HD TV ",
+        "link": "http://195.178.110.2/hls/KHHHQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnpremium\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnpremium\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnpremium\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 07:45 AM",
     "endTime": "08-02-2026 10:05 AM",
     "LeagueName": "Liga Profesional de Fútbol",
@@ -251,10 +349,32 @@
       "name": "Defensa y Justicia",
       "logo": "https://img.sofascore.com/api/v1/team/36839/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://195.178.110.2/hls/YYYYQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tntsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tntsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 08:00 AM",
     "endTime": "08-02-2026 10:20 AM",
     "LeagueName": "Primera A, Apertura",
@@ -267,10 +387,25 @@
       "name": "Boyacá Chicó FC",
       "logo": "https://img.sofascore.com/api/v1/team/6107/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://195.178.110.2/hls/KHHHQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "08-02-2026 08:30 AM",
     "endTime": "08-02-2026 10:50 AM",
     "LeagueName": "Primera División, Clausura",
@@ -283,7 +418,12 @@
       "name": "Herediano",
       "logo": "https://img.sofascore.com/api/v1/team/7045/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -2346,182 +2486,6 @@
     "away": {
       "name": "Guaraní",
       "logo": "https://img.sofascore.com/api/v1/team/5994/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 04:30 AM",
-    "endTime": "08-02-2026 06:50 AM",
-    "LeagueName": "Liga Profesional de Fútbol",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-    "home": {
-      "name": "River Plate",
-      "logo": "https://img.sofascore.com/api/v1/team/3211/image"
-    },
-    "away": {
-      "name": "Tigre",
-      "logo": "https://img.sofascore.com/api/v1/team/7628/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 04:30 AM",
-    "endTime": "08-02-2026 06:50 AM",
-    "LeagueName": "Copa Chile",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-    "home": {
-      "name": "Cobreloa",
-      "logo": "https://img.sofascore.com/api/v1/team/3159/image"
-    },
-    "away": {
-      "name": "Club Deportes Antofagasta",
-      "logo": "https://img.sofascore.com/api/v1/team/5601/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 04:30 AM",
-    "endTime": "08-02-2026 06:50 AM",
-    "LeagueName": "Categoría Primera B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
-    "home": {
-      "name": "Barranquilla FC",
-      "logo": "https://img.sofascore.com/api/v1/team/89364/image"
-    },
-    "away": {
-      "name": "Real Santander",
-      "logo": "https://img.sofascore.com/api/v1/team/89358/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 04:45 AM",
-    "endTime": "08-02-2026 07:05 AM",
-    "LeagueName": "Liga Profesional de Fútbol",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-    "home": {
-      "name": "Huracán",
-      "logo": "https://img.sofascore.com/api/v1/team/7629/image"
-    },
-    "away": {
-      "name": "San Lorenzo",
-      "logo": "https://img.sofascore.com/api/v1/team/3201/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 05:30 AM",
-    "endTime": "08-02-2026 07:50 AM",
-    "LeagueName": "Liga 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-    "home": {
-      "name": "Alianza Lima",
-      "logo": "https://img.sofascore.com/api/v1/team/2311/image"
-    },
-    "away": {
-      "name": "Comerciantes Unidos",
-      "logo": "https://img.sofascore.com/api/v1/team/213609/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 05:50 AM",
-    "endTime": "08-02-2026 08:10 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Deportivo Cali",
-      "logo": "https://img.sofascore.com/api/v1/team/6112/image"
-    },
-    "away": {
-      "name": "Millonarios",
-      "logo": "https://img.sofascore.com/api/v1/team/6117/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 06:00 AM",
-    "endTime": "08-02-2026 08:20 AM",
-    "LeagueName": "Primera División, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11540/image/dark",
-    "home": {
-      "name": "Nacional Asunción",
-      "logo": "https://img.sofascore.com/api/v1/team/33001/image"
-    },
-    "away": {
-      "name": "Olimpia",
-      "logo": "https://img.sofascore.com/api/v1/team/5997/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 06:00 AM",
-    "endTime": "08-02-2026 08:20 AM",
-    "LeagueName": "Liga de Primera",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-    "home": {
-      "name": "Universidad Católica",
-      "logo": "https://img.sofascore.com/api/v1/team/3151/image"
-    },
-    "away": {
-      "name": "Deportes Concepción",
-      "logo": "https://img.sofascore.com/api/v1/team/3160/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 06:00 AM",
-    "endTime": "08-02-2026 08:20 AM",
-    "LeagueName": "Carioca",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/92/image/dark",
-    "home": {
-      "name": "Fluminense",
-      "logo": "https://img.sofascore.com/api/v1/team/1961/image"
-    },
-    "away": {
-      "name": "Maricá FC",
-      "logo": "https://img.sofascore.com/api/v1/team/288535/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 06:00 AM",
-    "endTime": "08-02-2026 08:20 AM",
-    "LeagueName": "Paulista Série A1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/372/image/dark",
-    "home": {
-      "name": "Corinthians",
-      "logo": "https://img.sofascore.com/api/v1/team/1957/image"
-    },
-    "away": {
-      "name": "Palmeiras",
-      "logo": "https://img.sofascore.com/api/v1/team/1963/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "09-02-2026 06:00 AM",
-    "endTime": "08-02-2026 08:20 AM",
-    "LeagueName": "Liga AUF Uruguaya",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-    "home": {
-      "name": "Boston River",
-      "logo": "https://img.sofascore.com/api/v1/team/174970/image"
-    },
-    "away": {
-      "name": "Nacional",
-      "logo": "https://img.sofascore.com/api/v1/team/3230/image"
     },
     "live_links": []
   },
