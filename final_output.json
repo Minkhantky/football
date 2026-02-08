@@ -342,258 +342,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "08-02-2026 10:15 PM",
-    "endTime": "09-02-2026 12:35 AM",
-    "LeagueName": "VriendenLoterij Eredivisie",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-    "home": {
-      "name": "FC Groningen",
-      "logo": "https://img.sofascore.com/api/v1/team/2951/image"
-    },
-    "away": {
-      "name": "PSV Eindhoven",
-      "logo": "https://img.sofascore.com/api/v1/team/2952/image"
-    },
-    "live_links": [
-      {
-        "name": "SportDigital FHD ",
-        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "scheme": 0,
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "tokenApi": ""
-      },
-      {
-        "name": "NL HD",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn1_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "NL 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn_nl1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "MX 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn2mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "MX 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espn2mx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "Rivers United",
-      "logo": "https://img.sofascore.com/api/v1/team/215270/image"
-    },
-    "away": {
-      "name": "Pyramids FC",
-      "logo": "https://img.sofascore.com/api/v1/team/175002/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.46/hls/KKKIQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3Q5L2luZGV4Lm0zdTg=",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "CAF Champions League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-    "home": {
-      "name": "Stade Malien",
-      "logo": "https://img.sofascore.com/api/v1/team/69326/image"
-    },
-    "away": {
-      "name": "Espérance Tunis",
-      "logo": "https://img.sofascore.com/api/v1/team/59628/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/KKKIQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "https://sportssurge.stream/get.php?link=aHR0cDovLzM4LjE5MC4xNzguNTQ6ODA4OS9mb3QxMC9pbmRleC5tM3U4",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "Liga 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-    "home": {
-      "name": "CS Cristal",
-      "logo": "https://img.sofascore.com/api/v1/team/2302/image"
-    },
-    "away": {
-      "name": "Melgar",
-      "logo": "https://img.sofascore.com/api/v1/team/2308/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/uuuuuq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "HD 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "LIGA TV. ",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "Trendyol 1.Lig",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/98/image/dark",
-    "home": {
-      "name": "Manisa FK",
-      "logo": "https://img.sofascore.com/api/v1/team/202391/image"
-    },
-    "away": {
-      "name": "Boluspor",
-      "logo": "https://img.sofascore.com/api/v1/team/6414/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://q.sdvvsdcez.shop/hls/uuuuu.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "https://q.sdvvsdcez.shop/hls/uuuuu.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "CAF Confederations Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
-    "home": {
-      "name": "FC San Pedro",
-      "logo": "https://img.sofascore.com/api/v1/team/238206/image"
-    },
-    "away": {
-      "name": "USM Alger",
-      "logo": "https://img.sofascore.com/api/v1/team/42206/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.46/hls/KKKIQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.46/hls/KKKIQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "08-02-2026 10:30 PM",
-    "endTime": "09-02-2026 12:50 AM",
-    "LeagueName": "CAF Confederations Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1115/image/dark",
-    "home": {
-      "name": "Singida Black Stars SC",
-      "logo": "https://img.sofascore.com/api/v1/team/353799/image"
-    },
-    "away": {
-      "name": "CR Belouizdad",
-      "logo": "https://img.sofascore.com/api/v1/team/42207/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/KKKIQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b8/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "08-02-2026 11:00 PM",
     "endTime": "09-02-2026 01:20 AM",
     "LeagueName": "Ekstraklasa",
@@ -714,7 +462,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:30 AM",
     "endTime": "09-02-2026 02:50 AM",
     "LeagueName": "Liga de Expansión MX, Clausura",
@@ -749,7 +497,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:30 AM",
     "endTime": "09-02-2026 02:50 AM",
     "LeagueName": "Paraibano",
@@ -770,7 +518,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:30 AM",
     "endTime": "09-02-2026 02:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -801,7 +549,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:30 AM",
     "endTime": "09-02-2026 02:50 AM",
     "LeagueName": "Liga Portugal Betclic",
@@ -839,7 +587,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:45 AM",
     "endTime": "09-02-2026 03:05 AM",
     "LeagueName": "Pro League",
@@ -852,10 +600,15 @@
       "name": "Royal Antwerp FC",
       "logo": "https://img.sofascore.com/api/v1/team/2889/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:45 AM",
     "endTime": "09-02-2026 03:05 AM",
     "LeagueName": "Liga 1",
@@ -868,10 +621,29 @@
       "name": "Alianza Atlético de Sullana",
       "logo": "https://img.sofascore.com/api/v1/team/2307/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "HD 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=liga1max\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 12:45 AM",
     "endTime": "09-02-2026 03:05 AM",
     "LeagueName": "Sergipano",
@@ -884,7 +656,12 @@
       "name": "Desportiva Aracaju",
       "logo": "https://img.sofascore.com/api/v1/team/829655/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
