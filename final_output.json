@@ -31,6 +31,34 @@
     },
     "live_links": [
       {
+        "name": "DAZN ITALIAN FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ecjxkhkrvr/out/v1/dd55735df752491d9fee975d3c298862/cenc.mpd",
+        "scheme": 0,
+        "api": "28550081ad6991441c8a3aee03a20bd6:85fb04093df189c54dc962519301f6fe",
+        "tokenApi": ""
+      },
+      {
+        "name": "DAZN SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ecjxkhkrvr/out/v1/dd55735df752491d9fee975d3c298862/cenc.mpd",
+        "scheme": 0,
+        "api": "28550081ad6991441c8a3aee03a20bd6:85fb04093df189c54dc962519301f6fe",
+        "tokenApi": ""
+      },
+      {
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ypuumtgfh/out/v1/78e9287778e041a0a086a776a24ccdf0/cenc.mpd",
+        "scheme": 0,
+        "api": "59c44836a5ee4fac1c663d3e9c1ec1b7:afaa391ffb2967baca668a2d8a1cefa5",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9ypuumtgfh/out/v1/78e9287778e041a0a086a776a24ccdf0/cenc.mpd",
+        "scheme": 0,
+        "api": "59c44836a5ee4fac1c663d3e9c1ec1b7:afaa391ffb2967baca668a2d8a1cefa5",
+        "tokenApi": ""
+      },
+      {
         "name": "beIN ENGLISH FHD ",
         "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
         "scheme": 0,
@@ -271,7 +299,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 12:30 AM",
     "endTime": "10-02-2026 02:50 AM",
     "LeagueName": "Danish Superliga",
@@ -284,10 +312,25 @@
       "name": "FC Fredericia",
       "logo": "https://img.sofascore.com/api/v1/team/1302/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AHHHQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV  ",
+        "link": "http://205.237.107.90/hls/AHHHQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 12:30 AM",
     "endTime": "10-02-2026 02:50 AM",
     "LeagueName": "Liga Portugal 2",
@@ -300,10 +343,25 @@
       "name": "SL Benfica B U21",
       "logo": "https://img.sofascore.com/api/v1/team/74465/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AHHH.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport TV",
+        "link": "https://spxt.nullsignal.site/livedhfh-dks/1688744.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 12:30 AM",
     "endTime": "10-02-2026 02:50 AM",
     "LeagueName": "Ekstraklasa",
@@ -316,10 +374,25 @@
       "name": "Wisła Płock",
       "logo": "https://img.sofascore.com/api/v1/team/3122/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AHHHQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/AHHHQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 12:30 AM",
     "endTime": "10-02-2026 02:50 AM",
     "LeagueName": "Romanian SuperLiga",
@@ -332,10 +405,25 @@
       "name": "Universitatea Craiova",
       "logo": "https://img.sofascore.com/api/v1/team/116223/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AHHHQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/AHHHQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 01:00 AM",
     "endTime": "10-02-2026 03:20 AM",
     "LeagueName": "Betclic 1. Liga",
@@ -348,7 +436,22 @@
       "name": "Stal Rzeszów",
       "logo": "https://img.sofascore.com/api/v1/team/37207/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/JBBB.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/JBBB.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -661,6 +764,68 @@
       {
         "name": "HD ",
         "link": "http://205.237.105.46/hls/BTBTBTQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "10-02-2026 12:30 AM",
+    "endTime": "10-02-2026 02:50 AM",
+    "LeagueName": "Israeli Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/266/image/dark",
+    "home": {
+      "name": "Maccabi Tel Aviv",
+      "logo": "https://img.sofascore.com/api/v1/team/5198/image"
+    },
+    "away": {
+      "name": "Maccabi Bney Reine",
+      "logo": "https://img.sofascore.com/api/v1/team/274894/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/AHHHQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/AHHHQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "10-02-2026 01:00 AM",
+    "endTime": "10-02-2026 03:20 AM",
+    "LeagueName": "Israeli Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/266/image/dark",
+    "home": {
+      "name": "Hapoel Be'er Sheva",
+      "logo": "https://img.sofascore.com/api/v1/team/5202/image"
+    },
+    "away": {
+      "name": "Beitar Jerusalem",
+      "logo": "https://img.sofascore.com/api/v1/team/5204/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/JBBBQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD TV ",
+        "link": "http://205.237.107.90/hls/JBBBQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
