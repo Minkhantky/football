@@ -32,7 +32,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "PRELIVE",
     "matchTime": "10-02-2026 06:30 AM",
     "endTime": "10-02-2026 08:55 AM",
     "LeagueName": "Liga MX, Clausura Women",
@@ -45,7 +45,15 @@
       "name": "Juárez",
       "logo": "https://img.sofascore.com/api/v1/team/201624/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "FXD TV",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+        "scheme": 0,
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
