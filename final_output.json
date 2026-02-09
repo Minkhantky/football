@@ -1,50 +1,5 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 07:30 AM",
-    "endTime": "09-02-2026 09:50 AM",
-    "LeagueName": "Primera División, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11542/image/dark",
-    "home": {
-      "name": "Sporting FC",
-      "logo": "https://img.sofascore.com/api/v1/team/262906/image"
-    },
-    "away": {
-      "name": "Guadalupe FC",
-      "logo": "https://img.sofascore.com/api/v1/team/261695/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 08:00 AM",
-    "endTime": "09-02-2026 10:20 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Jaguares de Córdoba",
-      "logo": "https://img.sofascore.com/api/v1/team/89370/image"
-    },
-    "away": {
-      "name": "Deportivo Pereira",
-      "logo": "https://img.sofascore.com/api/v1/team/6109/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
     "status": "UPCOMING",
     "matchTime": "09-02-2026 07:30 PM",
     "endTime": "09-02-2026 09:50 PM",
