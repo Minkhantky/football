@@ -16,7 +16,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 07:35 PM",
     "endTime": "09-02-2026 09:55 PM",
     "LeagueName": "Saudi 1st Division",
@@ -29,7 +29,12 @@
       "name": "Al Diriyah",
       "logo": "https://img.sofascore.com/api/v1/team/853574/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -558,7 +563,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "09-02-2026 06:30 PM",
     "endTime": "09-02-2026 08:50 PM",
     "LeagueName": "Mozzart Bet Superliga",
