@@ -49,27 +49,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "09-02-2026 07:35 PM",
-    "endTime": "09-02-2026 09:55 PM",
-    "LeagueName": "Saudi 1st Division",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2120/image/dark",
-    "home": {
-      "name": "Al Jandal",
-      "logo": "https://img.sofascore.com/api/v1/team/304988/image"
-    },
-    "away": {
-      "name": "Al Diriyah",
-      "logo": "https://img.sofascore.com/api/v1/team/853574/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "09-02-2026 08:15 PM",
     "endTime": "09-02-2026 10:35 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -92,7 +71,7 @@
       },
       {
         "name": "Arabic ",
-        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b2/index.m3u8",
+        "link": "http://wjyrvkot.nullsignal.site/b2/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -165,7 +144,7 @@
       },
       {
         "name": "Arabic ",
-        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b1/index.m3u8",
+        "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -602,37 +581,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/201624/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 07:10 PM",
-    "endTime": "09-02-2026 09:30 PM",
-    "LeagueName": "Saudi 1st Division",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2120/image/dark",
-    "home": {
-      "name": "Al Batin",
-      "logo": "https://img.sofascore.com/api/v1/team/168084/image"
-    },
-    "away": {
-      "name": "Al Ula",
-      "logo": "https://img.sofascore.com/api/v1/team/853576/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.105.197/hls/AAAAAa.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.105.197/hls/AAAAAa.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   },
   {
     "status": "LIVE",
