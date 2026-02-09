@@ -16,6 +16,38 @@
     "live_links": []
   },
   {
+    "status": "UPCOMING",
+    "matchTime": "10-02-2026 12:00 AM",
+    "endTime": "10-02-2026 02:20 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Atalanta",
+      "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+    },
+    "away": {
+      "name": "Cremonese",
+      "logo": "https://img.sofascore.com/api/v1/team/2761/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "10-02-2026 02:15 AM",
+    "endTime": "10-02-2026 04:35 AM",
+    "LeagueName": "Serie A",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "home": {
+      "name": "Roma",
+      "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    },
+    "away": {
+      "name": "Cagliari",
+      "logo": "https://img.sofascore.com/api/v1/team/2719/image"
+    },
+    "live_links": []
+  },
+  {
     "status": "LIVE",
     "matchTime": "09-02-2026 07:35 PM",
     "endTime": "09-02-2026 09:55 PM",
@@ -37,7 +69,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 08:15 PM",
     "endTime": "09-02-2026 10:35 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -50,10 +82,39 @@
       "name": "Al-Shorta",
       "logo": "https://img.sofascore.com/api/v1/team/61532/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Gee Sports ",
+        "link": "http://195.178.110.37/hls/HRRRQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b2/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport Klub",
+        "link": "https://broadcasthub.click//hls/xP7hydjV4mwc/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Nova Sport",
+        "link": "https://broadcasthub.click//hls/39LdmGJ7zULD/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 08:15 PM",
     "endTime": "09-02-2026 10:35 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -66,10 +127,53 @@
       "name": "Al-Ahli",
       "logo": "https://img.sofascore.com/api/v1/team/34469/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS ",
+        "link": "http://195.178.110.37/hls/HRRRQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "DIEMA SPORTS",
+        "link": "https://broadcasthub.click//hls/9HReYfZfMhHs/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport Klub",
+        "link": "https://broadcasthub.click//hls/WIMSZXVrGRGm/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtpcloud.com\\/global1.php?stream=espn_nl1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "ESPN 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espn1_nl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://aihheniievbejiisbbjjejejsuuuuuuuiiusjjjj.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "09-02-2026 08:30 PM",
     "endTime": "09-02-2026 10:50 PM",
     "LeagueName": "Trendyol Süper Lig",
@@ -82,7 +186,22 @@
       "name": "Kocaelispor",
       "logo": "https://img.sofascore.com/api/v1/team/3065/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS ",
+        "link": "http://195.178.110.37/hls/HRRRQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "beIN SPORTS",
+        "link": "https://broadcasthub.click//hls/hhx33tWwGEeW/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -177,22 +296,6 @@
     "away": {
       "name": "SGS Essen",
       "logo": "https://img.sofascore.com/api/v1/team/5551/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "10-02-2026 12:00 AM",
-    "endTime": "10-02-2026 02:20 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Atalanta",
-      "logo": "https://img.sofascore.com/api/v1/team/2686/image"
-    },
-    "away": {
-      "name": "Cremonese",
-      "logo": "https://img.sofascore.com/api/v1/team/2761/image"
     },
     "live_links": []
   },
@@ -360,22 +463,6 @@
     "status": "UPCOMING",
     "matchTime": "10-02-2026 02:15 AM",
     "endTime": "10-02-2026 04:35 AM",
-    "LeagueName": "Serie A",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "home": {
-      "name": "Roma",
-      "logo": "https://img.sofascore.com/api/v1/team/2702/image"
-    },
-    "away": {
-      "name": "Cagliari",
-      "logo": "https://img.sofascore.com/api/v1/team/2719/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "10-02-2026 02:15 AM",
-    "endTime": "10-02-2026 04:35 AM",
     "LeagueName": "Ligue 2",
     "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/182/image/dark",
     "home": {
@@ -501,30 +588,46 @@
     "live_links": []
   },
   {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 06:00 PM",
-    "endTime": "09-02-2026 08:20 PM",
-    "LeagueName": "Thai League 1",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1032/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "10-02-2026 06:30 AM",
+    "endTime": "10-02-2026 08:55 AM",
+    "LeagueName": "Liga MX, Clausura Women",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
     "home": {
-      "name": "Lamphun Warrior",
-      "logo": "https://img.sofascore.com/api/v1/team/310778/image"
+      "name": "Tigres UANL",
+      "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
     },
     "away": {
-      "name": "Kanchanaburi Power FC",
-      "logo": "https://img.sofascore.com/api/v1/team/393338/image"
+      "name": "Juárez",
+      "logo": "https://img.sofascore.com/api/v1/team/201624/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "09-02-2026 07:10 PM",
+    "endTime": "09-02-2026 09:30 PM",
+    "LeagueName": "Saudi 1st Division",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2120/image/dark",
+    "home": {
+      "name": "Al Batin",
+      "logo": "https://img.sofascore.com/api/v1/team/168084/image"
+    },
+    "away": {
+      "name": "Al Ula",
+      "logo": "https://img.sofascore.com/api/v1/team/853576/image"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "http://205.237.105.197/hls/AAAAAa.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "Link 2",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "HD ",
+        "link": "http://205.237.105.197/hls/AAAAAa.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -533,60 +636,26 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "09-02-2026 06:00 PM",
-    "endTime": "09-02-2026 08:20 PM",
-    "LeagueName": "Singapore Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/634/image/dark",
+    "matchTime": "09-02-2026 09:00 PM",
+    "endTime": "09-02-2026 11:14 PM",
+    "LeagueName": "Azerbaijan Premier League",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg",
     "home": {
-      "name": "Albirex Niigata Singapore",
-      "logo": "https://img.sofascore.com/api/v1/team/34081/image"
+      "name": "Karvan",
+      "logo": "https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg"
     },
     "away": {
-      "name": "Hougang United",
-      "logo": "https://img.sofascore.com/api/v1/team/34083/image"
+      "name": "Turan Tovuz",
+      "logo": "https://pbs.twimg.com/profile_images/1358431560412848129/OTjhbLwt_400x400.jpg"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Link 2 ",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "09-02-2026 06:30 PM",
-    "endTime": "09-02-2026 08:50 PM",
-    "LeagueName": "Mozzart Bet Superliga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/210/image/dark",
-    "home": {
-      "name": "OFK Beograd Mozzart",
-      "logo": "https://img.sofascore.com/api/v1/team/5153/image"
-    },
-    "away": {
-      "name": "FK Čukarički",
-      "logo": "https://img.sofascore.com/api/v1/team/5148/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
+        "link": "http://195.178.110.37/hls/SASASASA.m3u8|Referer=http://www.fawanews.sc/"
       },
       {
         "name": "Link 2",
-        "link": "http://195.178.110.37/hls/BGBGBGQQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "http://195.178.110.37/hls/SASASASA.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
