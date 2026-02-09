@@ -345,68 +345,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "10-02-2026 01:00 AM",
-    "endTime": "10-02-2026 03:20 AM",
-    "LeagueName": "Betclic 1. Liga",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/229/image/dark",
-    "home": {
-      "name": "Chrobry Głogów",
-      "logo": "https://img.sofascore.com/api/v1/team/53296/image"
-    },
-    "away": {
-      "name": "Stal Rzeszów",
-      "logo": "https://img.sofascore.com/api/v1/team/37207/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/JBBB.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.107.90/hls/JBBB.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 01:15 AM",
-    "endTime": "10-02-2026 03:35 AM",
-    "LeagueName": "Liga Portugal Betclic",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-    "home": {
-      "name": "Famalicão",
-      "logo": "https://img.sofascore.com/api/v1/team/49531/image"
-    },
-    "away": {
-      "name": "AVS - Futebol SAD",
-      "logo": "https://img.sofascore.com/api/v1/team/483088/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/JBBBQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Sport TV ",
-        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv5.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "10-02-2026 01:30 AM",
     "endTime": "10-02-2026 03:50 AM",
     "LeagueName": "Eerste Divisie",
@@ -569,7 +507,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "10-02-2026 03:00 AM",
     "endTime": "10-02-2026 05:20 AM",
     "LeagueName": "Liga 1",
@@ -607,7 +545,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 03:15 AM",
     "endTime": "10-02-2026 05:35 AM",
     "LeagueName": "Liga Portugal Betclic",
@@ -620,7 +558,36 @@
       "name": "Sporting CP",
       "logo": "https://img.sofascore.com/api/v1/team/3001/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "SportDigital Fussball",
+        "link": "https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "scheme": 0,
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport TV SD",
+        "link": "https://broadcasthub.click//hls/krqMWsx7RoKw/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Sport Tv PR",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM ",
+        "link": "http://205.237.107.90/hls/uuuuqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -669,37 +636,6 @@
       "logo": "https://img.sofascore.com/api/v1/team/201624/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 01:00 AM",
-    "endTime": "10-02-2026 03:20 AM",
-    "LeagueName": "Israeli Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/266/image/dark",
-    "home": {
-      "name": "Hapoel Be'er Sheva",
-      "logo": "https://img.sofascore.com/api/v1/team/5202/image"
-    },
-    "away": {
-      "name": "Beitar Jerusalem",
-      "logo": "https://img.sofascore.com/api/v1/team/5204/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/JBBBQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD TV ",
-        "link": "http://205.237.107.90/hls/JBBBQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   },
   {
     "status": "UPCOMING",
