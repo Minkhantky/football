@@ -1,75 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "10-02-2026 04:30 PM",
-    "endTime": "10-02-2026 06:50 PM",
-    "LeagueName": "AFC Champions League Elite",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-    "home": {
-      "name": "Vissel Kobe",
-      "logo": "https://img.sofascore.com/api/v1/team/3146/image"
-    },
-    "away": {
-      "name": "FC Seoul",
-      "logo": "https://img.sofascore.com/api/v1/team/7646/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3quBo3jSSXa6a.m3u8?txSecret=5bb351d2d31a5733a247c9fb97b2e5bd&txTime=698B2AE1",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://wjyrvkot.nullsignal.site/b5/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "AK SPORTS ",
-        "link": "http://205.237.107.90/hls/LLLLq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 04:30 PM",
-    "endTime": "10-02-2026 06:50 PM",
-    "LeagueName": "AFC Champions League Elite",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-    "home": {
-      "name": "Sanfrecce Hiroshima",
-      "logo": "https://img.sofascore.com/api/v1/team/3135/image"
-    },
-    "away": {
-      "name": "Johor Darul Ta'zim",
-      "logo": "https://img.sofascore.com/api/v1/team/3327/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/LLLL.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://wjyrvkot.nullsignal.site/b4/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "10-02-2026 06:45 PM",
     "endTime": "10-02-2026 09:05 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -82,10 +13,22 @@
       "name": "Buriram United",
       "logo": "https://img.sofascore.com/api/v1/team/34218/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b4/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 06:45 PM",
     "endTime": "10-02-2026 09:05 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -98,7 +41,19 @@
       "name": "Machida Zelvia",
       "logo": "https://img.sofascore.com/api/v1/team/44409/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://no.link"
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b5/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
