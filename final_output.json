@@ -1,50 +1,5 @@
 [
   {
-    "status": "PRELIVE",
-    "matchTime": "10-02-2026 07:45 AM",
-    "endTime": "10-02-2026 10:05 AM",
-    "LeagueName": "Categoría Primera B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1238/image/dark",
-    "home": {
-      "name": "Deportes Quindío",
-      "logo": "https://img.sofascore.com/api/v1/team/6110/image"
-    },
-    "away": {
-      "name": "Independiente Yumbo",
-      "logo": "https://img.sofascore.com/api/v1/team/1166437/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 06:30 AM",
-    "endTime": "10-02-2026 08:55 AM",
-    "LeagueName": "Liga MX, Clausura Women",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11620/image/dark",
-    "home": {
-      "name": "Tigres UANL",
-      "logo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image"
-    },
-    "away": {
-      "name": "Juárez",
-      "logo": "https://img.sofascore.com/api/v1/team/201624/image"
-    },
-    "live_links": [
-      {
-        "name": "FXD TV",
-        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "scheme": 0,
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
     "status": "UPCOMING",
     "matchTime": "10-02-2026 04:30 PM",
     "endTime": "10-02-2026 06:50 PM",
@@ -606,38 +561,6 @@
   },
   {
     "status": "UPCOMING",
-    "matchTime": "11-02-2026 05:30 AM",
-    "endTime": "10-02-2026 07:50 AM",
-    "LeagueName": "Primera Nacional",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/703/image/dark",
-    "home": {
-      "name": "Tristán Suárez",
-      "logo": "https://img.sofascore.com/api/v1/team/93513/image"
-    },
-    "away": {
-      "name": "Temperley",
-      "logo": "https://img.sofascore.com/api/v1/team/112499/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 05:50 AM",
-    "endTime": "10-02-2026 08:10 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Llaneros FC",
-      "logo": "https://img.sofascore.com/api/v1/team/89374/image"
-    },
-    "away": {
-      "name": "Deportivo Pasto",
-      "logo": "https://img.sofascore.com/api/v1/team/6113/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "11-02-2026 06:30 AM",
     "endTime": "11-02-2026 08:50 AM",
     "LeagueName": "Liga de Expansión MX, Clausura",
@@ -729,6 +652,102 @@
     "away": {
       "name": "Forge FC",
       "logo": "https://img.sofascore.com/api/v1/team/313716/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 07:30 AM",
+    "endTime": "11-02-2026 09:54 AM",
+    "LeagueName": "Liga MX Femenil",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image",
+    "home": {
+      "name": "CF Pachuca",
+      "logo": "https://img.sofascore.com/api/v1/team/1936/image"
+    },
+    "away": {
+      "name": "San Luis de Quillota",
+      "logo": "https://img.sofascore.com/api/v1/team/39220/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 07:30 AM",
+    "endTime": "11-02-2026 09:50 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "Panama U17",
+      "logo": "https://img.sofascore.com/api/v1/team/5164/image"
+    },
+    "away": {
+      "name": "Nicaragua U17",
+      "logo": "https://img.sofascore.com/api/v1/team/316488/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 02:30 AM",
+    "endTime": "11-02-2026 04:45 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "Costa Rica  u17",
+      "logo": "x"
+    },
+    "away": {
+      "name": "Puerto Rico u17",
+      "logo": "x"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 02:15 AM",
+    "endTime": "11-02-2026 04:35 AM",
+    "LeagueName": "DFB Pokal",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
+    "home": {
+      "name": "Hertha BSC",
+      "logo": "https://img.sofascore.com/api/v1/team/2528/image"
+    },
+    "away": {
+      "name": "SC Freiburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2538/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 12:30 AM",
+    "endTime": "11-02-2026 02:50 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "USA U17",
+      "logo": "https://img.sofascore.com/api/v1/team/7424/image"
+    },
+    "away": {
+      "name": "Dominican u17",
+      "logo": "x"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "10-02-2026 11:30 PM",
+    "endTime": "11-02-2026 01:40 AM",
+    "LeagueName": "CONCACAF U17 Championship",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
+    "home": {
+      "name": "British Virgin Island",
+      "logo": "c"
+    },
+    "away": {
+      "name": "Turks Caiocos u17",
+      "logo": "x"
     },
     "live_links": []
   }
