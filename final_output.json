@@ -81,44 +81,6 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "10-02-2026 08:15 PM",
-    "endTime": "10-02-2026 10:35 PM",
-    "LeagueName": "AFC Champions League Two",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
-    "home": {
-      "name": "Esteghlal FC",
-      "logo": "https://img.sofascore.com/api/v1/team/34316/image"
-    },
-    "away": {
-      "name": "Al Hussein Irbid",
-      "logo": "https://img.sofascore.com/api/v1/team/117204/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/URRRQQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic. ",
-        "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "NOVA SPORTS HD",
-        "link": "https://smarthard.click/hls/9HReYfZfMhHs/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "10-02-2026 10:30 PM",
     "endTime": "11-02-2026 12:50 AM",
     "LeagueName": "AFC Champions League Two",
@@ -131,10 +93,32 @@
       "name": "Al Wasl",
       "logo": "https://img.sofascore.com/api/v1/team/47674/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK Sports ",
+        "link": "http://205.237.107.90/hls/dpdpdp.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "NOVA SPORTS HD",
+        "link": "https://smarthard.click/hls/39LdmGJ7zULD/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b3/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 10:30 PM",
     "endTime": "11-02-2026 12:50 AM",
     "LeagueName": "AFC Champions League Elite",
@@ -147,7 +131,29 @@
       "name": "Al-Sadd",
       "logo": "https://img.sofascore.com/api/v1/team/39733/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK Sports ",
+        "link": "http://205.237.107.90/hls/dpdpdpq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SPORT KLUB HD",
+        "link": "https://smarthard.click/hls/xP7hydjV4mwc/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b2/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -710,7 +716,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 10:25 PM",
     "endTime": "11-02-2026 12:45 AM",
     "LeagueName": "Saudi 1st Division",
@@ -723,10 +729,25 @@
       "name": "Al Faisaly",
       "logo": "https://img.sofascore.com/api/v1/team/56035/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 10:30 PM",
     "endTime": "11-02-2026 12:50 AM",
     "LeagueName": "Bulgarian Cup",
@@ -739,7 +760,22 @@
       "name": "FC CSKA 1948 Sofia",
       "logo": "https://img.sofascore.com/api/v1/team/252080/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/dpdpdpqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/dpdpdpqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
