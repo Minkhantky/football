@@ -80,90 +80,39 @@
     "live_links": []
   },
   {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 10:30 PM",
-    "endTime": "11-02-2026 12:50 AM",
-    "LeagueName": "AFC Champions League Two",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 02:15 AM",
+    "endTime": "11-02-2026 04:35 AM",
+    "LeagueName": "DFB Pokal",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
     "home": {
-      "name": "Al-Zawraa",
-      "logo": "https://img.sofascore.com/api/v1/team/35888/image"
+      "name": "Hertha BSC",
+      "logo": "https://img.sofascore.com/api/v1/team/2528/image"
     },
     "away": {
-      "name": "Al Wasl",
-      "logo": "https://img.sofascore.com/api/v1/team/47674/image"
+      "name": "SC Freiburg",
+      "logo": "https://img.sofascore.com/api/v1/team/2538/image"
     },
-    "live_links": [
-      {
-        "name": "AK Sports ",
-        "link": "http://205.237.107.90/hls/dpdpdp.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "NOVA SPORTS HD",
-        "link": "https://smarthard.click/hls/39LdmGJ7zULD/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://wjyrvkot.nullsignal.site/b3/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 10:30 PM",
-    "endTime": "11-02-2026 12:50 AM",
-    "LeagueName": "AFC Champions League Elite",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-    "home": {
-      "name": "Tractor FC",
-      "logo": "https://img.sofascore.com/api/v1/team/53715/image"
-    },
-    "away": {
-      "name": "Al-Sadd",
-      "logo": "https://img.sofascore.com/api/v1/team/39733/image"
-    },
-    "live_links": [
-      {
-        "name": "AK Sports ",
-        "link": "http://205.237.107.90/hls/dpdpdpq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "TV+ HD",
-        "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3q9sfQNgbWzoG.m3u8?txSecret=2c93f7996b4a247ab3e378c92c1d0ca8&txTime=698B81A1",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "SPORT KLUB HD",
-        "link": "https://smarthard.click/hls/xP7hydjV4mwc/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "Arabic ",
-        "link": "http://wjyrvkot.nullsignal.site/b2/index.m3u8",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
+    "live_links": []
   },
   {
     "status": "UPCOMING",
+    "matchTime": "11-02-2026 02:30 AM",
+    "endTime": "11-02-2026 04:50 AM",
+    "LeagueName": "Championship",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "home": {
+      "name": "Birmingham City",
+      "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    },
+    "away": {
+      "name": "West Bromwich Albion",
+      "logo": "https://img.sofascore.com/api/v1/team/8/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
     "matchTime": "11-02-2026 12:30 AM",
     "endTime": "11-02-2026 02:50 AM",
     "LeagueName": "Serie B",
@@ -176,23 +125,22 @@
       "name": "Palermo",
       "logo": "https://img.sofascore.com/api/v1/team/2715/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 12:45 AM",
-    "endTime": "11-02-2026 03:05 AM",
-    "LeagueName": "AFC Champions League Elite",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",
-    "home": {
-      "name": "Al-Ittihad",
-      "logo": "https://img.sofascore.com/api/v1/team/34315/image"
-    },
-    "away": {
-      "name": "Al-Gharafa",
-      "logo": "https://img.sofascore.com/api/v1/team/34312/image"
-    },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/jijijiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/jijijiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -468,22 +416,6 @@
   },
   {
     "status": "UPCOMING",
-    "matchTime": "11-02-2026 02:30 AM",
-    "endTime": "11-02-2026 04:50 AM",
-    "LeagueName": "Championship",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
-    "home": {
-      "name": "Birmingham City",
-      "logo": "https://img.sofascore.com/api/v1/team/9/image"
-    },
-    "away": {
-      "name": "West Bromwich Albion",
-      "logo": "https://img.sofascore.com/api/v1/team/8/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "11-02-2026 02:45 AM",
     "endTime": "11-02-2026 05:05 AM",
     "LeagueName": "Liga Portugal 2",
@@ -675,23 +607,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 02:15 AM",
-    "endTime": "11-02-2026 04:35 AM",
-    "LeagueName": "DFB Pokal",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
-    "home": {
-      "name": "Hertha BSC",
-      "logo": "https://img.sofascore.com/api/v1/team/2528/image"
-    },
-    "away": {
-      "name": "SC Freiburg",
-      "logo": "https://img.sofascore.com/api/v1/team/2538/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 12:30 AM",
     "endTime": "11-02-2026 02:50 AM",
     "LeagueName": "CONCACAF U17 Championship",
@@ -704,7 +620,15 @@
       "name": "Dominican u17",
       "logo": "x"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "FOX SP2 FHD",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "scheme": 0,
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "LIVE",
@@ -727,65 +651,10 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 10:25 PM",
-    "endTime": "11-02-2026 12:45 AM",
-    "LeagueName": "Saudi 1st Division",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2120/image/dark",
-    "home": {
-      "name": "Al Wehda",
-      "logo": "https://img.sofascore.com/api/v1/team/32994/image"
-    },
-    "away": {
-      "name": "Al Faisaly",
-      "logo": "https://img.sofascore.com/api/v1/team/56035/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      },
-      {
-        "name": "HD ",
-        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 10:30 PM",
-    "endTime": "11-02-2026 12:50 AM",
-    "LeagueName": "Bulgarian Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/365/image/dark",
-    "home": {
-      "name": "CSKA Sofia",
-      "logo": "https://img.sofascore.com/api/v1/team/3275/image"
-    },
-    "away": {
-      "name": "FC CSKA 1948 Sofia",
-      "logo": "https://img.sofascore.com/api/v1/team/252080/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/dpdpdpqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
       },
       {
         "name": "Link 2",
-        "link": "http://205.237.107.90/hls/dpdpdpqq.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "https://usxt.bdstream.online/livehh/1968452.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -1753,7 +1622,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 12:30 AM",
     "endTime": "11-02-2026 02:41 AM",
     "LeagueName": "Romania Cup",
@@ -1766,10 +1635,22 @@
       "name": "CSC Dumbravita",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/jijijiQ.m3u8|Referer=http://www.fawanews.sc/"
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/jijijiQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 12:30 AM",
     "endTime": "11-02-2026 02:40 AM",
     "LeagueName": "Romania Cup",
@@ -1782,6 +1663,46 @@
       "name": "FC Rapid Bucuresti",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/jijiji.m3u8|Referer=http://www.fawanews.sc/"
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/jijiji.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "10-02-2026 11:30 PM",
+    "endTime": "11-02-2026 01:40 AM",
+    "LeagueName": "South Africa NedBank ",
+    "LeagueLogo": "https://img.sofascore.com/api/v1/team/213100/image",
+    "home": {
+      "name": "Polokwane",
+      "logo": "https://img.sofascore.com/api/v1/team/213100/image"
+    },
+    "away": {
+      "name": "AmaZulu",
+      "logo": "https://img.sofascore.com/api/v1/team/213100/image"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/dpdpdpqqq.m3u8|Referer=http://www.fawanews.sc/"
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/dpdpdpqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   }
 ]
