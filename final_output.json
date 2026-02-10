@@ -39,6 +39,107 @@
   },
   {
     "status": "LIVE",
+    "matchTime": "11-02-2026 02:45 AM",
+    "endTime": "11-02-2026 05:05 AM",
+    "LeagueName": "Premier League",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+    "home": {
+      "name": "West Ham United",
+      "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    },
+    "away": {
+      "name": "Manchester United",
+      "logo": "https://img.sofascore.com/api/v1/team/35/image"
+    },
+    "live_links": [
+      {
+        "name": "PEACOCK ENG FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5sbupvkhgb/out/v1/30c75927ab2f4efd9692f7257c4c5f9d/cenc.mpd",
+        "scheme": 0,
+        "api": "37ee60631a874375fbfaf9ab7b4f5067:752f036918d114f810c9e45536d9fe14",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS - FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uacaipgbsl/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd",
+        "scheme": 0,
+        "api": "80727881a3aae10159d7fa03326bc4b7:e0b20e0279e36cdace45fb801ec85e51",
+        "tokenApi": ""
+      },
+      {
+        "name": "TNT¹ SPORTS FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+        "scheme": 0,
+        "api": "d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uacaipgbsl/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd",
+        "scheme": 0,
+        "api": "80727881a3aae10159d7fa03326bc4b7:e0b20e0279e36cdace45fb801ec85e51",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic",
+        "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPANOL 🇪🇦",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=max2\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney7\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "HD TV  HD",
+        "link": "https://s3.us-east-1.amazonaws.com/yash.myvibes/manu.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "JIO HOTSTAR HD",
+        "link": "https://live-en.aisports.cc/moviebox/football001/playlist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "TV FAST",
+        "link": "https://red1.kamfir7.space/playlist/44951/load-playlist?|Referer=https://gooz.aapmains.net/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "PEACOCK HD",
+        "link": "https://7v44ol1hwge.a.trbcdn.net/pl_120/200076-6803220-1/chunklist.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SKY SPORT HD",
+        "link": "https://s3.us-east-1.amazonaws.com/yash.myvibes/manu.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:00 AM",
     "endTime": "11-02-2026 04:20 AM",
     "LeagueName": "Premier League",
@@ -118,6 +219,13 @@
       {
         "name": "SD STREAM 2",
         "link": "http://195.178.110.2/hls/RRRRR.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "ESPN BR HD",
+        "link": "https://streaming.sattvgo.com.br/ESPN_HD/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
@@ -208,6 +316,13 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      },
+      {
+        "name": "Arabic HD TV ",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/news5.livehd7.soccer\\/embed\\/1397\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
@@ -285,7 +400,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:30 AM",
     "endTime": "11-02-2026 04:50 AM",
     "LeagueName": "Coppa Italia",
@@ -298,26 +413,88 @@
       "name": "Como",
       "logo": "https://img.sofascore.com/api/v1/team/2704/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "PARAMOUNT FHD",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkceij8ffj/out/v1/4dc14270a3d64ed684cbbc2aa528963b/cenc.mpd",
+        "scheme": 0,
+        "api": "b4791ead48823ce11c7ccfe7445b3475:31ab7bf1f25e6871e8a395ca0a6c74fa",
+        "tokenApi": ""
+      },
+      {
+        "name": "FUBO SPORTS FHD",
+        "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/3w5tkrsiru/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd",
+        "scheme": 0,
+        "api": "d95f971c92791f3a18e5927010b74248:9e53f836f9bdca7865811bfb54d7b529",
+        "tokenApi": ""
+      },
+      {
+        "name": "ITALIA 1 FHD ",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest_hr.mpd",
+        "scheme": 0,
+        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+        "tokenApi": ""
+      },
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      },
+      {
+        "name": "CBS Golazo FHD ",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
+        "scheme": 0,
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "tokenApi": ""
+      },
+      {
+        "name": "Premier IRL2 FHD",
+        "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "scheme": 0,
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "tokenApi": ""
+      },
+      {
+        "name": "ZIGGO 1 FHD",
+        "link": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EqbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c%7EKZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621",
+        "scheme": 0,
+        "api": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
+        "tokenApi": ""
+      },
+      {
+        "name": "Portugal ",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv2.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "WIN SP HD",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=winsports\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "SD STREAM 1",
+        "link": "http://205.237.107.90/hls/VEEE.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SD STREAM 2",
+        "link": "https://b.rtzsa.cfd/hls/VEEE.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 02:45 AM",
-    "endTime": "11-02-2026 05:05 AM",
-    "LeagueName": "Premier League",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-    "home": {
-      "name": "West Ham United",
-      "logo": "https://img.sofascore.com/api/v1/team/37/image"
-    },
-    "away": {
-      "name": "Manchester United",
-      "logo": "https://img.sofascore.com/api/v1/team/35/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "DFB Pokal",
@@ -390,7 +567,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:30 AM",
     "endTime": "11-02-2026 04:50 AM",
     "LeagueName": "Championship",
@@ -403,36 +580,20 @@
       "name": "West Bromwich Albion",
       "logo": "https://img.sofascore.com/api/v1/team/8/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 12:30 AM",
-    "endTime": "11-02-2026 02:50 AM",
-    "LeagueName": "Serie B",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-    "home": {
-      "name": "Sampdoria",
-      "logo": "https://img.sofascore.com/api/v1/team/2711/image"
-    },
-    "away": {
-      "name": "Palermo",
-      "logo": "https://img.sofascore.com/api/v1/team/2715/image"
-    },
     "live_links": [
       {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/jijijiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
         "scheme": 0,
-        "api": "",
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "tokenApi": ""
       },
       {
-        "name": "HD ",
-        "link": "http://205.237.107.90/hls/jijijiQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "HD TV ",
+        "link": "",
         "scheme": 0,
         "api": "",
-        "tokenApi": ""
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney6\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
@@ -706,7 +867,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "Championship",
@@ -737,7 +898,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "Championship",
@@ -768,7 +929,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "League One",
@@ -799,7 +960,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "League One",
@@ -813,6 +974,13 @@
       "logo": "https://img.sofascore.com/api/v1/team/28/image"
     },
     "live_links": [
+      {
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/idt67xdnd6/out/v1/7d9b1fc7ba4744b98d785bbdc37c7f1f/cenc.mpd",
+        "scheme": 0,
+        "api": "417c4542489d044e35263ed7db9458d5:c3f12ccb5f3dd3ff08157e30bb3c8222",
+        "tokenApi": ""
+      },
       {
         "name": "Link 1",
         "link": "https://q.sdvdsokvsdv.shop/hls/DEDEDEQ.m3u8|Referer=http://www.fawanews.sc/",
@@ -830,7 +998,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "League One",
@@ -845,10 +1013,10 @@
     },
     "live_links": [
       {
-        "name": "Link 1",
-        "link": "https://q.sdvdsokvsdv.shop/hls/wawawaQQQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "PARAMOUNT+ FHD",
+        "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/su5vpwy83r/out/v1/3c41de2fefbd4f4aaa42cb2fad2f870d/cenc.mpd",
         "scheme": 0,
-        "api": "",
+        "api": "38481e7a6d07683cfcb9152fafdf9a00:345c4b8c96bfd979242a1d11a4b896cc",
         "tokenApi": ""
       },
       {
@@ -861,7 +1029,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "League Two",
@@ -892,7 +1060,7 @@
     ]
   },
   {
-    "status": "PRELIVE",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:15 AM",
     "endTime": "11-02-2026 04:35 AM",
     "LeagueName": "League Two",
@@ -923,23 +1091,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 02:30 AM",
-    "endTime": "11-02-2026 04:50 AM",
-    "LeagueName": "Scottish Premiership",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark",
-    "home": {
-      "name": "Heart of Midlothian",
-      "logo": "https://img.sofascore.com/api/v1/team/2353/image"
-    },
-    "away": {
-      "name": "Hibernian",
-      "logo": "https://img.sofascore.com/api/v1/team/2354/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:45 AM",
     "endTime": "11-02-2026 05:05 AM",
     "LeagueName": "Liga Portugal 2",
@@ -952,7 +1104,22 @@
       "name": "Sporting CP B U21",
       "logo": "https://img.sofascore.com/api/v1/team/74467/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/VEEEQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "https://raw.githubusercontent.com/cattviptv2605/sportworld/refs/heads/main/sporttv1.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -1115,7 +1282,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 02:30 AM",
     "endTime": "11-02-2026 04:45 AM",
     "LeagueName": "CONCACAF U17 Championship",
@@ -1128,29 +1295,12 @@
       "name": "Puerto Rico u17",
       "logo": "x"
     },
-    "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 12:30 AM",
-    "endTime": "11-02-2026 02:50 AM",
-    "LeagueName": "CONCACAF U17 Championship",
-    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
-    "home": {
-      "name": "USA U17",
-      "logo": "https://img.sofascore.com/api/v1/team/7424/image"
-    },
-    "away": {
-      "name": "Dominican u17",
-      "logo": "x"
-    },
     "live_links": [
       {
-        "name": "FOX SP2 FHD",
+        "name": "Link 1",
         "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-        "scheme": 0,
         "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "tokenApi": ""
+        "scheme": 0
       }
     ]
   },
@@ -2113,61 +2263,5 @@
       "logo": "https://img.sofascore.com/api/v1/team/7026/image"
     },
     "live_links": []
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 12:30 AM",
-    "endTime": "11-02-2026 02:41 AM",
-    "LeagueName": "Romania Cup",
-    "LeagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10",
-    "home": {
-      "name": "FC Arges",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
-    },
-    "away": {
-      "name": "CSC Dumbravita",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/jijijiQ.m3u8|Referer=http://www.fawanews.sc/"
-      },
-      {
-        "name": "Link 2",
-        "link": "http://205.237.107.90/hls/jijijiQ.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 12:30 AM",
-    "endTime": "11-02-2026 02:40 AM",
-    "LeagueName": "Romania Cup",
-    "LeagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10",
-    "home": {
-      "name": "CFR Cluj",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
-    },
-    "away": {
-      "name": "FC Rapid Bucuresti",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/jijiji.m3u8|Referer=http://www.fawanews.sc/"
-      },
-      {
-        "name": "Link 2",
-        "link": "http://205.237.107.90/hls/jijiji.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
   }
 ]
