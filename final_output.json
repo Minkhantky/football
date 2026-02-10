@@ -140,6 +140,13 @@
         "tokenApi": ""
       },
       {
+        "name": "TV+ HD",
+        "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3q9sfQNgbWzoG.m3u8?txSecret=2c93f7996b4a247ab3e378c92c1d0ca8&txTime=698B81A1",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
         "name": "SPORT KLUB HD",
         "link": "https://smarthard.click/hls/xP7hydjV4mwc/index.m3u8",
         "scheme": 0,
@@ -700,7 +707,7 @@
     "live_links": []
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 11:30 PM",
     "endTime": "11-02-2026 01:40 AM",
     "LeagueName": "CONCACAF U17 Championship",
@@ -713,7 +720,15 @@
       "name": "Turks Caiocos u17",
       "logo": "x"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://usxt.bdstream.online/livehh/1968452.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "LIVE",
@@ -1734,6 +1749,38 @@
     "away": {
       "name": "CSD Xelajú MC",
       "logo": "https://img.sofascore.com/api/v1/team/7026/image"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 12:30 AM",
+    "endTime": "11-02-2026 02:41 AM",
+    "LeagueName": "Romania Cup",
+    "LeagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10",
+    "home": {
+      "name": "FC Arges",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
+    },
+    "away": {
+      "name": "CSC Dumbravita",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
+    },
+    "live_links": []
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "11-02-2026 12:30 AM",
+    "endTime": "11-02-2026 02:40 AM",
+    "LeagueName": "Romania Cup",
+    "LeagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10",
+    "home": {
+      "name": "CFR Cluj",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
+    },
+    "away": {
+      "name": "FC Rapid Bucuresti",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJXxNk5x2gvLaqrHb7fc5oA9sOtx-czdem4FgqXvw74w&s=10"
     },
     "live_links": []
   }
