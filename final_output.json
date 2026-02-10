@@ -848,7 +848,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 05:30 PM",
     "endTime": "10-02-2026 07:40 PM",
     "LeagueName": "Bosnia and Herzegovina Premier League",
@@ -861,6 +861,18 @@
       "name": "Prijedor",
       "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LLLLqqqqqq.m3u8|Referer=http://www.fawanews.sc/"
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/LLLLqqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   }
 ]
