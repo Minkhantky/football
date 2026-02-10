@@ -16,7 +16,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.107.90/hls/URRR.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "Arabic ",
@@ -44,7 +47,10 @@
     "live_links": [
       {
         "name": "Link 1",
-        "link": "https://no.link"
+        "link": "http://205.237.107.90/hls/URRRQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       },
       {
         "name": "Arabic ",
@@ -56,7 +62,7 @@
     ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 08:15 PM",
     "endTime": "10-02-2026 10:35 PM",
     "LeagueName": "AFC Champions League Two",
@@ -69,7 +75,22 @@
       "name": "Al Hussein Irbid",
       "logo": "https://img.sofascore.com/api/v1/team/117204/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/URRRQQQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic. ",
+        "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -745,85 +766,29 @@
   },
   {
     "status": "LIVE",
-    "matchTime": "10-02-2026 05:00 PM",
-    "endTime": "10-02-2026 07:10 PM",
-    "LeagueName": "Azerbaijan",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+    "matchTime": "10-02-2026 07:10 PM",
+    "endTime": "10-02-2026 09:30 PM",
+    "LeagueName": "Saudi 1st Division",
+    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/2120/image/dark",
     "home": {
-      "name": "Shamakhi",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+      "name": "Al Anwar",
+      "logo": "https://img.sofascore.com/api/v1/team/853566/image"
     },
     "away": {
-      "name": "Qarabag",
-      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+      "name": "Jeddah",
+      "logo": "https://img.sofascore.com/api/v1/team/265323/image"
     },
     "live_links": [
       {
         "name": "Link 1",
-        "link": "http://205.237.107.90/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
+        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
       },
       {
-        "name": "Link 2",
-        "link": "http://205.237.107.90/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 05:00 PM",
-    "endTime": "10-02-2026 07:15 PM",
-    "LeagueName": "Friendly Match",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-    "home": {
-      "name": "AIK W",
-      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg"
-    },
-    "away": {
-      "name": "Brondby W",
-      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/LLLLqqq.m3u8|Referer=http://www.fawanews.sc/"
-      },
-      {
-        "name": "Link 2",
-        "link": "http://205.237.107.90/hls/LLLLqqq.m3u8|Referer=http://www.fawanews.sc/",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "10-02-2026 05:30 PM",
-    "endTime": "10-02-2026 07:40 PM",
-    "LeagueName": "Bosnia and Herzegovina Premier League",
-    "LeagueLogo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg",
-    "home": {
-      "name": "GOSK Gabela",
-      "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
-    },
-    "away": {
-      "name": "Prijedor",
-      "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "http://205.237.107.90/hls/LLLLqqqqqq.m3u8|Referer=http://www.fawanews.sc/"
-      },
-      {
-        "name": "Link 2",
-        "link": "http://205.237.107.90/hls/LLLLqqqqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "name": "HD ",
+        "link": "http://205.237.107.90/hls/URRRQQ.m3u8|Referer=http://www.fawanews.sc/",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
