@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 04:30 PM",
     "endTime": "10-02-2026 06:50 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -13,10 +13,32 @@
       "name": "FC Seoul",
       "logo": "https://img.sofascore.com/api/v1/team/7646/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "https://play.ltwxsc.com/live/hd-en-6MvXc3quBo3jSSXa6a.m3u8?txSecret=5bb351d2d31a5733a247c9fb97b2e5bd&txTime=698B2AE1",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b5/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "AK SPORTS ",
+        "link": "http://205.237.107.90/hls/LLLLq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "10-02-2026 04:30 PM",
     "endTime": "10-02-2026 06:50 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -29,7 +51,22 @@
       "name": "Johor Darul Ta'zim",
       "logo": "https://img.sofascore.com/api/v1/team/3327/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LLLL.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b4/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -748,6 +785,81 @@
     "away": {
       "name": "Turks Caiocos u17",
       "logo": "x"
+    },
+    "live_links": []
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "10-02-2026 05:00 PM",
+    "endTime": "10-02-2026 07:10 PM",
+    "LeagueName": "Azerbaijan",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg",
+    "home": {
+      "name": "Shamakhi",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "away": {
+      "name": "Qarabag",
+      "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/LLLLqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "LIVE",
+    "matchTime": "10-02-2026 05:00 PM",
+    "endTime": "10-02-2026 07:15 PM",
+    "LeagueName": "Friendly Match",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+    "home": {
+      "name": "AIK W",
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg"
+    },
+    "away": {
+      "name": "Brondby W",
+      "logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg"
+    },
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "http://205.237.107.90/hls/LLLLqqq.m3u8|Referer=http://www.fawanews.sc/"
+      },
+      {
+        "name": "Link 2",
+        "link": "http://205.237.107.90/hls/LLLLqqq.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
+  },
+  {
+    "status": "UPCOMING",
+    "matchTime": "10-02-2026 05:30 PM",
+    "endTime": "10-02-2026 07:40 PM",
+    "LeagueName": "Bosnia and Herzegovina Premier League",
+    "LeagueLogo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg",
+    "home": {
+      "name": "GOSK Gabela",
+      "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
+    },
+    "away": {
+      "name": "Prijedor",
+      "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
     },
     "live_links": []
   }
