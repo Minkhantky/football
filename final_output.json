@@ -1,43 +1,5 @@
 [
   {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 09:30 AM",
-    "endTime": "11-02-2026 11:50 AM",
-    "LeagueName": "CONCACAF Champions Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
-    "home": {
-      "name": "Tigres UANL",
-      "logo": "https://img.sofascore.com/api/v1/team/1940/image"
-    },
-    "away": {
-      "name": "Forge FC",
-      "logo": "https://img.sofascore.com/api/v1/team/313716/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TUDN 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "TUDN 2",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
     "status": "UPCOMING",
     "matchTime": "11-02-2026 04:30 PM",
     "endTime": "11-02-2026 06:50 PM",
