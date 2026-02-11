@@ -1,6 +1,6 @@
 [
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 04:30 PM",
     "endTime": "11-02-2026 06:50 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -13,10 +13,25 @@
       "name": "Shanghai Port",
       "logo": "https://img.sofascore.com/api/v1/team/41537/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS ",
+        "link": "http://205.237.107.90/hls/JIII.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b2/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 04:30 PM",
     "endTime": "11-02-2026 06:50 PM",
     "LeagueName": "AFC Champions League Elite",
@@ -29,7 +44,22 @@
       "name": "Melbourne City",
       "logo": "https://img.sofascore.com/api/v1/team/42210/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "AK SPORTS ",
+        "link": "http://205.237.107.90/hls/JIIIQ.m3u8|Referer=http://www.fawanews.sc/",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "Arabic ",
+        "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      }
+    ]
   },
   {
     "status": "UPCOMING",
