@@ -27,6 +27,13 @@
         "scheme": 0,
         "api": "",
         "tokenApi": ""
+      },
+      {
+        "name": "NOVA SPORT HD",
+        "link": "https://smarthard.click/hls/39LdmGJ7zULD/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
       }
     ]
   },
@@ -55,6 +62,13 @@
       {
         "name": "Arabic ",
         "link": "http://wjyrvkot.nullsignal.site/b1/index.m3u8",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": ""
+      },
+      {
+        "name": "SPORT KLUB HD",
+        "link": "https://smarthard.click/hls/WIMSZXVrGRGm/index.m3u8",
         "scheme": 0,
         "api": "",
         "tokenApi": ""
