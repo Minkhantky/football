@@ -1,75 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "11-02-2026 06:30 AM",
-    "endTime": "11-02-2026 08:50 AM",
-    "LeagueName": "Liga de Expansión MX, Clausura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11612/image/dark",
-    "home": {
-      "name": "Venados",
-      "logo": "https://img.sofascore.com/api/v1/team/36531/image"
-    },
-    "away": {
-      "name": "Cancún FC",
-      "logo": "https://img.sofascore.com/api/v1/team/354926/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "https://no.link"
-      }
-    ]
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 07:00 AM",
-    "endTime": "11-02-2026 09:20 AM",
-    "LeagueName": "CONMEBOL Libertadores",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
-    "home": {
-      "name": "Deportivo Táchira",
-      "logo": "https://img.sofascore.com/api/v1/team/6231/image"
-    },
-    "away": {
-      "name": "The Strongest",
-      "logo": "https://img.sofascore.com/api/v1/team/32529/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 07:00 AM",
-    "endTime": "11-02-2026 09:20 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Vitória",
-      "logo": "https://img.sofascore.com/api/v1/team/1962/image"
-    },
-    "away": {
-      "name": "Flamengo",
-      "logo": "https://img.sofascore.com/api/v1/team/5981/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 07:30 AM",
-    "endTime": "11-02-2026 09:50 AM",
-    "LeagueName": "CONCACAF Champions Cup",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/498/image/dark",
-    "home": {
-      "name": "Pumas UNAM",
-      "logo": "https://img.sofascore.com/api/v1/team/1933/image"
-    },
-    "away": {
-      "name": "San Diego FC",
-      "logo": "https://img.sofascore.com/api/v1/team/1043961/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
     "matchTime": "11-02-2026 08:00 AM",
     "endTime": "11-02-2026 10:20 AM",
     "LeagueName": "Primera A, Apertura",
@@ -82,10 +13,18 @@
       "name": "Deportes Tolima",
       "logo": "https://img.sofascore.com/api/v1/team/6111/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "WIN Sports FHD ",
+        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
+        "scheme": 0,
+        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
+        "tokenApi": ""
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 09:30 AM",
     "endTime": "11-02-2026 11:50 AM",
     "LeagueName": "CONCACAF Champions Cup",
@@ -98,10 +37,32 @@
       "name": "Forge FC",
       "logo": "https://img.sofascore.com/api/v1/team/313716/image"
     },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=disney3\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TUDN 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=tudn\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "TUDN 2",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
-    "status": "UPCOMING",
+    "status": "LIVE",
     "matchTime": "11-02-2026 07:30 AM",
     "endTime": "11-02-2026 09:54 AM",
     "LeagueName": "Liga MX Femenil",
@@ -114,23 +75,22 @@
       "name": "San Luis de Quillota",
       "logo": "https://img.sofascore.com/api/v1/team/39220/image"
     },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "11-02-2026 07:30 AM",
-    "endTime": "11-02-2026 09:50 AM",
-    "LeagueName": "CONCACAF U17 Championship",
-    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/32031/image",
-    "home": {
-      "name": "Panama U17",
-      "logo": "https://img.sofascore.com/api/v1/team/5164/image"
-    },
-    "away": {
-      "name": "Nicaragua U17",
-      "logo": "https://img.sofascore.com/api/v1/team/316488/image"
-    },
-    "live_links": []
+    "live_links": [
+      {
+        "name": "Link 1",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      },
+      {
+        "name": "ESPN NX",
+        "link": "",
+        "scheme": 0,
+        "api": "",
+        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      }
+    ]
   },
   {
     "status": "UPCOMING",
@@ -817,134 +777,6 @@
     "away": {
       "name": "Liverpool",
       "logo": "https://img.sofascore.com/api/v1/team/44/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 04:30 AM",
-    "endTime": "11-02-2026 06:50 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Chapecoense",
-      "logo": "https://img.sofascore.com/api/v1/team/21845/image"
-    },
-    "away": {
-      "name": "Coritiba",
-      "logo": "https://img.sofascore.com/api/v1/team/1982/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 04:30 AM",
-    "endTime": "11-02-2026 06:50 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Mirassol",
-      "logo": "https://img.sofascore.com/api/v1/team/21982/image"
-    },
-    "away": {
-      "name": "Cruzeiro",
-      "logo": "https://img.sofascore.com/api/v1/team/1954/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 04:30 AM",
-    "endTime": "11-02-2026 06:50 AM",
-    "LeagueName": "Copa Argentina",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/1024/image/dark",
-    "home": {
-      "name": "Rosario Central",
-      "logo": "https://img.sofascore.com/api/v1/team/3217/image"
-    },
-    "away": {
-      "name": "Sportivo Belgrano",
-      "logo": "https://img.sofascore.com/api/v1/team/65664/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 04:30 AM",
-    "endTime": "11-02-2026 06:50 AM",
-    "LeagueName": "Cearense",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/378/image/dark",
-    "home": {
-      "name": "AD Iguatu",
-      "logo": "https://img.sofascore.com/api/v1/team/274287/image"
-    },
-    "away": {
-      "name": "Horizonte FC",
-      "logo": "https://img.sofascore.com/api/v1/team/21968/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 04:30 AM",
-    "endTime": "11-02-2026 06:50 AM",
-    "LeagueName": "Pernambucano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/380/image/dark",
-    "home": {
-      "name": "Santa Cruz",
-      "logo": "https://img.sofascore.com/api/v1/team/1976/image"
-    },
-    "away": {
-      "name": "Náutico",
-      "logo": "https://img.sofascore.com/api/v1/team/2011/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 05:00 AM",
-    "endTime": "11-02-2026 07:20 AM",
-    "LeagueName": "Paraibano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/10295/image/dark",
-    "home": {
-      "name": "Atlético Cajazeirense",
-      "logo": "https://img.sofascore.com/api/v1/team/307368/image"
-    },
-    "away": {
-      "name": "Botafogo-PB",
-      "logo": "https://img.sofascore.com/api/v1/team/49196/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 05:30 AM",
-    "endTime": "11-02-2026 07:50 AM",
-    "LeagueName": "Brasileirão Betano",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-    "home": {
-      "name": "Atlético Mineiro",
-      "logo": "https://img.sofascore.com/api/v1/team/1977/image"
-    },
-    "away": {
-      "name": "Remo",
-      "logo": "https://img.sofascore.com/api/v1/team/2012/image"
-    },
-    "live_links": []
-  },
-  {
-    "status": "UPCOMING",
-    "matchTime": "12-02-2026 06:00 AM",
-    "endTime": "11-02-2026 08:20 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Millonarios",
-      "logo": "https://img.sofascore.com/api/v1/team/6117/image"
-    },
-    "away": {
-      "name": "Rionegro Águilas Doradas",
-      "logo": "https://img.sofascore.com/api/v1/team/48244/image"
     },
     "live_links": []
   },
