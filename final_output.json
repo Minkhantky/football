@@ -1,30 +1,6 @@
 [
   {
     "status": "LIVE",
-    "matchTime": "11-02-2026 08:00 AM",
-    "endTime": "11-02-2026 10:20 AM",
-    "LeagueName": "Primera A, Apertura",
-    "LeagueLogo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-    "home": {
-      "name": "Atlético Bucaramanga",
-      "logo": "https://img.sofascore.com/api/v1/team/6103/image"
-    },
-    "away": {
-      "name": "Deportes Tolima",
-      "logo": "https://img.sofascore.com/api/v1/team/6111/image"
-    },
-    "live_links": [
-      {
-        "name": "WIN Sports FHD ",
-        "link": "https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(WINPREMIUM)/manifest.mpd",
-        "scheme": 0,
-        "api": "f6b30a661c69b70039e4eb51247c4d10:243493e4a7fac9577326e15f0169f938",
-        "tokenApi": ""
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
     "matchTime": "11-02-2026 09:30 AM",
     "endTime": "11-02-2026 11:50 AM",
     "LeagueName": "CONCACAF Champions Cup",
@@ -58,37 +34,6 @@
         "scheme": 0,
         "api": "",
         "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=tudn_usa\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      }
-    ]
-  },
-  {
-    "status": "LIVE",
-    "matchTime": "11-02-2026 07:30 AM",
-    "endTime": "11-02-2026 09:54 AM",
-    "LeagueName": "Liga MX Femenil",
-    "LeagueLogo": "https://img.sofascore.com/api/v1/unique-tournament/13592/image",
-    "home": {
-      "name": "CF Pachuca",
-      "logo": "https://img.sofascore.com/api/v1/team/1936/image"
-    },
-    "away": {
-      "name": "San Luis de Quillota",
-      "logo": "https://img.sofascore.com/api/v1/team/39220/image"
-    },
-    "live_links": [
-      {
-        "name": "Link 1",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/streamtp10.com\\/global1.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"9HY(#b1q6\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-      },
-      {
-        "name": "ESPN NX",
-        "link": "",
-        "scheme": 0,
-        "api": "",
-        "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/la14hd.com\\/vivo\\/canales.php?stream=espnmx\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
       }
     ]
   },
